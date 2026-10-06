@@ -28,4 +28,7 @@ Up/Down or PageUp/PageDown to surf · type a channel number · G guide · E toni
 `python3 -m http.server 8000` in this folder, then open http://localhost:8000/?ch=19
 
 ## Rebuild data
-`python3 build/build.py` (run from repo root; needs network for YouTube/Spotify checks).
+`python3 build/build.py` (runs from any folder). Paths live in `build/paths.py` and come from env vars, with no machine-specific paths. Put the source exports in `data/sources/` (gitignored), or point `CFD_DATA_DIR` at the folders that hold them. See `.env.example`. `build/verify.py`, `build/plvids.py`, `build/ytemb.py`, and `build/spv.py` refresh the `verify/` snapshots and need network.
+
+## QA
+`qa/` holds the developer QA kit, run on every PR by `.github/workflows/qa.yml`. See `qa/README.md`.
