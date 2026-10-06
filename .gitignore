@@ -1,0 +1,6 @@
+.env
+build/.cache/
+build/__pycache__/
+data/sources/
+qa/node_modules/
+qa/results/

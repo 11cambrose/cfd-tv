@@ -1,7 +1,8 @@
 import json,subprocess,re
 from concurrent.futures import ThreadPoolExecutor
-inv=json.load(open('/workspace/research/products/dj-brose-radio/SPOTIFY-11BROSE-INVENTORY.json'))
-dice=json.load(open('/workspace/cfd-charge/DJ-BROSE-DICE-2026-09-24.json'))['rows']
+from paths import source, verify
+inv=json.load(open(source('SPOTIFY-11BROSE-INVENTORY.json')))
+dice=json.load(open(source('DJ-BROSE-DICE-2026-09-24.json')))['rows']
 ids={x['playlist_id'] for x in inv}
 for r in dice: ids.add(r['spotify_url'].rstrip('/').split('/')[-1].split('?')[0])
 def chk(i):
@@ -14,5 +15,5 @@ def chk(i):
 with ThreadPoolExecutor(8) as ex: res=list(ex.map(chk,sorted(ids)))
 ok={i:t for i,c,t in res if c=='200'}
 print(len(ids),'ok',len(ok)); print([r for r in res if r[1]!='200'])
-json.dump(ok,open('/tmp/sp_oembed_2026-10-06.json','w'),ensure_ascii=False,indent=0)
+json.dump(ok,open(verify('spotify-oembed'),'w'),ensure_ascii=False,indent=0)
 print(len(dice), dice[-1]['landing'])

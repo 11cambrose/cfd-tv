@@ -1,10 +1,12 @@
-"""Build /workspace/cfd-tv/channels.json and data/highlights.json from verified sources (2026-10-06)."""
+"""Build channels.json and data/highlights.json from verified sources (2026-10-06).
+
+Run from anywhere: python3 build/build.py. Paths come from build/paths.py (env-configurable)."""
 import json, csv, re, datetime
+from paths import site, verify, source
 from collections import defaultdict
-SITE='/workspace/cfd-tv'
-ver=json.load(open(f'{SITE}/verify/yt-verified-2026-10-06.json'))
-emb=json.load(open(f'{SITE}/verify/yt-oembed-2026-10-06.json'))
-spok=json.load(open(f'{SITE}/verify/spotify-oembed-2026-10-06.json'))
+ver=json.load(open(verify('yt-verified')))
+emb=json.load(open(verify('yt-oembed')))
+spok=json.load(open(verify('spotify-oembed')))
 byid={r['id']:r for r in ver}
 ACCT={'thechesszone':'@thechesszone','coachchad':'@coachchad','11cambrose':'@brosetheghost (user/11cambrose)'}
 
@@ -61,7 +63,7 @@ used={s['id'] for c in channels for s in c['sources']}
 reserve=[dict(id=r['id'],title=r['title'],account=ACCT[r['account']],listed_count=r.get('count'),embeddable_videos=len(vids(r['id']))) for r in ver if r['id'] not in used]
 
 # Spotify folder-as-channel
-inv=json.load(open('/workspace/research/products/dj-brose-radio/SPOTIFY-11BROSE-INVENTORY.json'))
+inv=json.load(open(source('SPOTIFY-11BROSE-INVENTORY.json')))
 by={x['spotify_title'].strip():x['playlist_id'] for x in inv}
 def sp(titles): return [[by[t],spok[by[t]].strip()] for t in titles if by[t] in spok]
 groups=[
@@ -82,7 +84,7 @@ allp=sorted([[i,t.strip()] for i,t in spok.items()],key=lambda x:x[1].lower())
 channels.append(dict(num=30,name='AIR Full Loop',lane=B,type='spotify',mode='hourly',playlists=allp,note='Every verified public 11brose playlist, a new one each hour on the CFD clock.'))
 for n,name,titles in groups:
     channels.append(dict(num=n,name=name,lane=B,type='spotify',mode='hourly',playlists=sp(titles),folder='provisional (grouped by playlist title; real Spotify folders not yet supplied)'))
-dice=json.load(open('/workspace/cfd-charge/DJ-BROSE-DICE-2026-09-24.json'))['rows']
+dice=json.load(open(source('DJ-BROSE-DICE-2026-09-24.json')))['rows']
 drows=[]
 for r in dice:
     i=r['spotify_url'].rstrip('/').split('/')[-1].split('?')[0]
@@ -93,23 +95,23 @@ channels.append(dict(num=43,name='DJ Brose Dice',lane=B,type='spotify',mode='dic
 H=defaultdict(lambda: defaultdict(list))
 def mmdd_from(s,fmt):
     return datetime.datetime.strptime(s,fmt).strftime('%m%d')
-for r in csv.DictReader(open('/workspace/artifacts/11brose-stories-dates-2026-10-03.csv')):
+for r in csv.DictReader(open(source('11brose-stories-dates-2026-10-03.csv'))):
     d=datetime.datetime.strptime(r['story_time'],'%b %d, %Y %I:%M %p')
     H['stories'][d.strftime('%m%d')].append([d.strftime('%Y-%m-%d %H:%M'),r['caption'].strip()])
 def igkind(u):
     m=re.search(r'instagram\.com/(p|reel|reels|tv)/([A-Za-z0-9_-]+)',u)
     return (('reel' if m.group(1) in('reel','reels') else m.group(1)),m.group(2)) if m else (None,None)
-for r in csv.DictReader(open('/workspace/artifacts/brose-almanac-thread-2026-10-03.csv')):
+for r in csv.DictReader(open(source('brose-almanac-thread-2026-10-03.csv'))):
     if r['duplicate_of_earlier']: continue
     k,code=igkind(r['url']); H['almanac'][r['send_date'][5:7]+r['send_date'][8:10]].append([r['send_date'],k or 'link',code or r['url']])
-for r in csv.DictReader(open('/workspace/artifacts/evergreen-reshare-ig-links-2026-10-03.csv')):
+for r in csv.DictReader(open(source('evergreen-reshare-ig-links-2026-10-03.csv'))):
     if r['duplicate_of_earlier'] or r['kind'] not in('post','reel','igtv'): continue
     k,code=igkind(r['url'])
     if not code: continue
     H['evergreen'][r['send_date'][5:7]+r['send_date'][8:10]].append([r['send_date'],k,code])
-idx={r['date'].replace('-',''):r for r in csv.DictReader(open('/workspace/artifacts/ledgers/TCZ-ARCHIVE-INDEX.csv'))}
+idx={r['date'].replace('-',''):r for r in csv.DictReader(open(source('TCZ-ARCHIVE-INDEX.csv')))}
 studies=defaultdict(list)
-for r in csv.DictReader(open('/workspace/artifacts/tcz-birthday-codes-2026-10-03.csv')):
+for r in csv.DictReader(open(source('tcz-birthday-codes-2026-10-03.csv'))):
     if r['status']=='published' and r['title'].strip(): studies[r['birthday'][:4]].append([r['title'].strip(),int(r['wp_id']),r['play_date']])
 tcz={}
 for k,r in idx.items():
@@ -120,7 +122,7 @@ for k,r in idx.items():
     if studies.get(k): e['born']=studies[k]
     tcz[k]=e
 rail={}
-for p in json.load(open('/workspace/artifacts/tcz-published-bodies-2026-10-03.json')):
+for p in json.load(open(source('tcz-published-bodies-2026-10-03.json'))):
     if p['date'].endswith('T04:45:00'):
         rail[p['date'][:10]]=[re.sub('<[^>]+>','',p['title']['rendered']).replace('&#8217;','’').replace('&amp;','&').replace('&#8211;','–'),p['id']]
 for n,name,lane,key,src in [(70,'Brose Stories · On This Day',B,'stories','11brose IG stories export (dates + captions)'),
@@ -147,8 +149,8 @@ out=dict(name='CFD TV',version='2026-10-06',timezone='America/Chicago',clock_anc
  verified=dict(youtube='Playlist and channel IDs read from public YouTube channel pages and confirmed by public RSS feeds on 2026-10-06; every video passed YouTube oEmbed (embeddable) on 2026-10-06.',
                spotify='All playlist IDs returned 200 from Spotify oEmbed on 2026-10-06; owner 11brose confirmed in the 2026-09-24 inventory.'),
  clock=clock,channels=channels,reserve_youtube=reserve,rail=rail,songs=songs,highlights_file='data/highlights.json')
-json.dump(out,open(f'{SITE}/channels.json','w'),ensure_ascii=False,separators=(',',':'))
-json.dump(dict(stories=H['stories'],almanac=H['almanac'],evergreen=H['evergreen'],tcz=tcz),open(f'{SITE}/data/highlights.json','w'),ensure_ascii=False,separators=(',',':'))
+json.dump(out,open(site('channels.json'),'w'),ensure_ascii=False,separators=(',',':'))
+json.dump(dict(stories=H['stories'],almanac=H['almanac'],evergreen=H['evergreen'],tcz=tcz),open(site('data','highlights.json'),'w'),ensure_ascii=False,separators=(',',':'))
 for c in channels:
     n=len(c.get('videos',c.get('playlists',c.get('dice',[]))))
     print(c['num'],c['name'],c['type'],c['lane'],n, round(sum(v[1] for v in c.get('videos',[]))/3600,1) if c['type']=='youtube' else '')

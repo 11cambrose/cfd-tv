@@ -1,6 +1,7 @@
 import json,subprocess,re,sys
-sys.path.insert(0,'/tmp'); from ytparse import walk
-ver=json.load(open('/workspace/cfd-tv/verify/yt-verified-2026-10-06.json'))
+from ytparse import walk
+from paths import verify
+ver=json.load(open(verify('yt-verified')))
 def sec(t):
     p=[int(x) for x in t.split(':')]; s=0
     for x in p: s=s*60+x
@@ -24,4 +25,4 @@ for r in ver:
             vids.append(dict(id=l['contentId'],title=t,sec=sec(b[0]) if b else 0))
     r['playlist_videos']=vids
     print(pid,len(vids),sum(1 for v in vids if v['sec']),r.get('count'),round(sum(v['sec'] for v in vids)/3600,1),'h')
-json.dump(ver,open('/workspace/cfd-tv/verify/yt-verified-2026-10-06.json','w'),indent=1)
+json.dump(ver,open(verify('yt-verified'),'w'),indent=1)
