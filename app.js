@@ -5,7 +5,9 @@ const TZ='America/Chicago';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let DATA=null,HL=null,CH=[],cur=-1,player=null,ytReady=false,muted=true,started=false,osdTimer=0,numBuf='',numTimer=0,tickTimer=0,bad=new Set();
-let ANCHOR=0,ytState='loading'; // 'loading' | 'ready' | 'blocked'
+let ANCHOR=0,ytState='loading',ytBlockReason=''; // ytState: 'loading' | 'ready' | 'blocked'; reason: 'api' | 'playback'
+let ytLoadedId=null,ytErrStreak=[]; // video the player was last asked for; IDs that errored back-to-back
+const YT_ERR_STREAK_MAX=3; // this many errors in a row with no playback = YouTube refuses embeds on this network
 const YT_TIMEOUT_MS=8000;
 
 /* ---------- Central-time helpers ---------- */
@@ -49,12 +51,23 @@ async function load(){
 function withTimeout(p,ms,what){return Promise.race([p,new Promise((_,rej)=>setTimeout(()=>rej(new Error(what+' timed out after '+ms+' ms')),ms))]);}
 function loadYT(){return withTimeout(new Promise((res,rej)=>{if(window.YT&&YT.Player)return res();window.onYouTubeIframeAPIReady=res;const s=document.createElement('script');s.src='https://www.youtube.com/iframe_api';s.onerror=()=>rej(new Error('YouTube iframe API blocked'));document.head.appendChild(s);}),YT_TIMEOUT_MS,'YouTube iframe API');}
 function makePlayer(){return withTimeout(new Promise(res=>{player=new YT.Player('yt',{width:'100%',height:'100%',playerVars:{autoplay:1,mute:1,controls:0,rel:0,playsinline:1,modestbranding:1,iv_load_policy:3,disablekb:1},
-  events:{onReady:()=>{ytReady=true;res();},onStateChange:e=>{if(e.data===0)tune(cur,true);},onError:e=>{const c=CH[cur];if(c&&c.type==='youtube'){const a=ytAt(c,Date.now());if(a){bad.add(a.video[0]);}tune(cur,true);}}}});}),YT_TIMEOUT_MS,'YouTube player');}
+  events:{onReady:()=>{ytReady=true;res();},onStateChange:onYTState,onError:onYTError}});}),YT_TIMEOUT_MS,'YouTube player');}
+function onYTState(e){if(e.data===1)ytErrStreak=[];else if(e.data===0)tune(cur,true);} // 1 PLAYING resets the error streak, 0 ENDED moves on
+function onYTError(e){ // e.data: 2 bad id, 5 html5, 100 removed/private, 101/150 embedding refused
+  const c=CH[cur];if(!c||c.type!=='youtube')return;
+  const id=ytLoadedId||((ytAt(c,Date.now())||{}).video||[])[0];if(!id)return;
+  ytErrStreak.push(id);bad.add(id);
+  if(ytErrStreak.length>=YT_ERR_STREAK_MAX){ // not one dead video: YouTube is refusing playback here. Un-ban the streak, show the link-out card.
+    for(const x of ytErrStreak)bad.delete(x);ytErrStreak=[];ytState='blocked';ytBlockReason='playback';
+    document.documentElement.classList.add('yt-blocked');console.warn('YouTube refused',YT_ERR_STREAK_MAX,'videos in a row (last code',e&&e.data,'); showing link-out cards');}
+  tune(cur,true);}
 function ytBlockedCard(c,a,now){const card=$('#card');card.className=c.lane+' blocked';card.hidden=false;
-  const v=a.video,watch=`https://www.youtube.com/watch?v=${encodeURIComponent(v[0])}&t=${Math.floor(a.offset)}s`;
   const src=(c.sources||[])[0];
-  card.innerHTML=`<h2>${esc(c.name)}</h2><p class="blocked-msg" role="status"><b>YouTube is blocked on this network.</b> The guide, the Tonight grid and the Spotify and highlight channels still work.</p>`+
-    `<p>On now: <a class="watch" href="${esc(watch)}" target="_blank" rel="noopener">${esc(v[2])} — open on YouTube ↗</a> <span class="muted">(${hm((a.end-now)/1000)} left)</span></p>`+
+  const why=ytBlockReason==='playback'?'<b>YouTube isn\'t playing embedded videos on this network.</b>':'<b>YouTube is blocked on this network.</b>';
+  let onNow='';
+  if(a){const v=a.video,watch=`https://www.youtube.com/watch?v=${encodeURIComponent(v[0])}&t=${Math.floor(a.offset)}s`;
+    onNow=`<p>On now: <a class="watch" href="${esc(watch)}" target="_blank" rel="noopener">${esc(v[2])} — open on YouTube ↗</a> <span class="muted">(${hm((a.end-now)/1000)} left)</span></p>`;}
+  card.innerHTML=`<h2>${esc(c.name)}</h2><p class="blocked-msg" role="status">${why} The guide, the Tonight grid and the Spotify and highlight channels still work.</p>`+onNow+
     (src&&src.url?`<p class="muted">Channel source: <a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)}</a></p>`:'')+
     `<p class="muted">Try another channel with CH ▲ ▼, or open CFD TV on a home network or phone data.</p>`;}
 
@@ -70,9 +83,10 @@ function tune(i,quiet){
   document.querySelectorAll('.lane li').forEach(li=>li.classList.toggle('on',+li.dataset.n===c.num));
   if(c.type==='youtube'){
     const a=ytAt(c,now);hideAll();
-    if(ytState==='blocked'){ytBlockedCard(c,a,now);showOSD(c,'YouTube blocked on this network · open on YouTube');}
+    if(ytState==='blocked'){ytBlockedCard(c,a,now);showOSD(c,(ytBlockReason==='playback'?'YouTube not playing here':'YouTube blocked on this network')+' · open on YouTube');}
+    else if(!a){noVideosCard(c);showOSD(c,'No playable videos on this channel right now');}
     else{$('#ytwrap').style.visibility='visible';
-      if(ytReady){player.loadVideoById({videoId:a.video[0],startSeconds:Math.floor(a.offset)});if(muted)player.mute();else player.unMute();}
+      if(ytReady){ytLoadedId=a.video[0];player.loadVideoById({videoId:a.video[0],startSeconds:Math.floor(a.offset)});if(muted)player.mute();else player.unMute();}
       showOSD(c,`${a.video[2]} · ${hm((a.end-now)/1000)} left${ytState==='loading'?' · loading player…':''}`);}
   } else if(c.type==='spotify'){
     hideAll();let p,note;const t=ct();
@@ -83,6 +97,10 @@ function tune(i,quiet){
     showOSD(c,`${p[1]} · ${note}`);
   } else { hideAll();renderHighlight(c);showOSD(c,'Born on this day · '+ct().mmdd.slice(0,2)+'/'+ct().mmdd.slice(2)); }
 }
+function noVideosCard(c){const card=$('#card');card.className=c.lane+' blocked';card.hidden=false;const src=(c.sources||[])[0];
+  card.innerHTML=`<h2>${esc(c.name)}</h2><p class="blocked-msg" role="status"><b>No playable videos on this channel right now.</b> Every video in its rotation failed to load here.</p>`+
+    (src&&src.url?`<p><a class="watch" href="${esc(src.url)}" target="_blank" rel="noopener">Open ${esc(src.title||'the channel')} on YouTube ↗</a></p>`:'')+
+    `<p class="muted">Try another channel with CH ▲ ▼.</p>`;}
 function surf(d){tune(cur+d);}
 function goNum(n){const i=CH.findIndex(c=>c.num===n);if(i>=0)tune(i);else{const e=$('#numEntry');e.textContent=n+' —';e.hidden=false;setTimeout(()=>e.hidden=true,900);}}
 
@@ -192,5 +210,5 @@ function tick(){const t=ct();const d=new Date();$('#clock').textContent=fmtTime(
   catch(e){ytState='blocked';document.documentElement.classList.add('yt-blocked');console.warn('YouTube unavailable, showing link-out cards:',e.message);}
   if(started){const n=parseInt(q.get('ch')||'19',10);const i=CH.findIndex(c=>c.num===n);tune(cur>=0?cur:(i>=0?i:0),true);}
 })();
-window.CFDTV={ct,ctTimeToDate,get ytState(){return ytState;},ytAt,spHourly,forecast,get data(){return DATA;},get channels(){return CH;},tune,goNum};
+window.CFDTV={ct,ctTimeToDate,get ytState(){return ytState;},get ytBlockReason(){return ytBlockReason;},get badCount(){return bad.size;},ytAt,spHourly,forecast,get data(){return DATA;},get channels(){return CH;},tune,goNum};
 })();

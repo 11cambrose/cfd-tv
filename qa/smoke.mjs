@@ -11,15 +11,22 @@ const knIdx = process.argv.indexOf('--known'); const KNOWN = knIdx > 0 ? JSON.pa
 const outIdx = process.argv.indexOf('--out'); const OUT = outIdx > 0 ? process.argv[outIdx + 1] : null;
 const results = []; const rec = (name, pass, detail = '') => { const known = !pass && KNOWN[name]; results.push({ name, pass: !!pass, known: known || undefined, detail: String(detail) }); console.log(`${pass ? 'PASS' : known ? 'KNOWN' : 'FAIL'}  ${name}${detail ? '  — ' + detail : ''}${known ? '  [known: ' + known + ']' : ''}`); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
+// Fake YouTube IFrame API for deterministic error tests (GitHub runners can get every embed refused).
+// failFirst = how many loadVideoById calls error (code 150) before videos start "playing".
+const ytStub = failFirst => `window.YT={PlayerState:{ENDED:0,PLAYING:1},Player:function(id,o){const ev=o.events||{},me=this;let n=0;
+  const el=document.getElementById(id),f=document.createElement('iframe');f.title='YouTube video player';f.id=id;el.replaceWith(f);
+  me.loadVideoById=function(v){me.v=v.videoId;const k=n++;setTimeout(()=>{if(k<${failFirst})ev.onError&&ev.onError({data:150,target:me});else ev.onStateChange&&ev.onStateChange({data:1,target:me});},30);};
+  me.mute=me.unMute=me.pauseVideo=function(){};me.getVideoData=function(){return null;};setTimeout(()=>ev.onReady&&ev.onReady({target:me}),50);}};
+  setTimeout(()=>window.onYouTubeIframeAPIReady&&window.onYouTubeIframeAPIReady(),10);`;
 const THIRD = /youtube\.com|ytimg|googlevideo|spotify\.com|scdn\.co|instagram\.com|cdninstagram|doubleclick|google/;
 
 const browser = await puppeteer.launch({ executablePath: process.env.CHROME_PATH || '/usr/bin/google-chrome', headless: 'new', args: ['--no-sandbox', '--autoplay-policy=no-user-gesture-required', '--mute-audio'] });
-async function open(path, { mobile = false, tz = null, hangYT = false } = {}) {
+async function open(path, { mobile = false, tz = null, hangYT = false, ytFail = null } = {}) {
   const page = await browser.newPage(); const errs = []; const reqs = [];
   page.on('pageerror', e => errs.push('pageerror: ' + e.message));
   page.on('console', m => { if (m.type() === 'error' && !THIRD.test(m.location()?.url || '')) errs.push('console: ' + m.text()); });
   await page.setRequestInterception(true);
-  page.on('request', r => { const u = r.url(); if (hangYT && /youtube\.com\/iframe_api/.test(u)) { reqs.push({ u, hung: true }); return; } if (BLOCK && THIRD.test(u)) { reqs.push({ u, blocked: true }); return r.abort('blockedbyclient'); } reqs.push({ u }); r.continue(); });
+  page.on('request', r => { const u = r.url(); if (ytFail !== null && /youtube\.com\/iframe_api/.test(u)) return r.respond({ status: 200, contentType: 'text/javascript', body: ytStub(ytFail) }); if (ytFail !== null && THIRD.test(u)) return r.abort('blockedbyclient'); if (hangYT && /youtube\.com\/iframe_api/.test(u)) { reqs.push({ u, hung: true }); return; } if (BLOCK && THIRD.test(u)) { reqs.push({ u, blocked: true }); return r.abort('blockedbyclient'); } reqs.push({ u }); r.continue(); });
   if (tz) await page.emulateTimezone(tz);
   if (mobile) { await page.setViewport({ width: 390, height: 844, deviceScaleFactor: 3, isMobile: true, hasTouch: true }); await page.setUserAgent('Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1'); }
   else await page.setViewport({ width: 1440, height: 900 });
@@ -94,6 +101,19 @@ try {
     rec(`deep link ${q} → CH ${want}`, o.num === want, `${o.num} ${o.name}; splash: "${hint}"`); await page.close(); }
   ({ page } = await open('/?epg')); await sleep(800); rec('deep link ?epg opens Tonight grid on load', await visible(page, '#epg')); await page.close();
   ({ page } = await open('/?ch=19')); await sleep(500); const hint = await page.$eval('#splash p', p => p.textContent); rec('deep link ?ch=19 shows "Channel 19 is waiting" on splash', /Channel 19 is waiting/.test(hint), hint); await page.close();
+  { // YouTube API loads but embeds error (stubbed): one dead video is skipped; a refusal streak flips to the link-out card; no JS errors
+    let sp, se; ({ page: sp, errs: se } = await open('/?ch=19', { ytFail: 1 })); await sp.click('#btnStart'); await sleep(1500);
+    const one = await sp.evaluate(() => ({ state: window.CFDTV.ytState, bad: window.CFDTV.badCount, card: !document.querySelector('#card').hidden }));
+    rec('yt errors: one dead video is skipped, player keeps going', one.state === 'ready' && one.bad === 1 && !one.card && se.length === 0, JSON.stringify({ ...one, errs: se }));
+    await sp.close();
+    ({ page: sp, errs: se } = await open('/?ch=8', { ytFail: 999 })); await sp.click('#btnStart'); await sleep(1500);
+    const few = await sp.evaluate(() => ({ state: window.CFDTV.ytState, text: document.querySelector('#card').hidden ? '' : document.querySelector('#card').innerText.slice(0, 70) }));
+    rec('yt errors: channel whose every video fails shows "No playable videos" card, no crash', /No playable videos/.test(few.text) && se.length === 0, JSON.stringify({ ...few, errs: se.slice(0, 2) }));
+    await sp.keyboard.press('ArrowDown'); await sleep(400); await sp.keyboard.press('ArrowDown'); await sleep(1500);
+    const all = await sp.evaluate(() => ({ state: window.CFDTV.ytState, reason: window.CFDTV.ytBlockReason, bad: window.CFDTV.badCount, text: document.querySelector('#card').hidden ? '' : document.querySelector('#card').innerText.slice(0, 80) }));
+    rec('yt errors: refusal streak flips to "not playing embedded videos" card and un-bans the streak', all.state === 'blocked' && all.reason === 'playback' && /isn.t playing embedded videos/.test(all.text) && se.length === 0, JSON.stringify({ ...all, errs: se.slice(0, 2) }));
+    await sp.close();
+  }
   if (BLOCK) { // black-holed YouTube (request never answers): player script must time out, not hang forever
     let hp; ({ page: hp } = await open('/?ch=19&epg', { hangYT: true })); await sleep(500);
     const early = await hp.evaluate(() => ({ epg: !document.querySelector('#epg').hidden, guideItems: document.querySelectorAll('.lane li').length }));
