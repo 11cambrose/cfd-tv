@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>CFD TV · Coffee for Dessert channel surfer</title>
+<meta name="description" content="CFD TV: a 24/7 channel-surfing guide for The Chess Zone, Coach Chad and Brose / Coffee for Dessert.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22%3E%3Crect width=%2216%22 height=%2212%22 y=%222%22 rx=%222%22 fill=%22%23c8946a%22/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <header id="topbar">
+    <div class="brand">CFD<span>TV</span></div>
+    <div id="clock" aria-live="polite">--:-- CT</div>
+    <nav class="topnav">
+      <button id="btnGuide" title="Guide (G)">Guide</button>
+      <button id="btnEpg" title="Tonight (E)">Tonight</button>
+      <button id="btnMute" title="Mute (M)">Sound off</button>
+    </nav>
+  </header>
+
+  <main id="tv">
+    <div id="screen">
+      <div id="ytwrap"><div id="yt"></div></div>
+      <iframe id="spot" title="Spotify player" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" hidden></iframe>
+      <div id="card" hidden></div>
+      <div id="static" aria-hidden="true"></div>
+      <div id="osd">
+        <div class="osd-num" id="osdNum">--</div>
+        <div class="osd-body">
+          <div class="osd-lane" id="osdLane"></div>
+          <div class="osd-name" id="osdName">CFD TV</div>
+          <div class="osd-now" id="osdNow"></div>
+        </div>
+      </div>
+      <div id="numEntry" hidden></div>
+      <div id="splash">
+        <div class="splash-inner">
+          <div class="brand big">CFD<span>TV</span></div>
+          <p>Two lanes, one clock. The Chess Zone and Coach Chad on the board. Brose and Coffee for Dessert on the air.</p>
+          <button id="btnStart">Tune in</button>
+          <p class="hint">↑ ↓ to surf · type a number · G guide · E tonight · M sound</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="remote">
+      <button id="chUp" aria-label="Channel up">CH ▲</button>
+      <button id="chDown" aria-label="Channel down">CH ▼</button>
+      <button id="btnPad" aria-label="Number pad">123</button>
+    </div>
+    <div id="pad" hidden>
+      <div class="pad-grid"></div>
+    </div>
+  </main>
+
+  <section id="guide" class="panel" hidden>
+    <div class="panel-head"><h2>Guide</h2><button class="close" data-close="guide">✕</button></div>
+    <div class="lanes">
+      <div class="lane lane-zone"><h3>Coach Chad / The Chess Zone</h3><ol id="laneZone"></ol></div>
+      <div class="lane lane-brose"><h3>Brose / Coffee for Dessert</h3><ol id="laneBrose"></ol></div>
+    </div>
+  </section>
+
+  <section id="epg" class="panel" hidden>
+    <div class="panel-head"><h2>Tonight on CFD <small id="epgDate"></small></h2><button class="close" data-close="epg">✕</button></div>
+    <div id="dayclock"></div>
+    <div id="nowcard"></div>
+    <h3 class="grid-title">Next three hours</h3>
+    <div id="grid"></div>
+  </section>
+
+  <footer id="foot">Every title links back to its source. YouTube and Spotify play their own ads. Times are Central (America/Chicago).</footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
