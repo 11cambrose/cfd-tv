@@ -1,0 +1,7342 @@
+[
+ {
+  "account": "thechesszone",
+  "kind": "uploads",
+  "id": "UUUJNrSwx1a7mm3En5oaYc_w",
+  "channel_id": "UCUJNrSwx1a7mm3En5oaYc_w",
+  "title": "THE CHESS ZONE",
+  "feed_title": "THE CHESS ZONE",
+  "videos": [
+   "ikkIhY9Wilg",
+   "XSCAgMXPW4Y",
+   "I3v4y0zKtOc"
+  ],
+  "video_titles": [
+   "WELCOME TO THE CHESS ZONE",
+   "The Chess Zone Coaching Series: AAA, Episode 1",
+   "the chesszone IG series, episode 1"
+  ],
+  "playlist_videos": [
+   {
+    "id": "ikkIhY9Wilg",
+    "title": "WELCOME TO THE CHESS ZONE",
+    "sec": 139
+   },
+   {
+    "id": "XSCAgMXPW4Y",
+    "title": "The Chess Zone Coaching Series: AAA, Episode 1",
+    "sec": 769
+   },
+   {
+    "id": "I3v4y0zKtOc",
+    "title": "the chesszone IG series, episode 1",
+    "sec": 1620
+   }
+  ]
+ },
+ {
+  "account": "thechesszone",
+  "kind": "playlist",
+  "id": "PLabnUKD767oGCPeccq77mpLOqIMivOPve",
+  "channel_id": "UCUJNrSwx1a7mm3En5oaYc_w",
+  "title": "GETTING STARTED in THE CHESS ZONE",
+  "count": "1",
+  "feed_title": "GETTING STARTED in THE CHESS ZONE",
+  "videos": [
+   "ikkIhY9Wilg"
+  ],
+  "video_titles": [
+   "WELCOME TO THE CHESS ZONE"
+  ],
+  "playlist_videos": [
+   {
+    "id": "ikkIhY9Wilg",
+    "title": "WELCOME TO THE CHESS ZONE",
+    "sec": 139
+   }
+  ]
+ },
+ {
+  "account": "thechesszone",
+  "kind": "playlist",
+  "id": "PLabnUKD767oGi81wMyC7NRQtRMs0BJ7-V",
+  "channel_id": "UCUJNrSwx1a7mm3En5oaYc_w",
+  "title": "the.chesszone IG series",
+  "count": "1",
+  "feed_title": "the.chesszone IG series",
+  "videos": [
+   "I3v4y0zKtOc"
+  ],
+  "video_titles": [
+   "the chesszone IG series, episode 1"
+  ],
+  "playlist_videos": [
+   {
+    "id": "I3v4y0zKtOc",
+    "title": "the chesszone IG series, episode 1",
+    "sec": 1620
+   }
+  ]
+ },
+ {
+  "account": "thechesszone",
+  "kind": "playlist",
+  "id": "PLabnUKD767oEUSa2ZDj4o_xAhEPe4hY8X",
+  "channel_id": "UCUJNrSwx1a7mm3En5oaYc_w",
+  "title": "Coaching Series AAA",
+  "count": "1",
+  "feed_title": "Coaching Series AAA",
+  "videos": [
+   "XSCAgMXPW4Y"
+  ],
+  "video_titles": [
+   "The Chess Zone Coaching Series: AAA, Episode 1"
+  ],
+  "playlist_videos": [
+   {
+    "id": "XSCAgMXPW4Y",
+    "title": "The Chess Zone Coaching Series: AAA, Episode 1",
+    "sec": 769
+   }
+  ]
+ },
+ {
+  "account": "coachchad",
+  "kind": "uploads",
+  "id": "UUrt_o8hPXmUHPB6JvQRqb6w",
+  "channel_id": "UCrt_o8hPXmUHPB6JvQRqb6w",
+  "title": "Coach Chad",
+  "feed_title": "Coach Chad",
+  "videos": [
+   "i5oIImwEwWw",
+   "AYrHcBGw3po",
+   "QNjWCFGzm-o",
+   "muhWmVlkooc",
+   "UKoMeNHZQc4",
+   "7oJ-PQw9dKE",
+   "halPIycsC6Y",
+   "Fd5-NdxTP3w"
+  ],
+  "video_titles": [
+   "[ICYMI] International Chess Day w/ Coach Chad - The Chess Zone - July 20, 2026",
+   "Let's Go Chessboxing, Coach Chad Approves, Team USA - Go for Gold!!",
+   "Coach Chad fails to calculate for the wind?!",
+   "A Beautiful Night for Some Chess",
+   "The Excitement for Chess Boxing is real in Austin Texas!",
+   "[TCZ] ChessGPT | Blitz Review with Coach Chad | CFD_CC_06.28.2022",
+   "[TCZ] Back to Basics with COACH CHAD",
+   "[TCZ] Staying Sharper than your Average Patzer with COACH CHAD"
+  ],
+  "playlist_videos": [
+   {
+    "id": "i5oIImwEwWw",
+    "title": "[ICYMI] International Chess Day w/ Coach Chad - The Chess Zone - July 20, 2026",
+    "sec": 1518
+   },
+   {
+    "id": "AYrHcBGw3po",
+    "title": "Let's Go Chessboxing, Coach Chad Approves, Team USA - Go for Gold!!",
+    "sec": 58
+   },
+   {
+    "id": "QNjWCFGzm-o",
+    "title": "Coach Chad fails to calculate for the wind?!",
+    "sec": 20
+   },
+   {
+    "id": "muhWmVlkooc",
+    "title": "A Beautiful Night for Some Chess",
+    "sec": 19
+   },
+   {
+    "id": "UKoMeNHZQc4",
+    "title": "The Excitement for Chess Boxing is real in Austin Texas!",
+    "sec": 52
+   },
+   {
+    "id": "7oJ-PQw9dKE",
+    "title": "[TCZ] ChessGPT | Blitz Review with Coach Chad | CFD_CC_06.28.2022",
+    "sec": 4208
+   },
+   {
+    "id": "halPIycsC6Y",
+    "title": "[TCZ] Back to Basics with COACH CHAD",
+    "sec": 1388
+   },
+   {
+    "id": "Fd5-NdxTP3w",
+    "title": "[TCZ] Staying Sharper than your Average Patzer with COACH CHAD",
+    "sec": 1110
+   }
+  ]
+ },
+ {
+  "account": "coachchad",
+  "kind": "playlist",
+  "id": "PLUFMB_6rN1rY",
+  "channel_id": "UCrt_o8hPXmUHPB6JvQRqb6w",
+  "title": "[TCZ] Training in Public",
+  "count": "5",
+  "feed_title": "[TCZ] Training in Public",
+  "videos": [
+   "i5oIImwEwWw",
+   "AYrHcBGw3po",
+   "QNjWCFGzm-o",
+   "muhWmVlkooc",
+   "UKoMeNHZQc4"
+  ],
+  "video_titles": [
+   "[ICYMI] International Chess Day w/ Coach Chad - The Chess Zone - July 20, 2026",
+   "Let's Go Chessboxing, Coach Chad Approves, Team USA - Go for Gold!!",
+   "Coach Chad fails to calculate for the wind?!",
+   "A Beautiful Night for Some Chess",
+   "The Excitement for Chess Boxing is real in Austin Texas!"
+  ],
+  "playlist_videos": [
+   {
+    "id": "i5oIImwEwWw",
+    "title": "[ICYMI] International Chess Day w/ Coach Chad - The Chess Zone - July 20, 2026",
+    "sec": 1518
+   },
+   {
+    "id": "AYrHcBGw3po",
+    "title": "Let's Go Chessboxing, Coach Chad Approves, Team USA - Go for Gold!!",
+    "sec": 58
+   },
+   {
+    "id": "QNjWCFGzm-o",
+    "title": "Coach Chad fails to calculate for the wind?!",
+    "sec": 20
+   },
+   {
+    "id": "muhWmVlkooc",
+    "title": "A Beautiful Night for Some Chess",
+    "sec": 19
+   },
+   {
+    "id": "UKoMeNHZQc4",
+    "title": "The Excitement for Chess Boxing is real in Austin Texas!",
+    "sec": 52
+   }
+  ]
+ },
+ {
+  "account": "coachchad",
+  "kind": "playlist",
+  "id": "PLCjDJBgXzeJ_BMpid2nVAs3wb26CUATLD",
+  "channel_id": "UCrt_o8hPXmUHPB6JvQRqb6w",
+  "title": "[TCZ] COACH CHAD'S CHESS ESSENTIALS",
+  "count": "1",
+  "feed_title": "[TCZ] COACH CHAD'S CHESS ESSENTIALS",
+  "videos": [
+   "halPIycsC6Y"
+  ],
+  "video_titles": [
+   "[TCZ] Back to Basics with COACH CHAD"
+  ],
+  "playlist_videos": [
+   {
+    "id": "halPIycsC6Y",
+    "title": "[TCZ] Back to Basics with COACH CHAD",
+    "sec": 1388
+   }
+  ]
+ },
+ {
+  "account": "coachchad",
+  "kind": "playlist",
+  "id": "PLCjDJBgXzeJ_zxQh0NXt2pwODNvfDFyFc",
+  "channel_id": "UCrt_o8hPXmUHPB6JvQRqb6w",
+  "title": "[TCZ] CHESS INSTRUCTOR, COACH CHAD",
+  "count": "3",
+  "feed_title": "[TCZ] CHESS INSTRUCTOR, COACH CHAD",
+  "videos": [
+   "Fd5-NdxTP3w",
+   "7oJ-PQw9dKE",
+   "i5oIImwEwWw"
+  ],
+  "video_titles": [
+   "[TCZ] Staying Sharper than your Average Patzer with COACH CHAD",
+   "[TCZ] ChessGPT | Blitz Review with Coach Chad | CFD_CC_06.28.2022",
+   "[ICYMI] International Chess Day w/ Coach Chad - The Chess Zone - July 20, 2026"
+  ],
+  "playlist_videos": [
+   {
+    "id": "Fd5-NdxTP3w",
+    "title": "[TCZ] Staying Sharper than your Average Patzer with COACH CHAD",
+    "sec": 1110
+   },
+   {
+    "id": "7oJ-PQw9dKE",
+    "title": "[TCZ] ChessGPT | Blitz Review with Coach Chad | CFD_CC_06.28.2022",
+    "sec": 4208
+   },
+   {
+    "id": "i5oIImwEwWw",
+    "title": "[ICYMI] International Chess Day w/ Coach Chad - The Chess Zone - July 20, 2026",
+    "sec": 1518
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "uploads",
+  "id": "UUHp4nhbMynPwl_cP1Lc9PNA",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "brosetheghost",
+  "feed_title": "brosetheghost",
+  "videos": [
+   "WpwTczznblc",
+   "QTx6L4sdqxA",
+   "fEBXdjc1-74",
+   "uweeEdiHiL4",
+   "t6RUbnGr-qk",
+   "jH9A5DUqi4k",
+   "ll_bVVeezdU",
+   "uwBj_GgDWWA",
+   "iUGldZX1zT4",
+   "e_bZFbX_gCU",
+   "l4ie10ulRmg",
+   "UfuSgRjUIl0"
+  ],
+  "video_titles": [
+   "Chess Tactics And Checkmates, Coach Chad's 2026 Summer Camp Recap",
+   "Coinhall TA for the LUNATICs -- October 19th 2021",
+   "Terra Chess - Grand Vision",
+   "The Chess Review with Coach Chad: Week of October 11",
+   "The Chess Review with Coach Chad: Week of October 4th",
+   "Keep Me Alive - Mac Miller - The Jukebox",
+   "Leafly Host Submission - Brose",
+   "Plant Life",
+   "Blitz Battles: When Black Attacks, with Coach Chad",
+   "Chess Blitz Battle: Blunder Police Part 1",
+   "Kings Gambit with Commentary",
+   "Lunch Break Lectures with Brose"
+  ],
+  "playlist_videos": [
+   {
+    "id": "WpwTczznblc",
+    "title": "Chess Tactics And Checkmates, Coach Chad's 2026 Summer Camp Recap",
+    "sec": 530
+   },
+   {
+    "id": "QTx6L4sdqxA",
+    "title": "Coinhall TA for the LUNATICs -- October 19th 2021",
+    "sec": 1491
+   },
+   {
+    "id": "fEBXdjc1-74",
+    "title": "Terra Chess - Grand Vision",
+    "sec": 2169
+   },
+   {
+    "id": "uweeEdiHiL4",
+    "title": "The Chess Review with Coach Chad: Week of October 11",
+    "sec": 297
+   },
+   {
+    "id": "t6RUbnGr-qk",
+    "title": "The Chess Review with Coach Chad: Week of October 4th",
+    "sec": 201
+   },
+   {
+    "id": "jH9A5DUqi4k",
+    "title": "Keep Me Alive - Mac Miller - The Jukebox",
+    "sec": 251
+   },
+   {
+    "id": "ll_bVVeezdU",
+    "title": "Leafly Host Submission - Brose",
+    "sec": 65
+   },
+   {
+    "id": "uwBj_GgDWWA",
+    "title": "Plant Life",
+    "sec": 368
+   },
+   {
+    "id": "iUGldZX1zT4",
+    "title": "Blitz Battles: When Black Attacks, with Coach Chad",
+    "sec": 788
+   },
+   {
+    "id": "e_bZFbX_gCU",
+    "title": "Chess Blitz Battle: Blunder Police Part 1",
+    "sec": 572
+   },
+   {
+    "id": "l4ie10ulRmg",
+    "title": "Kings Gambit with Commentary",
+    "sec": 458
+   },
+   {
+    "id": "UfuSgRjUIl0",
+    "title": "Lunch Break Lectures with Brose",
+    "sec": 5355
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLezlvhH_Xkck",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "What the Funk",
+  "count": "11",
+  "feed_title": "What the Funk",
+  "videos": [
+   "Z0f1szlfFYk",
+   "S7ZnZjJC4LE",
+   "jBtqgiiBnjk",
+   "_QqXxuN-YqA",
+   "MFBOtWq7dsE",
+   "Q6yJccvSpKA",
+   "Ay7weD1BCN8",
+   "o9zZ4Gj75xs",
+   "z2elCecayy0",
+   "j3hytiI2BvA",
+   "7SYcWjE2ho4"
+  ],
+  "video_titles": [
+   "This playlist came from another timeline",
+   "PS1 Style Atmospheric Drum &amp; Bass | Intelligent DnB | Jungle Wizards",
+   "this is what 1999 felt like",
+   "remember when lofi hip-hop still sounded real.",
+   "wind96 - Plume Valley",
+   "Psychedelic swamp rock-blues trip | Dark mystic ambient groove mix",
+   "Unselected Ambient Works - Aphex Twin",
+   "Windows96 : One Hundred Mornings",
+   "Early Ambient Dub Mixtape (~1995)",
+   "This Playlist Shouldn't Exist",
+   "May The Funk Be With You"
+  ],
+  "playlist_videos": [
+   {
+    "id": "Z0f1szlfFYk",
+    "title": "This playlist came from another timeline",
+    "sec": 3601
+   },
+   {
+    "id": "S7ZnZjJC4LE",
+    "title": "PS1 Style Atmospheric Drum & Bass | Intelligent DnB | Jungle Wizards",
+    "sec": 4663
+   },
+   {
+    "id": "jBtqgiiBnjk",
+    "title": "this is what 1999 felt like",
+    "sec": 3672
+   },
+   {
+    "id": "_QqXxuN-YqA",
+    "title": "remember when lofi hip-hop still sounded real.",
+    "sec": 3677
+   },
+   {
+    "id": "MFBOtWq7dsE",
+    "title": "wind96 - Plume Valley",
+    "sec": 2306
+   },
+   {
+    "id": "Q6yJccvSpKA",
+    "title": "Psychedelic swamp rock-blues trip | Dark mystic ambient groove mix",
+    "sec": 3673
+   },
+   {
+    "id": "Ay7weD1BCN8",
+    "title": "Unselected Ambient Works - Aphex Twin",
+    "sec": 8115
+   },
+   {
+    "id": "o9zZ4Gj75xs",
+    "title": "Windows96 : One Hundred Mornings",
+    "sec": 1924
+   },
+   {
+    "id": "j3hytiI2BvA",
+    "title": "This Playlist Shouldn't Exist",
+    "sec": 4517
+   },
+   {
+    "id": "7SYcWjE2ho4",
+    "title": "May The Funk Be With You",
+    "sec": 4575
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauojGCv5wxhNe3Oy9qSOk1_i2",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "CoffeeForDessert",
+  "count": "3",
+  "feed_title": "CoffeeForDessert",
+  "videos": [
+   "WpwTczznblc",
+   "i5oIImwEwWw"
+  ],
+  "video_titles": [
+   "Chess Tactics And Checkmates, Coach Chad's 2026 Summer Camp Recap",
+   "[ICYMI] International Chess Day w/ Coach Chad - The Chess Zone - July 20, 2026"
+  ],
+  "playlist_videos": [
+   {
+    "id": "WpwTczznblc",
+    "title": "Chess Tactics And Checkmates, Coach Chad's 2026 Summer Camp Recap",
+    "sec": 530
+   },
+   {
+    "id": "i5oIImwEwWw",
+    "title": "[ICYMI] International Chess Day w/ Coach Chad - The Chess Zone - July 20, 2026",
+    "sec": 1518
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauojPTW56_UaW5Py88mk3m_Hh",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Collusion",
+  "count": "44",
+  "feed_title": "Collusion",
+  "videos": [
+   "U2fYcHLouXY",
+   "mJhJ6hks0Jg",
+   "tncQ_gVEsh0",
+   "Gdd7dtDaYmM",
+   "PlJkgQZb0VU",
+   "uYFjz9hU5d0",
+   "LiUBXt2NJNA",
+   "v87FZLU-_fw",
+   "KSjrYWPxsG8",
+   "udH8rIaC33k",
+   "i9NPpWePa7Q",
+   "5igWHUnx0_M"
+  ],
+  "video_titles": [
+   "Victoria Nuland's Admits Washington Has Spent $5 Billion to &quot;Subvert Ukraine&quot;",
+   "Snipers at Maidan: The untold story of a massacre in Ukraine - Newsnight",
+   "Whistleblowers on Remote Neural Monitoring, Neuro Weapons, Directed Energy Weapons, Mind Control",
+   "Tracking Down the Origin of the Wuhan Coronavirus | Crossroads with Joshua Philipp",
+   "Brian Springer - Spin",
+   "Part 2:NEW: Whistleblowers Bill Binney &amp; Kirk Wiebe Dissect Brennan, Clapper, &amp; Deep State Coup",
+   "Rod Rosenstein testifies on origins of Russia probe before Senate",
+   "The Economics of the Police State | Thomas E. Woods, Jr.",
+   "Youtube Takes Down CHESS PODCAST for Being HARMFUL or DANGEROUS",
+   "#207 - Whitney Webb Returns | The Tim Dillon Show",
+   "Critical Incident Briefing - April 24, 2020",
+   "The first 9/11 - Noam Chomsky"
+  ],
+  "playlist_videos": [
+   {
+    "id": "U2fYcHLouXY",
+    "title": "Victoria Nuland's Admits Washington Has Spent $5 Billion to \"Subvert Ukraine\"",
+    "sec": 527
+   },
+   {
+    "id": "mJhJ6hks0Jg",
+    "title": "Snipers at Maidan: The untold story of a massacre in Ukraine - Newsnight",
+    "sec": 983
+   },
+   {
+    "id": "tncQ_gVEsh0",
+    "title": "Whistleblowers on Remote Neural Monitoring, Neuro Weapons, Directed Energy Weapons, Mind Control",
+    "sec": 1380
+   },
+   {
+    "id": "Gdd7dtDaYmM",
+    "title": "Tracking Down the Origin of the Wuhan Coronavirus | Crossroads with Joshua Philipp",
+    "sec": 3248
+   },
+   {
+    "id": "PlJkgQZb0VU",
+    "title": "Brian Springer - Spin",
+    "sec": 3447
+   },
+   {
+    "id": "uYFjz9hU5d0",
+    "title": "Part 2:NEW: Whistleblowers Bill Binney & Kirk Wiebe Dissect Brennan, Clapper, & Deep State Coup",
+    "sec": 2520
+   },
+   {
+    "id": "LiUBXt2NJNA",
+    "title": "Rod Rosenstein testifies on origins of Russia probe before Senate",
+    "sec": 12446
+   },
+   {
+    "id": "v87FZLU-_fw",
+    "title": "The Economics of the Police State | Thomas E. Woods, Jr.",
+    "sec": 2374
+   },
+   {
+    "id": "KSjrYWPxsG8",
+    "title": "Youtube Takes Down CHESS PODCAST for Being HARMFUL or DANGEROUS",
+    "sec": 541
+   },
+   {
+    "id": "udH8rIaC33k",
+    "title": "#207 - Whitney Webb Returns | The Tim Dillon Show",
+    "sec": 6425
+   },
+   {
+    "id": "i9NPpWePa7Q",
+    "title": "Critical Incident Briefing - April 24, 2020",
+    "sec": 966
+   },
+   {
+    "id": "5igWHUnx0_M",
+    "title": "The first 9/11 - Noam Chomsky",
+    "sec": 99
+   },
+   {
+    "id": "oWCi1PXbf8g",
+    "title": "Unity Campfire #16: Bret Weinstein with James Lindsey & Jesse Singal 10/28/20",
+    "sec": 9995
+   },
+   {
+    "id": "OM4uF0AQig4",
+    "title": "Election Fraud in Arizona - Sharpies Being Distributed Instead of Pens; Invalidating Votes",
+    "sec": 140
+   },
+   {
+    "id": "fS6xOuhsiJw",
+    "title": "Michigan USPS Whistleblower Details Directive From Superiors To Back-Date Late Mail-In-Ballots Nov 3",
+    "sec": 140
+   },
+   {
+    "id": "By7yNZsa8x0",
+    "title": "2nd PA USPS whistleblower: Postmaster ordered late ballots picked up; thinks they will be BACKDATED",
+    "sec": 139
+   },
+   {
+    "id": "QyG7WoAFiWw",
+    "title": "Andrew Yang: Trumpism is Here to Stay",
+    "sec": 321
+   },
+   {
+    "id": "R5ki6S-WsKU",
+    "title": "Tucker: We heard you. It\u2019s hard to trust anything. Here\u2019s what we know.",
+    "sec": 1401
+   },
+   {
+    "id": "JT66q4_3610",
+    "title": "The Truth - Deaf Ears",
+    "sec": 449
+   },
+   {
+    "id": "VHRkkeecg7c",
+    "title": "COVID-19: The Great Reset",
+    "sec": 4067
+   },
+   {
+    "id": "ddGQTcuV-eg",
+    "title": "Great Reset Dialogues | Six leaders discuss why we must reform the social contract after COVID-19",
+    "sec": 487
+   },
+   {
+    "id": "KuLJhfClIbA",
+    "title": "\"We're still facing a very dark winter.\"",
+    "sec": 40
+   },
+   {
+    "id": "ff0h5UCR44E",
+    "title": "CDC head warns dark winter looming",
+    "sec": 82
+   },
+   {
+    "id": "8rAiTDQ-NVY",
+    "title": "The Great Reset",
+    "sec": 93
+   },
+   {
+    "id": "hRPQqfwwuhU",
+    "title": "#TheGreatReset",
+    "sec": 117
+   },
+   {
+    "id": "YnYQ9V-XErs",
+    "title": "Whistleblower warns of 'darkest winter' if U.S. doesn't plan against virus",
+    "sec": 148
+   },
+   {
+    "id": "otn3zkH-5cg",
+    "title": "Krystal and Saagar: Is This McConnell\u2019s Evil Genius Impeachment Plan?",
+    "sec": 485
+   },
+   {
+    "id": "IdYDL_RK--w",
+    "title": "TWiV 615: Peter Daszak of EcoHealth Alliance",
+    "sec": 2153
+   },
+   {
+    "id": "NXpyx5YeVzI",
+    "title": "GAMESTOP HEARING LIVE! - Live Trading, DOW, Robinhood, Stock Picks, Day Trading & STOCK NEWS",
+    "sec": 25284
+   },
+   {
+    "id": "sFd4-a83Su0",
+    "title": "Robinhood CEO, Reddit Co-Founder & Others Testify on GameStop Stock",
+    "sec": 19456
+   },
+   {
+    "id": "iU5NT8EiHCY",
+    "title": "US Treasury Calls for IMF SDRs",
+    "sec": 1018
+   },
+   {
+    "id": "WnD8taq6Bug",
+    "title": "Silver has started to leave the COMEX",
+    "sec": 3651
+   },
+   {
+    "id": "idBDCsmul4Y",
+    "title": "Downfall of the silver cartel",
+    "sec": 240
+   },
+   {
+    "id": "rLJ1JpnkVc8",
+    "title": "Fauci Spars With Sen. Rand Paul Over Origins Of Covid-19 | NBC News",
+    "sec": 262
+   },
+   {
+    "id": "Mw-Kcb0mdls",
+    "title": "Terence McKenna - One Of The Great Suppressed Stories Of Modern History",
+    "sec": 4318
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauohUwkw5qz_wVANd4po_2P7q",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Documentaries",
+  "count": "13",
+  "feed_title": "Documentaries",
+  "videos": [
+   "WXuK6gekU1Y",
+   "Gdd7dtDaYmM",
+   "CiKT2z5HiDU",
+   "z3LDEN5TLaQ",
+   "xXGRR8rJNs0",
+   "eJ3RzGoQC4s",
+   "EAWyPXegAQI",
+   "PJEPhBL77lk",
+   "Q4q9Y5-nrUg",
+   "PGLEhE2qWq4"
+  ],
+  "video_titles": [
+   "AlphaGo - The Movie | Full award-winning documentary",
+   "Tracking Down the Origin of the Wuhan Coronavirus | Crossroads with Joshua Philipp",
+   "Classified Alien Encounters Revealed By Traumatologist",
+   "The Conspiracy &quot;Myth&quot;, Charles Eisenstein",
+   "Atlanta protests for Ahmaud Arbery, George Floyd, Breonna Taylor: Live stream",
+   "The Century of the Self (Full Adam Curtis Documentary)",
+   "Choke - A Rickson Gracie Documentary (Full)",
+   "Yoshitaka Amano - his universe, on paper",
+   "Finale Panel w/ the Cast to Discuss the Final Season | Shameless | Season 11",
+   "Steve Sherk Jr. of Sherk's Guide Service - Monster Public Land Bucks | HUNTR Podcast #27"
+  ],
+  "playlist_videos": [
+   {
+    "id": "WXuK6gekU1Y",
+    "title": "AlphaGo - The Movie | Full award-winning documentary",
+    "sec": 5428
+   },
+   {
+    "id": "Gdd7dtDaYmM",
+    "title": "Tracking Down the Origin of the Wuhan Coronavirus | Crossroads with Joshua Philipp",
+    "sec": 3248
+   },
+   {
+    "id": "CiKT2z5HiDU",
+    "title": "Classified Alien Encounters Revealed By Traumatologist",
+    "sec": 6161
+   },
+   {
+    "id": "z3LDEN5TLaQ",
+    "title": "The Conspiracy \"Myth\", Charles Eisenstein",
+    "sec": 2197
+   },
+   {
+    "id": "xXGRR8rJNs0",
+    "title": "Atlanta protests for Ahmaud Arbery, George Floyd, Breonna Taylor: Live stream",
+    "sec": 33460
+   },
+   {
+    "id": "eJ3RzGoQC4s",
+    "title": "The Century of the Self (Full Adam Curtis Documentary)",
+    "sec": 14084
+   },
+   {
+    "id": "YlpGeqrOeX0",
+    "title": "TrendSpider Guided System Tour",
+    "sec": 2564
+   },
+   {
+    "id": "PJEPhBL77lk",
+    "title": "Yoshitaka Amano - his universe, on paper",
+    "sec": 498
+   },
+   {
+    "id": "Q4q9Y5-nrUg",
+    "title": "Finale Panel w/ the Cast to Discuss the Final Season | Shameless | Season 11",
+    "sec": 3785
+   },
+   {
+    "id": "PGLEhE2qWq4",
+    "title": "Steve Sherk Jr. of Sherk's Guide Service - Monster Public Land Bucks | HUNTR Podcast #27",
+    "sec": 8618
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauojVzpGwYbqPqM-rV6mOH7Gu",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Bulky Lectures",
+  "count": "12",
+  "feed_title": "Bulky Lectures",
+  "videos": [
+   "ijA5RHTJaV4",
+   "7iLtsg6DAL8",
+   "E3FudiU1r8U",
+   "t8DjeaU8eMs",
+   "LCiB9oMnIbI",
+   "iGLzWdT7vGc",
+   "P7Ltbw9L1VU",
+   "rak8v5hfdxA",
+   "P1ww1IXRfTA",
+   "cY9lM73ie0Q",
+   "FDFcmDxaiSw",
+   "dTr3oc5J-9k"
+  ],
+  "video_titles": [
+   "Terence McKenna - The Mystery Of Language",
+   "\ud83d\udd34We've never seen anything like this. Not even under Obama",
+   "Terence McKenna - The History Of Shamanism",
+   "Mushrooms, Mycology of Consciousness - Paul Stamets, EcoFarm Conference Keynote 2017",
+   "The Miracle of Consciousness - Ram Dass Full Lecture 1996",
+   "David Foster Wallace unedited interview (2003)",
+   "Terence McKenna - Turning The Tide",
+   "Unity Campfire #4: Bret Weinstein with Ryan Bennet and Elisabeth Sweet 08/23/20",
+   "The complete FUN TO IMAGINE with Richard Feynman",
+   "The Greatest NFT Film Ever Made",
+   "Naval Ravikant | Get Rich Slow | Clubhouse Room 03/10/2021",
+   "physicist Richard Feynman"
+  ],
+  "playlist_videos": [
+   {
+    "id": "ijA5RHTJaV4",
+    "title": "Terence McKenna - The Mystery Of Language",
+    "sec": 43764
+   },
+   {
+    "id": "7iLtsg6DAL8",
+    "title": "\ud83d\udd34We've never seen anything like this. Not even under Obama",
+    "sec": 1159
+   },
+   {
+    "id": "E3FudiU1r8U",
+    "title": "Terence McKenna - The History Of Shamanism",
+    "sec": 27066
+   },
+   {
+    "id": "t8DjeaU8eMs",
+    "title": "Mushrooms, Mycology of Consciousness - Paul Stamets, EcoFarm Conference Keynote 2017",
+    "sec": 4854
+   },
+   {
+    "id": "LCiB9oMnIbI",
+    "title": "The Miracle of Consciousness - Ram Dass Full Lecture 1996",
+    "sec": 9691
+   },
+   {
+    "id": "iGLzWdT7vGc",
+    "title": "David Foster Wallace unedited interview (2003)",
+    "sec": 5111
+   },
+   {
+    "id": "P7Ltbw9L1VU",
+    "title": "Terence McKenna - Turning The Tide",
+    "sec": 35136
+   },
+   {
+    "id": "rak8v5hfdxA",
+    "title": "Unity Campfire #4: Bret Weinstein with Ryan Bennet and Elisabeth Sweet 08/23/20",
+    "sec": 4531
+   },
+   {
+    "id": "P1ww1IXRfTA",
+    "title": "The complete FUN TO IMAGINE with Richard Feynman",
+    "sec": 4010
+   },
+   {
+    "id": "cY9lM73ie0Q",
+    "title": "The Greatest NFT Film Ever Made",
+    "sec": 4941
+   },
+   {
+    "id": "FDFcmDxaiSw",
+    "title": "Naval Ravikant | Get Rich Slow | Clubhouse Room 03/10/2021",
+    "sec": 5456
+   },
+   {
+    "id": "dTr3oc5J-9k",
+    "title": "physicist Richard Feynman",
+    "sec": 3917
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoiUyvfoJfHzOGhykIabyXuh",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Best of Tiny Desk / Live Shows",
+  "count": "27",
+  "feed_title": "Best of Tiny Desk / Live Shows",
+  "videos": [
+   "YkkKUARRpeU",
+   "SqPtIkxSxI0",
+   "C_oACPWGvM4",
+   "GVDJ8O3lPBA",
+   "DFiLdByWIDY",
+   "QrR_gm6RqCo",
+   "mi6uRT7PxTQ",
+   "N1w-hDiJ4dM",
+   "ieoiAeL-uow",
+   "mhyD2qchkEw",
+   "k2QjEgOtCAA",
+   "JYGmDy7o2H0",
+   "EkPrXL-H5Qc",
+   "JrEJmvuKSwo",
+   "Mz1ZSoujzcs"
+  ],
+  "video_titles": [
+   "Rhye: NPR Music Tiny Desk Concert",
+   "Maggie Rogers: NPR Music Tiny Desk Concert",
+   "Leon Bridges: NPR Music Tiny Desk Concert",
+   "Tash Sultana: Tiny Desk Concert",
+   "Lizzo: NPR Music Tiny Desk Concert",
+   "Mac Miller: NPR Music Tiny Desk Concert",
+   "Death Cab For Cutie: NPR Music Tiny Desk Concert",
+   "Tyler, The Creator: NPR Music Tiny Desk Concert",
+   "Dave Matthews: NPR Music Tiny Desk Concert",
+   "Sylvan Esso: NPR Music Tiny Desk Concert",
+   "Mandolin Orange: NPR Music Tiny Desk Concert",
+   "Dermot Kennedy: NPR Music Tiny Desk Concert",
+   "Florence + the Machine: NPR Music Tiny Desk Concert",
+   "Macklemore &amp; Ryan Lewis: NPR Music Tiny Desk Concert",
+   "Ty Dolla $ign Pays Tribute To Mac Miller At The Tiny Desk"
+  ],
+  "playlist_videos": [
+   {
+    "id": "YkkKUARRpeU",
+    "title": "Rhye: NPR Music Tiny Desk Concert",
+    "sec": 1117
+   },
+   {
+    "id": "SqPtIkxSxI0",
+    "title": "Maggie Rogers: NPR Music Tiny Desk Concert",
+    "sec": 873
+   },
+   {
+    "id": "C_oACPWGvM4",
+    "title": "Leon Bridges: NPR Music Tiny Desk Concert",
+    "sec": 1052
+   },
+   {
+    "id": "GVDJ8O3lPBA",
+    "title": "Tash Sultana: Tiny Desk Concert",
+    "sec": 1538
+   },
+   {
+    "id": "DFiLdByWIDY",
+    "title": "Lizzo: NPR Music Tiny Desk Concert",
+    "sec": 1020
+   },
+   {
+    "id": "QrR_gm6RqCo",
+    "title": "Mac Miller: NPR Music Tiny Desk Concert",
+    "sec": 1030
+   },
+   {
+    "id": "mi6uRT7PxTQ",
+    "title": "Death Cab For Cutie: NPR Music Tiny Desk Concert",
+    "sec": 1096
+   },
+   {
+    "id": "N1w-hDiJ4dM",
+    "title": "Tyler, The Creator: NPR Music Tiny Desk Concert",
+    "sec": 1484
+   },
+   {
+    "id": "ieoiAeL-uow",
+    "title": "Dave Matthews: NPR Music Tiny Desk Concert",
+    "sec": 1422
+   },
+   {
+    "id": "mhyD2qchkEw",
+    "title": "Sylvan Esso: NPR Music Tiny Desk Concert",
+    "sec": 1036
+   },
+   {
+    "id": "k2QjEgOtCAA",
+    "title": "Mandolin Orange: NPR Music Tiny Desk Concert",
+    "sec": 870
+   },
+   {
+    "id": "JYGmDy7o2H0",
+    "title": "Dermot Kennedy: NPR Music Tiny Desk Concert",
+    "sec": 810
+   },
+   {
+    "id": "EkPrXL-H5Qc",
+    "title": "Florence + the Machine: NPR Music Tiny Desk Concert",
+    "sec": 842
+   },
+   {
+    "id": "JrEJmvuKSwo",
+    "title": "Macklemore & Ryan Lewis: NPR Music Tiny Desk Concert",
+    "sec": 886
+   },
+   {
+    "id": "Mz1ZSoujzcs",
+    "title": "Ty Dolla $ign Pays Tribute To Mac Miller At The Tiny Desk",
+    "sec": 322
+   },
+   {
+    "id": "1alXHOMDBN4",
+    "title": "Freddie Gibbs And Madlib: NPR Music Tiny Desk Concert",
+    "sec": 757
+   },
+   {
+    "id": "org_rWo81zc",
+    "title": "Lauren Sanderson - Frustrated (Live)  | Treehouse Sessions",
+    "sec": 199
+   },
+   {
+    "id": "4TewtSGyOgE",
+    "title": "Eric Burton (All My Favorite Colors)",
+    "sec": 243
+   },
+   {
+    "id": "mV7UXgqscRM",
+    "title": "Rebelution - \"Fade Away\" - Live at Red Rocks",
+    "sec": 219
+   },
+   {
+    "id": "tk4OxQb-y1E",
+    "title": "illScarlett -Pacino (Acoustic Cover)",
+    "sec": 182
+   },
+   {
+    "id": "p7wAohYGf04",
+    "title": "Dave Matthews Band - All Along The Watchtower (from The Central Park Concert)",
+    "sec": 769
+   },
+   {
+    "id": "JlQzc9OoFMo",
+    "title": "Built To Spill - Full Concert - 03/15/12 - Stage On Sixth (OFFICIAL)",
+    "sec": 2269
+   },
+   {
+    "id": "RnTkb7uWFbs",
+    "title": "Nirvana - Saturday Night Live Rehearsal 1992",
+    "sec": 687
+   },
+   {
+    "id": "XUClIslXKZo",
+    "title": "Of Monsters and Men - Crystals (Official Lyric Video)",
+    "sec": 248
+   },
+   {
+    "id": "Y25LDO6OLzQ",
+    "title": "Of Monsters and Men - The Cabin Sessions",
+    "sec": 3416
+   },
+   {
+    "id": "rXC6x7A2gXw",
+    "title": "Of Monsters and Men - Fruit bat (Live from Skarkali)",
+    "sec": 475
+   },
+   {
+    "id": "AiX4CIgKMEs",
+    "title": "\"The Trapeze Swinger\" (Iron & Wine) - Gregory Alan Isakov, Fuel/Friends Chapel Session #34",
+    "sec": 480
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoimpXPSZWCZMK2NKMGZKBL8",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Keep this on the Lo-Lo",
+  "count": "133",
+  "feed_title": "Keep this on the Lo-Lo",
+  "videos": [
+   "zb4yqkfPNw0",
+   "4wtG01ymIjE",
+   "2ER2a-RlFs4",
+   "c43w1clvQvo",
+   "zsHJHcGCGU8",
+   "SOKaw5kV3sI",
+   "BV-q6RfK1S0",
+   "R27N7lBZzuo",
+   "MUj79Trc6dc",
+   "-ar9vsmFhJU",
+   "HePF0xlKzNE",
+   "jwr7-0wlO8A",
+   "lpSSYMPLbj8",
+   "O1RFNZ96NWw",
+   "-8odCsjX1Ug"
+  ],
+  "video_titles": [
+   "\uff27\uff28\uff29\uff22\uff2c\uff29\u3000\uff21\uff2e\uff24\u3000\uff23\uff28\uff29\uff2c\uff2c   |  A Studio Ghibli Lofi hip hop mix",
+   "432Hz - The DEEPEST Healing | Let Go Of All Negative Energy - Healing Meditation Music 432Hz",
+   "852 Hz \u27a4 Release Unconscious Bad Energy | Open up to Spiritual Experience &amp; Deep Healing | Let Go",
+   "\uff30\uff32\uff25\uff33\uff25\uff2e\uff34\uff1aCalm Lofi Instrumentals \ud83c\udf0a",
+   "528 Hz LET GO Mental Blocks | Cleanse Self Sabotage, Fear - Release Inner Struggle &amp; Self Doubt",
+   "432Hz - Release Inner Conflict &amp; Struggle | Anti Anxiety Cleanse - Stop Overthinking, Worry &amp; Stress",
+   "\ud83c\udf6d  \u3000 \uff22\uff2c\uff29\uff33\uff33  \u3000 \uff30\uff2f\uff29\uff2e\uff34  \u3000 \ud83c\udf6d  \u3000 (Full Album)",
+   "Manifest Miracles I Attraction 432 Hz I Elevate Your Vibration",
+   "\uff2c\uff4f\uff46\uff49\u2003\uff33\uff55\uff4d\uff4d\uff45\uff52\u2003\uff2e\uff49\uff47\uff48\uff54\uff53   | Lofi hip hop mix",
+   "11 MIN QUICK CHAKRA TUNE-UP (#1) W/LONG SINGLE TONES! ALL 7 CHAKRAS HEALED! WWW.TEMPLESOUNDS.NET",
+   "[ADVANCED] The Best Binaural Beats for a Deep Sleep (90-Minute Sleep Cycle)",
+   "\uff23\uff4f\uff46\uff46\uff45\uff45\u3000\uff33\uff48\uff4f\uff50  \u2615 | Lofi hip hop / JazzHop mix",
+   "\uff2c\uff21\uff34\uff25\u3000\uff33\uff35\uff2d\uff2d\uff25\uff32\u3000\uff2e\uff29\uff27\uff28\uff34\uff33  |  Lofi hip hop mix",
+   "\uff23\uff4f\uff46\uff46\uff45\uff45\u3000\uff33\uff48\uff4f\uff50\u3000\uff12  \u2615  | Lofi hip hop / JazzHop mix",
+   "\uff2c\uff2f\uff26\uff29\u3000\uff21\uff35\uff34\uff35\uff2d\uff2e  |  Lofi hip hop mix"
+  ],
+  "playlist_videos": [
+   {
+    "id": "zb4yqkfPNw0",
+    "title": "\uff27\uff28\uff29\uff22\uff2c\uff29\u3000\uff21\uff2e\uff24\u3000\uff23\uff28\uff29\uff2c\uff2c   |  A Studio Ghibli Lofi hip hop mix",
+    "sec": 4337
+   },
+   {
+    "id": "4wtG01ymIjE",
+    "title": "432Hz - The DEEPEST Healing | Let Go Of All Negative Energy - Healing Meditation Music 432Hz",
+    "sec": 10800
+   },
+   {
+    "id": "2ER2a-RlFs4",
+    "title": "852 Hz \u27a4 Release Unconscious Bad Energy | Open up to Spiritual Experience & Deep Healing | Let Go",
+    "sec": 14400
+   },
+   {
+    "id": "c43w1clvQvo",
+    "title": "\uff30\uff32\uff25\uff33\uff25\uff2e\uff34\uff1aCalm Lofi Instrumentals \ud83c\udf0a",
+    "sec": 4740
+   },
+   {
+    "id": "zsHJHcGCGU8",
+    "title": "528 Hz LET GO Mental Blocks | Cleanse Self Sabotage, Fear - Release Inner Struggle & Self Doubt",
+    "sec": 10800
+   },
+   {
+    "id": "SOKaw5kV3sI",
+    "title": "432Hz - Release Inner Conflict & Struggle | Anti Anxiety Cleanse - Stop Overthinking, Worry & Stress",
+    "sec": 7201
+   },
+   {
+    "id": "BV-q6RfK1S0",
+    "title": "\ud83c\udf6d  \u3000 \uff22\uff2c\uff29\uff33\uff33  \u3000 \uff30\uff2f\uff29\uff2e\uff34  \u3000 \ud83c\udf6d  \u3000 (Full Album)",
+    "sec": 1705
+   },
+   {
+    "id": "R27N7lBZzuo",
+    "title": "Manifest Miracles I Attraction 432 Hz I Elevate Your Vibration",
+    "sec": 10811
+   },
+   {
+    "id": "MUj79Trc6dc",
+    "title": "\uff2c\uff4f\uff46\uff49\u2003\uff33\uff55\uff4d\uff4d\uff45\uff52\u2003\uff2e\uff49\uff47\uff48\uff54\uff53   | Lofi hip hop mix",
+    "sec": 3243
+   },
+   {
+    "id": "-ar9vsmFhJU",
+    "title": "11 MIN QUICK CHAKRA TUNE-UP (#1) W/LONG SINGLE TONES! ALL 7 CHAKRAS HEALED! WWW.TEMPLESOUNDS.NET",
+    "sec": 782
+   },
+   {
+    "id": "HePF0xlKzNE",
+    "title": "[ADVANCED] The Best Binaural Beats for a Deep Sleep (90-Minute Sleep Cycle)",
+    "sec": 5400
+   },
+   {
+    "id": "jwr7-0wlO8A",
+    "title": "\uff23\uff4f\uff46\uff46\uff45\uff45\u3000\uff33\uff48\uff4f\uff50  \u2615 | Lofi hip hop / JazzHop mix",
+    "sec": 2100
+   },
+   {
+    "id": "lpSSYMPLbj8",
+    "title": "\uff2c\uff21\uff34\uff25\u3000\uff33\uff35\uff2d\uff2d\uff25\uff32\u3000\uff2e\uff29\uff27\uff28\uff34\uff33  |  Lofi hip hop mix",
+    "sec": 4118
+   },
+   {
+    "id": "O1RFNZ96NWw",
+    "title": "\uff23\uff4f\uff46\uff46\uff45\uff45\u3000\uff33\uff48\uff4f\uff50\u3000\uff12  \u2615  | Lofi hip hop / JazzHop mix",
+    "sec": 2489
+   },
+   {
+    "id": "-8odCsjX1Ug",
+    "title": "\uff2c\uff2f\uff26\uff29\u3000\uff21\uff35\uff34\uff35\uff2d\uff2e  |  Lofi hip hop mix",
+    "sec": 2723
+   },
+   {
+    "id": "AistU5jJP5g",
+    "title": "\uff2c\uff2f\uff26\uff29\u3000\uff21\uff35\uff34\uff35\uff2d\uff2e\u3000\uff12 |  Lofi hip hop mix",
+    "sec": 3215
+   },
+   {
+    "id": "_1RB7uWr4SQ",
+    "title": "\uff2c\uff4f\uff46\uff49\u3000\uff33\uff55\uff4d\uff4d\uff45\uff52\u30003\u3000 | \u2600 Lofi Hip hop Mix",
+    "sec": 2898
+   },
+   {
+    "id": "ivNIpLdzh7M",
+    "title": "Rainy Days In Tokyo [Lofi Hip Hop / Jazzhop / Chillhop Mix] - Beats to chill/study/relax",
+    "sec": 3061
+   },
+   {
+    "id": "zhSaNrXMROI",
+    "title": "Amazing Guqin Lofi Beat | Evil Mickey Mouse Attacks Japan | Akira The Don",
+    "sec": 215
+   },
+   {
+    "id": "654ut5UmiYE",
+    "title": "\uff28\uff41\uff50\uff50\uff49\uff4e\uff45\uff53\uff53 \u5e78\u798f A lofi hip hop mix to be present with",
+    "sec": 1159
+   },
+   {
+    "id": "vpLlyWRnKxY",
+    "title": "\uff33\uff34\uff2f\uff30\u3000\uff34\uff28\uff29\uff2e\uff2b\uff29\uff2e\uff27     \ud83e\uddd8    |   A Chill Lofi Mix To Meditate To  \ud83e\uddd8",
+    "sec": 1946
+   },
+   {
+    "id": "qtsO4VKU4fU",
+    "title": "\uff33\uff34\uff2f\uff30\u3000\uff34\uff28\uff29\uff2e\uff2b\uff29\uff2e\uff27  \u2162    \ud83e\uddd8    |   A Chill Lofi Mix To Meditate To  \ud83e\uddd8",
+    "sec": 1906
+   },
+   {
+    "id": "0wZpm3MnzDo",
+    "title": "\uff2c\uff41\uff54\uff45\u3000\uff2e\uff49\uff54\uff45\u3000\uff37\uff41\uff56\uff45\uff44\uff4f\uff57\uff4e \ud83c\udf0a  |  Lofi hip hop mix",
+    "sec": 3017
+   },
+   {
+    "id": "TNBn6amc3sI",
+    "title": "\uff33\uff35\uff2d\uff2d\uff25\uff32\u3000\uff29\uff2e\u3000\uff34\uff28\uff25\u3000\uff23\uff29\uff34\uff39   | Lofi hip hop mix",
+    "sec": 3948
+   },
+   {
+    "id": "w3HUmyx7VmI",
+    "title": "Clean Up Your Room 9 | Full Album |  Lofi hip hop | Akira The Don",
+    "sec": 4323
+   },
+   {
+    "id": "tACQuMhkbL0",
+    "title": "RAIN IN LA \u2614 - A Live Lofi Hip Hop Mix By Akira The Don",
+    "sec": 3296
+   },
+   {
+    "id": "81pwRcL_djc",
+    "title": "\uff2c\uff2f\uff26\uff29\u3000 \uff23\uff28\uff32\uff29\uff33\uff34\uff2d\uff21\uff33 \u3000 \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f The BEST xmas lofi mix",
+    "sec": 2256
+   },
+   {
+    "id": "KQzDckv-HH0",
+    "title": "\uff2c\uff2f\uff26\uff29\u3000 \uff23\uff28\uff32\uff29\uff33\uff34\uff2d\uff21\uff33\u3000 2\u3000 \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f  the next BEST xmas lofi mix",
+    "sec": 2852
+   },
+   {
+    "id": "QNwVeJ8OwEQ",
+    "title": "\uff2c\uff2f\uff26\uff29\u3000\uff23\uff28\uff32\uff29\uff33\uff34\uff2d\uff21\uff33\u3000\uff13 \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f The Greatest Xmas Lofi Mix",
+    "sec": 2128
+   },
+   {
+    "id": "kam3iHpmxFQ",
+    "title": "LOFI FIREPLACE \ud83d\udd25|  10 Hour Lofi Mix & Crackling Fire Sounds",
+    "sec": 39635
+   },
+   {
+    "id": "3Sbu4YTSnRA",
+    "title": "528 Hz - The DEEPEST Healing | Miracle Healing Tone - Manifest Miracles | LOVE Frequency Meditation",
+    "sec": 7200
+   },
+   {
+    "id": "up5-zJyI8a4",
+    "title": "The ReMeMber Music Lo-Fi Tape | A Mac Miller Tribute",
+    "sec": 1589
+   },
+   {
+    "id": "hLmdrjjMD34",
+    "title": "WINTER NIGHTS\ud83c\udf03 \ud83e\udd76 | Live Lofi Hip Hop Mix | Thinkspot Sessions 4",
+    "sec": 2257
+   },
+   {
+    "id": "057LswAXqgE",
+    "title": "\uff33\uff34\uff2f\uff30\u3000\uff34\uff28\uff29\uff2e\uff2b\uff29\uff2e\uff27 \u3000\uff36    \ud83e\uddd8    |   A Mind Expanding Mix To Meditate To  \ud83e\uddd8",
+    "sec": 5250
+   },
+   {
+    "id": "zCNlYixMkLs",
+    "title": "MEANINGWAVE LIVE | THINKSPOT SESSIONS 7 | ft. Alan Watts, Jospeh Campbell, Jordan Peterson, Gary Vee",
+    "sec": 2463
+   },
+   {
+    "id": "4hdCP3GytxA",
+    "title": "MEANINGWAVE LIVE | THINKSPOT SESSIONS 8 | ft. Joe Rogan, David Goggins, Jocko Willink, Alan Watts",
+    "sec": 1930
+   },
+   {
+    "id": "nwZ2oHSeOMs",
+    "title": "MEANINGWAVE LIVE - Thinkspot Sessions 5 | ft. Jocko Willink, Jordan Peterson, David Goggins Gary Vee",
+    "sec": 2310
+   },
+   {
+    "id": "QzlfUuqmQmA",
+    "title": "LOFI SPRING 2 | Live Lofi Mix | Thinkspot Sessions 09 | Akira The Don",
+    "sec": 2954
+   },
+   {
+    "id": "p8CD_qd4XNA",
+    "title": "ISOLATED MEDITATION \ud83e\uddd8\u200d\u2640\ufe0f | Lofi Hip Hop Mix",
+    "sec": 2355
+   },
+   {
+    "id": "9LRy_WMyslM",
+    "title": "DOOM BEATS | 2 Hour MF DOOM Instrumentals Live Mix",
+    "sec": 6212
+   },
+   {
+    "id": "ru-O5L2uxho",
+    "title": "[Piano ASMR] 3 Hour Long | Piano Music & Rain Sounds | Audiovisual ASMR | Piano Music & Rain Sounds",
+    "sec": 10954
+   },
+   {
+    "id": "6oFRqHMuzq0",
+    "title": "Akira The Don x Kanye West - Bound 2 (Lofi remix)",
+    "sec": 257
+   },
+   {
+    "id": "byxSazKYnw8",
+    "title": "Om Namah Shivaya (We Plants Are Happy Plants Remix)",
+    "sec": 376
+   },
+   {
+    "id": "RJbjM0od1zk",
+    "title": "BEAUTIFUL MORNING \ud83c\udf05 Lofi Hiphop Mix",
+    "sec": 3449
+   },
+   {
+    "id": "EhZ10Gxu2WY",
+    "title": "\uff34\uff48\uff45\u3000\uff26\uff41\uff4c\uff4c\uff49\uff4e\uff47\u3000\uff2c\uff45\uff41\uff56\uff45\uff53\u3000\ud83c\udf42 Lofi hip hop | AMV | Akira The Don",
+    "sec": 271
+   },
+   {
+    "id": "U3cfHrs7Un4",
+    "title": "We Plants Are Happy Plants (Music Mix)",
+    "sec": 9472
+   },
+   {
+    "id": "1dgKCdN3MjU",
+    "title": "Beautiful Cognizance - Shamanic Meditation Music - Full HD Visuals",
+    "sec": 4750
+   },
+   {
+    "id": "Oc2Qcu9dkAs",
+    "title": "RELEASE (DMT) The GOD MOLECULE in Your PINEAL GLAND \u27a4 Your SUPERHUMAN MIND Activates",
+    "sec": 14369
+   },
+   {
+    "id": "CF-RtE0dZxw",
+    "title": "Astral Projection | Out Of body Experience Music - Pineal Gland Awakening | 4.5Hz & 963Hz OBE Music",
+    "sec": 28801
+   },
+   {
+    "id": "LrC9IGf1Qm0",
+    "title": "J Dilla - Sunbeams (Extended)",
+    "sec": 1106
+   },
+   {
+    "id": "I88FYshOPhU",
+    "title": "than - Voices (Album) #RetoLofi",
+    "sec": 1929
+   },
+   {
+    "id": "JcrJJxDwSV0",
+    "title": "\uff28\uff4f\uff52\uff53\uff45\uff50\uff4f\uff57\uff45\uff52- A Joe \ud835\udc11\ud835\udc28\ud835\udc20\ud835\udc1a\ud835\udc27-\ud835\udc05\ud835\udc22  edit Prod EricGodlowBeats",
+    "sec": 204
+   },
+   {
+    "id": "Fam2LmzeyYc",
+    "title": "Awakening ~ Jim Carrey Lofi~ Prod Eric Godlow Beats",
+    "sec": 193
+   },
+   {
+    "id": "0Bvf4PpW5m8",
+    "title": "We Plants Are Happy Plants - Mantra Of The Universe",
+    "sec": 270
+   },
+   {
+    "id": "p_HCCHptP5Y",
+    "title": "We Plants Are Happy Plants - Satori",
+    "sec": 240
+   },
+   {
+    "id": "zRP8PudKh2A",
+    "title": "\ud83d\udd34THINK AND GROW RICH! | Lofi Library \ud83d\udcda   \ud83d\udcf9  MEANING STREAM 360",
+    "sec": 7996
+   },
+   {
+    "id": "y90toAhKE9I",
+    "title": "Jim Morrison & Akira The Don - USING MACHINES | MV | Meaningwave",
+    "sec": 220
+   },
+   {
+    "id": "cginLIvczGs",
+    "title": "Enlightenment - The Philosophers' Mixtape",
+    "sec": 3730
+   },
+   {
+    "id": "EpiPdAxC1UA",
+    "title": "Playa G - 09 - Something To Ride To - 1996",
+    "sec": 300
+   },
+   {
+    "id": "C8BSd_O_cSQ",
+    "title": "Juice Wrld But he's extra chill for over an hour | Lofi Mix | CHILLAF",
+    "sec": 5266
+   },
+   {
+    "id": "z4_BtIE5P3k",
+    "title": "If Mac Miller made lofi hip hop radio",
+    "sec": 1286
+   },
+   {
+    "id": "O7RnNTXPvvo",
+    "title": "Mac Miller 1 Hour of Chill Songs",
+    "sec": 3607
+   },
+   {
+    "id": "6yUzLHl13gg",
+    "title": "90s Hip Hop but it's Lofi Remixed | Tupac, Notorius BIG, Snoop Dogg, Ice Cube, Wu Tang Clan and Nas",
+    "sec": 2146
+   },
+   {
+    "id": "8RD2LOvLMtA",
+    "title": "Frank Ocean but he's extra chill | CHILLAF | Chanel, DHC, Solo and White Ferrari",
+    "sec": 1006
+   },
+   {
+    "id": "YuKbv1KdhTw",
+    "title": "If 90's rappers made lofi hip hop radio",
+    "sec": 2127
+   },
+   {
+    "id": "qWabhnt91Uc",
+    "title": "NOT AI! Feynman PLAYS THE BONGOS",
+    "sec": 55
+   },
+   {
+    "id": "dTr3oc5J-9k",
+    "title": "physicist Richard Feynman",
+    "sec": 3917
+   },
+   {
+    "id": "k7eJOKAPZxo",
+    "title": "We Plants Are Happy Plants - Not Waiting For Anything (Variation On A Theme)",
+    "sec": 360
+   },
+   {
+    "id": "iGYQDM4DrsY",
+    "title": "\uff34\uff28\uff25\u3000\uff33\uff28\uff21\uff24\uff2f\uff37  \ud83c\udf12  | A Berserk Meaningwave Mixtape | Ft Alan Watts, Joseph Campbell, Jordan B Peterson",
+    "sec": 2214
+   },
+   {
+    "id": "jRrWVMmNYEI",
+    "title": "Funk Soul Classics",
+    "sec": 4760
+   },
+   {
+    "id": "UpwlFYvdUXY",
+    "title": "Flamenco Sketches",
+    "sec": 567
+   },
+   {
+    "id": "MU6Kon6kueY",
+    "title": "Freelance Whales - Diluvia - Full Album",
+    "sec": 3151
+   },
+   {
+    "id": "w1PDK2nEC90",
+    "title": "Freelance Whales - Weathervanes - Full Album",
+    "sec": 2730
+   },
+   {
+    "id": "GHBvHVVIJlQ",
+    "title": "Mimicking Birds - Eons - Full Album",
+    "sec": 2626
+   },
+   {
+    "id": "DUAxKLimbzs",
+    "title": "\ud83d\udd34  LATE NITE LOFI | MEANINGSTREAM 389",
+    "sec": 4526
+   },
+   {
+    "id": "v_BshvKvSaA",
+    "title": "The Immortal Stan Lee| Lofi Hiphop| Full album | Meaningwave| Akira The Don",
+    "sec": 745
+   },
+   {
+    "id": "ceJyAsk6Rvs",
+    "title": "Ninajirachi - Pure Luck (feat. Freya Staer)",
+    "sec": 203
+   },
+   {
+    "id": "kiXlK1HHNu4",
+    "title": "Shining Star (Live)",
+    "sec": 686
+   },
+   {
+    "id": "52vRcMbYf-0",
+    "title": "Don Cherry \u200e\u2013 Om Shanti Om (1976) - [2020 - Album]",
+    "sec": 2844
+   },
+   {
+    "id": "ZwQwXlQyha8",
+    "title": "Alice Coltrane - Reflection on Creation and Space (A Five Year View) LP 1973 [FULL ALBUM]",
+    "sec": 4873
+   },
+   {
+    "id": "9bklA0WJj2I",
+    "title": "Don Cherry \u200e\u2013 Orient [Full Album]",
+    "sec": 4208
+   },
+   {
+    "id": "pWKZLW_vfTI",
+    "title": "We Plants Are Happy Plants - Way Of The Wizard",
+    "sec": 325
+   },
+   {
+    "id": "Yxfn5PFWYTk",
+    "title": "Terence McKenna - Nobody is smarter than you are",
+    "sec": 97
+   },
+   {
+    "id": "Ljw5eJdO4kQ",
+    "title": "Sumac Dub - Le Jardin de Lucy [Full Album]",
+    "sec": 3387
+   },
+   {
+    "id": "E8jHwinJRyQ",
+    "title": "Kokoroko - Kokoroko (2019 - EP)",
+    "sec": 1466
+   },
+   {
+    "id": "7ikSmkcvgVs",
+    "title": "Jazzinuf - The Magic Carpet [Full BeatTape]",
+    "sec": 3077
+   },
+   {
+    "id": "kz-Liu_LVpQ",
+    "title": "Soho & Otesla - Evergreen [Full BeatTape]",
+    "sec": 2278
+   },
+   {
+    "id": "Yvsz4-YRU0I",
+    "title": "Brockbeats - Lunch Time Sleeps [Full BeatTape]",
+    "sec": 2607
+   },
+   {
+    "id": "eaR9KTknePE",
+    "title": "Coubo - Selcouth [Full Beat Tape]",
+    "sec": 1301
+   },
+   {
+    "id": "Q_kXCyfc0Tg",
+    "title": "Phlocalyst - Entity [Full BeatTape]",
+    "sec": 2053
+   },
+   {
+    "id": "c8hxlo7mM2M",
+    "title": "AJMW - 1994 [Full BeatTape]",
+    "sec": 1593
+   },
+   {
+    "id": "hp5L0VwuFck",
+    "title": "Back Alley Kat - Throwaway Tape Vol. 3 [Full BeatTape]",
+    "sec": 4161
+   },
+   {
+    "id": "dQWaM_Zp7vE",
+    "title": "Benny Sings\uc640 \ub7f0\ub358\uc5d0\uc11c\uc758 \uc544\uce68 \uc0b0\ucc45 (Playlist)",
+    "sec": 4233
+   },
+   {
+    "id": "3GKyn_7cC-c",
+    "title": "Natse - The Leaves [Full BeatTape]",
+    "sec": 2285
+   },
+   {
+    "id": "p6AcPxDK7Bg",
+    "title": "Post Malone but he's chill af for over an hour | Lofi mix | CHILLAF",
+    "sec": 4236
+   },
+   {
+    "id": "Qqi_EZ0DgrA",
+    "title": "Nala Sinephro - Space 1.8 (Full Album)",
+    "sec": 2662
+   },
+   {
+    "id": "-ILcH66zGcY",
+    "title": "Lamp\u300c\u604b\u4eba\u3078\u300d(2004)",
+    "sec": 2015
+   },
+   {
+    "id": "acJ6qw0k6FA",
+    "title": "Takashi Kokubo (\u5c0f\u4e45\u4fdd\u9686) - Barcelona \uff5e Gaudi\u2019s Dream \uff5e (\u30d0\u30eb\u30bb\u30ed\u30ca\uff5e\u30ac\u30a6\u30c7\u30a3\u306e\u5922\uff5e) (1992) [Full Album]",
+    "sec": 3027
+   },
+   {
+    "id": "rWEI9y6PElo",
+    "title": "Takashi Kokubo (\u5c0f\u4e45\u4fdd\u9686) - Oasis Of The Wind II \uff5e A Story Of Forest And Water \uff5e (1993) [Full Album]",
+    "sec": 3190
+   },
+   {
+    "id": "3x_JZmdijDs",
+    "title": "Takashi Kokubo (\u5c0f\u4e45\u4fdd\u9686) - Solar Wind \uff5e Mystery Of Aurora \uff5e (\u592a\u967d\u98a8\uff5e\u30aa\u30fc\u30ed\u30e9\u306e\u795e\u79d8\uff5e) (1992) [Full Album]",
+    "sec": 3030
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoj7WfuJSVZNRMQPALnWOPgz",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Mac Miller: A Legacy of Living Life",
+  "count": "85",
+  "feed_title": "Mac Miller: A Legacy of Living Life",
+  "videos": [
+   "bgP2vqgl934",
+   "9Gbl-IDp1qc",
+   "qKh8FiKzfvQ",
+   "X-R47DwZWkU",
+   "NubC_SY8EE4",
+   "1_GcqfQRY34",
+   "UQ3w99trVUk",
+   "QrR_gm6RqCo",
+   "5WU7oGiwiao",
+   "SsKT0s5J8ko",
+   "azGhIveNuSw",
+   "gs9E6lFzSE4",
+   "Uuj39gHDakE",
+   "Mz1ZSoujzcs"
+  ],
+  "video_titles": [
+   "Free Nationals, Mac Miller, Kali Uchis - Time",
+   "Mac Miller: The Space Migration Sessions - Objects In The Mirror (with The Internet)",
+   "Mac Miller - Inertia",
+   "Rhythm Roulette: Mac Miller aka Larry Fisherman",
+   "Larry Fisherman (Mac Miller) // Smile (Lyrics)",
+   "Mac Miller - Live Free",
+   "Mac Miller - Stopped Making Excuses (Documentary)",
+   "Mac Miller: NPR Music Tiny Desk Concert",
+   "Mac Miller - Stay",
+   "Mac Miller - Self Care",
+   "Mac Miller Freestyles on Funk Flex",
+   "Mac Miller Talks Sobriety &amp; Growth \ud83c\udf99\ufe0f | SWAY'S UNIVERSE",
+   "Mac Miller - Interview with Zane Lowe",
+   "Ty Dolla $ign Pays Tribute To Mac Miller At The Tiny Desk"
+  ],
+  "playlist_videos": [
+   {
+    "id": "bgP2vqgl934",
+    "title": "Free Nationals, Mac Miller, Kali Uchis - Time",
+    "sec": 211
+   },
+   {
+    "id": "9Gbl-IDp1qc",
+    "title": "Mac Miller: The Space Migration Sessions - Objects In The Mirror (with The Internet)",
+    "sec": 283
+   },
+   {
+    "id": "qKh8FiKzfvQ",
+    "title": "Mac Miller - Inertia",
+    "sec": 305
+   },
+   {
+    "id": "X-R47DwZWkU",
+    "title": "Rhythm Roulette: Mac Miller aka Larry Fisherman",
+    "sec": 421
+   },
+   {
+    "id": "NubC_SY8EE4",
+    "title": "Larry Fisherman (Mac Miller) // Smile (Lyrics)",
+    "sec": 242
+   },
+   {
+    "id": "1_GcqfQRY34",
+    "title": "Mac Miller - Live Free",
+    "sec": 221
+   },
+   {
+    "id": "UQ3w99trVUk",
+    "title": "Mac Miller - Stopped Making Excuses (Documentary)",
+    "sec": 744
+   },
+   {
+    "id": "QrR_gm6RqCo",
+    "title": "Mac Miller: NPR Music Tiny Desk Concert",
+    "sec": 1030
+   },
+   {
+    "id": "5WU7oGiwiao",
+    "title": "Mac Miller - Stay",
+    "sec": 302
+   },
+   {
+    "id": "SsKT0s5J8ko",
+    "title": "Mac Miller - Self Care",
+    "sec": 348
+   },
+   {
+    "id": "azGhIveNuSw",
+    "title": "Mac Miller Freestyles on Funk Flex",
+    "sec": 237
+   },
+   {
+    "id": "gs9E6lFzSE4",
+    "title": "Mac Miller Talks Sobriety & Growth \ud83c\udf99\ufe0f | SWAY'S UNIVERSE",
+    "sec": 1908
+   },
+   {
+    "id": "Uuj39gHDakE",
+    "title": "Mac Miller - Interview with Zane Lowe",
+    "sec": 610
+   },
+   {
+    "id": "Mz1ZSoujzcs",
+    "title": "Ty Dolla $ign Pays Tribute To Mac Miller At The Tiny Desk",
+    "sec": 322
+   },
+   {
+    "id": "xQSO82uMrS0",
+    "title": "THE SPACE MIGRATION MIXTAPE - MAC MILLER (Live Stuff)",
+    "sec": 5496
+   },
+   {
+    "id": "yvfUzZsPqxY",
+    "title": "Mac Miller: Live From London (with The Internet)",
+    "sec": 2939
+   },
+   {
+    "id": "bdO3SqZXDCg",
+    "title": "Mac Miller On New Album, Battling Depression + Donald Trump",
+    "sec": 1533
+   },
+   {
+    "id": "ZXBDpr1xuiA",
+    "title": "Mac Miller SWiMMiNG: The Journey",
+    "sec": 3337
+   },
+   {
+    "id": "-NSZyYIHncU",
+    "title": "Nardwuar vs. Mac Miller",
+    "sec": 793
+   },
+   {
+    "id": "F2sTJlV60no",
+    "title": "Cam Rellim Discog",
+    "sec": 14153
+   },
+   {
+    "id": "up5-zJyI8a4",
+    "title": "The ReMeMber Music Lo-Fi Tape | A Mac Miller Tribute",
+    "sec": 1589
+   },
+   {
+    "id": "HrIk1n3KMg0",
+    "title": "Njomza & Mac Miller Creatures Of The Night Feat Delusional Thomas",
+    "sec": 333
+   },
+   {
+    "id": "TZ9Ibu3MPPY",
+    "title": "Mac Miller Freestyle on Toca",
+    "sec": 119
+   },
+   {
+    "id": "V4BFGSZ_1ls",
+    "title": "Mac Miller - Circles",
+    "sec": 171
+   },
+   {
+    "id": "Q-NUaixkovQ",
+    "title": "Mac Miller - Complicated",
+    "sec": 233
+   },
+   {
+    "id": "_GC2wFTCAGY",
+    "title": "Mac Miller - Blue World",
+    "sec": 210
+   },
+   {
+    "id": "aIHF7u9Wwiw",
+    "title": "Mac Miller - Good News",
+    "sec": 398
+   },
+   {
+    "id": "rGxOUnlHpGI",
+    "title": "Mac Miller - I Can See",
+    "sec": 221
+   },
+   {
+    "id": "_-Ig0aeJ6jc",
+    "title": "Mac Miller - Everybody",
+    "sec": 257
+   },
+   {
+    "id": "g8sX6wZHhD0",
+    "title": "Mac Miller - Woods",
+    "sec": 287
+   },
+   {
+    "id": "fYEXdCCpfVQ",
+    "title": "Mac Miller - Hand Me Downs",
+    "sec": 299
+   },
+   {
+    "id": "Eg7vEV5woSk",
+    "title": "Mac Miller - That's On Me",
+    "sec": 218
+   },
+   {
+    "id": "IHJWYamH5SA",
+    "title": "Mac Miller - Hands",
+    "sec": 200
+   },
+   {
+    "id": "blYo4WheVgA",
+    "title": "Mac Miller - Surf",
+    "sec": 331
+   },
+   {
+    "id": "pFFPIST6Fuo",
+    "title": "Mac Miller - Once A Day",
+    "sec": 161
+   },
+   {
+    "id": "faEKDnNXt4o",
+    "title": "Jon Brion and Zane Lowe - Circles Interview",
+    "sec": 546
+   },
+   {
+    "id": "GzTsvGCAl_c",
+    "title": "Maclib (Mac Miller & Madlib) Ft. Thundercat and Freddie Gibbs",
+    "sec": 136
+   },
+   {
+    "id": "BgQeAKkegOg",
+    "title": "Statik Selektah - 21 & Over (Explicit) ft. Mac Miller, Sean Price",
+    "sec": 174
+   },
+   {
+    "id": "DRuO3EMDaT4",
+    "title": "Mac Miller - Days",
+    "sec": 311
+   },
+   {
+    "id": "tR6b0h4eqsU",
+    "title": "Larry Fisherman (Mac Miller) - Run On Sentences. Volume 1 (Full Mixtape)",
+    "sec": 1966
+   },
+   {
+    "id": "zn6COeaLeJ0",
+    "title": "John Mayer Performs 'Small Worlds' Mac Miller's Tribute -Halloween (MASTERED AUDIO by Tyler August)",
+    "sec": 326
+   },
+   {
+    "id": "PUPYXQmQ8m8",
+    "title": "Mac Miller - Floating",
+    "sec": 257
+   },
+   {
+    "id": "vx0i-iPOlQk",
+    "title": "Mac Miller - Right",
+    "sec": 291
+   },
+   {
+    "id": "ZfS_MmAjvZg",
+    "title": "Random Stevie Wonder Cover",
+    "sec": 119
+   },
+   {
+    "id": "oOuSAchSjpw",
+    "title": "Mac Miller - Don't Mind If I Do",
+    "sec": 179
+   },
+   {
+    "id": "iXUPlQQ2igk",
+    "title": "11 Unforgettable Mac Miller Moments | Ranked: Ridiculousness",
+    "sec": 550
+   },
+   {
+    "id": "BZvzOodoMJs",
+    "title": "Mac Miller - Making Of Swimming & Circles [Hawaii 2017]",
+    "sec": 220
+   },
+   {
+    "id": "xFPPnVxEZYc",
+    "title": "A Tribute to Mac Miller | Curated by Fly Zulu",
+    "sec": 6966
+   },
+   {
+    "id": "O7RnNTXPvvo",
+    "title": "Mac Miller 1 Hour of Chill Songs",
+    "sec": 3607
+   },
+   {
+    "id": "dcDqyGXtK3c",
+    "title": "Best Chill Songs by Mac Miller",
+    "sec": 1951
+   },
+   {
+    "id": "K22_5LBuB9Y",
+    "title": "Mac Miller - Colors and Shapes",
+    "sec": 261
+   },
+   {
+    "id": "3YfR-UWhS9A",
+    "title": "Making Faces (A Short Film)",
+    "sec": 412
+   },
+   {
+    "id": "iK40p8KnHrw",
+    "title": "Mac Miller - The Grow Op",
+    "sec": 262
+   },
+   {
+    "id": "Xc0RLRn1ijE",
+    "title": "Mac Miller - Whateva",
+    "sec": 198
+   },
+   {
+    "id": "6gYSIHNsawI",
+    "title": "Happy 10 Years to Blue Slide Park",
+    "sec": 134
+   },
+   {
+    "id": "HOBQLDPpkq8",
+    "title": "Mac Miller x Thundercat x Mac Demarco Full Session",
+    "sec": 904
+   },
+   {
+    "id": "ODc-RG5CvqU",
+    "title": "MAC: A Mac Miller Documentary",
+    "sec": 7043
+   },
+   {
+    "id": "SfD6Ki7bg54",
+    "title": "Charlamagne asks Pete Davidson about Mac Miller",
+    "sec": 202
+   },
+   {
+    "id": "l6Pue-zn2Xc",
+    "title": "Mac Miller - Travellin Man 09'",
+    "sec": 247
+   },
+   {
+    "id": "evutJExTL70",
+    "title": "Mac Miller - Come Around",
+    "sec": 275
+   },
+   {
+    "id": "4cpc7oXUAWc",
+    "title": "The Incredible Story of Mac Miller",
+    "sec": 2164
+   },
+   {
+    "id": "XNIaiyoTZSo",
+    "title": "Mac Miller - Salamander",
+    "sec": 257
+   },
+   {
+    "id": "UItqVlE7Y10",
+    "title": "Mac Miller - Just My Imagination",
+    "sec": 152
+   },
+   {
+    "id": "E4QOTftvFEU",
+    "title": "Mac Miller - Cruisin'",
+    "sec": 297
+   },
+   {
+    "id": "sQEKUM_xx94",
+    "title": "Mac Miller - Piffsburgh",
+    "sec": 291
+   },
+   {
+    "id": "WBjgnUPFKSs",
+    "title": "Mac Miller - ROS",
+    "sec": 344
+   },
+   {
+    "id": "5RuI4CR6d-g",
+    "title": "GO:OD AM (Time Flies, Try To Catch It) - A Short Film",
+    "sec": 952
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoj0bY8EP4TAVcJjF-w1RlKt",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "F U T U R I S M",
+  "count": "23",
+  "feed_title": "F U T U R I S M",
+  "videos": [
+   "7MztB_TQLaI",
+   "ZELaYHgCDs8",
+   "eh7qvXfGQho",
+   "7LqaotiGWjQ",
+   "NK8C_rCz1yw",
+   "plcc6E-E1uU",
+   "j4Ph02gzqmY",
+   "uQWadGDIedY",
+   "bxABOiay6oA",
+   "v6lsQoGMzGc",
+   "KVNPUt56GOs",
+   "ixBPSX-gFP0",
+   "F4RTXF1JX0E"
+  ],
+  "video_titles": [
+   "We Plants Are Happy Plants - Time Is A Landscape (Full Album)",
+   "Terence McKenna - The Future Of Art (Esalen 1998 August 7)",
+   "Daniel Schmachtenberger\u2019s talk at Emergence",
+   "The War on Sensemaking, Daniel Schmachtenberger",
+   "An Epidemic of Control, Charles Eisenstein",
+   "Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua | Lex Fridman Podcast #154",
+   "Veggietales predicts modern internet humour",
+   "Terence McKenna - Digital Liberation",
+   "Fantastic Fungi, Official Film Trailer | Moving Art by Louie Schwartzberg",
+   "Terence McKenna - Subtle Evolution",
+   "Terence McKenna - Technologies and Our Flaws",
+   "Terence McKenna - New Phase Of Human Existence",
+   "Exploring Sovereignty in the Digital Age | The Balaji Series | Episode 1 (WiM115)"
+  ],
+  "playlist_videos": [
+   {
+    "id": "7MztB_TQLaI",
+    "title": "We Plants Are Happy Plants - Time Is A Landscape (Full Album)",
+    "sec": 4593
+   },
+   {
+    "id": "ZELaYHgCDs8",
+    "title": "Terence McKenna - The Future Of Art (Esalen 1998 August 7)",
+    "sec": 5129
+   },
+   {
+    "id": "eh7qvXfGQho",
+    "title": "Daniel Schmachtenberger\u2019s talk at Emergence",
+    "sec": 1506
+   },
+   {
+    "id": "7LqaotiGWjQ",
+    "title": "The War on Sensemaking, Daniel Schmachtenberger",
+    "sec": 6530
+   },
+   {
+    "id": "NK8C_rCz1yw",
+    "title": "An Epidemic of Control, Charles Eisenstein",
+    "sec": 3648
+   },
+   {
+    "id": "plcc6E-E1uU",
+    "title": "Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua | Lex Fridman Podcast #154",
+    "sec": 9831
+   },
+   {
+    "id": "j4Ph02gzqmY",
+    "title": "Veggietales predicts modern internet humour",
+    "sec": 70
+   },
+   {
+    "id": "uQWadGDIedY",
+    "title": "Terence McKenna - Digital Liberation",
+    "sec": 377
+   },
+   {
+    "id": "bxABOiay6oA",
+    "title": "Fantastic Fungi, Official Film Trailer | Moving Art by Louie Schwartzberg",
+    "sec": 122
+   },
+   {
+    "id": "v6lsQoGMzGc",
+    "title": "Terence McKenna - Subtle Evolution",
+    "sec": 523
+   },
+   {
+    "id": "KVNPUt56GOs",
+    "title": "Terence McKenna - Technologies and Our Flaws",
+    "sec": 726
+   },
+   {
+    "id": "ixBPSX-gFP0",
+    "title": "Terence McKenna - New Phase Of Human Existence",
+    "sec": 3570
+   },
+   {
+    "id": "F4RTXF1JX0E",
+    "title": "Exploring Sovereignty in the Digital Age | The Balaji Series | Episode 1 (WiM115)",
+    "sec": 3894
+   },
+   {
+    "id": "zyU-susjUKc",
+    "title": "Terence McKenna's Seven-Minute Flight Of Ideas",
+    "sec": 426
+   },
+   {
+    "id": "UrStQRq95NY",
+    "title": "Terence McKenna - The Alchemical Child At The End Of Time",
+    "sec": 443
+   },
+   {
+    "id": "P-EhXbjRWTk",
+    "title": "Terence McKenna Predicted The International Sanctions On Russia",
+    "sec": 779
+   },
+   {
+    "id": "JUQnhiZirKQ",
+    "title": "The End of the Great Pacific Garbage Patch | The Ocean Cleanup",
+    "sec": 212
+   },
+   {
+    "id": "VeH7qKZr0WI",
+    "title": "Balaji Srinivasan: How to Fix Government, Twitter, Science, and the FDA | Lex Fridman Podcast #331",
+    "sec": 28072
+   },
+   {
+    "id": "KCSsKV5F4xc",
+    "title": "Moloch, AI & Capitalism: The System Eating Itself | Daniel Schmachtenberger & Liv Boeree",
+    "sec": 5471
+   },
+   {
+    "id": "yQU9f43702M",
+    "title": "Terence McKenna - Trading With Aliens",
+    "sec": 9553
+   },
+   {
+    "id": "brN7eq1s2GU",
+    "title": "Abacus AI Chatbots and AI Agents: Diving Deep Into ChatLLM Teams",
+    "sec": 420
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauojbxEQObbpHSTWMbsbNnfAl",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Bits and Bites of Our Universal Mind",
+  "count": "78",
+  "feed_title": "Bits and Bites of Our Universal Mind",
+  "videos": [
+   "UH3P5XzTNQE",
+   "zLcZLfF8eH8",
+   "qRfH0LocDUU",
+   "EhR-Qm0mc-s",
+   "o7CEzTBQgeA",
+   "EGeQcPEoizM",
+   "zV84ou1NbSA",
+   "55RzIdrTwAQ",
+   "JNotQ_gKq0s",
+   "psgccV9i6HU",
+   "fhy2l4XmAGg",
+   "ZWl13ZxYc2s",
+   "_uMSap7ntuw",
+   "uC_vFa3FZg8",
+   "CfUDLW8v8KE"
+  ],
+  "video_titles": [
+   "Terence McKenna - The Hunt",
+   "The Mushroom Hunter - Paul Stamets",
+   "Terence McKenna On Taoism",
+   "Terence McKenna Explains Everything",
+   "Terence McKenna - The Historical Octave",
+   "We Plants Are Happy Plants - Guide Me Home",
+   "Terence McKenna - Jesus Christ (Brief History Of Early Christianity)",
+   "2001: A Shamanic Journey (Explained by Stanley Kubrick)",
+   "Terence McKenna - Ayahuasca Stories",
+   "Terence McKenna - Tripping With Other People",
+   "Terence McKenna - Money and Donald Trump",
+   "Robert Anton Wilson - High And Happy",
+   "We Plants Are Happy Plants - Underneath The Form",
+   "We Plants Are Happy Plants - Perception Of Dimensions",
+   "Terence McKenna - Mama Matrix Most Mysterious"
+  ],
+  "playlist_videos": [
+   {
+    "id": "UH3P5XzTNQE",
+    "title": "Terence McKenna - The Hunt",
+    "sec": 149
+   },
+   {
+    "id": "zLcZLfF8eH8",
+    "title": "The Mushroom Hunter - Paul Stamets",
+    "sec": 316
+   },
+   {
+    "id": "qRfH0LocDUU",
+    "title": "Terence McKenna On Taoism",
+    "sec": 313
+   },
+   {
+    "id": "EhR-Qm0mc-s",
+    "title": "Terence McKenna Explains Everything",
+    "sec": 422
+   },
+   {
+    "id": "o7CEzTBQgeA",
+    "title": "Terence McKenna - The Historical Octave",
+    "sec": 93
+   },
+   {
+    "id": "EGeQcPEoizM",
+    "title": "We Plants Are Happy Plants - Guide Me Home",
+    "sec": 166
+   },
+   {
+    "id": "zV84ou1NbSA",
+    "title": "Terence McKenna - Jesus Christ (Brief History Of Early Christianity)",
+    "sec": 559
+   },
+   {
+    "id": "55RzIdrTwAQ",
+    "title": "2001: A Shamanic Journey (Explained by Stanley Kubrick)",
+    "sec": 151
+   },
+   {
+    "id": "JNotQ_gKq0s",
+    "title": "Terence McKenna - Ayahuasca Stories",
+    "sec": 302
+   },
+   {
+    "id": "psgccV9i6HU",
+    "title": "Terence McKenna - Tripping With Other People",
+    "sec": 242
+   },
+   {
+    "id": "fhy2l4XmAGg",
+    "title": "Terence McKenna - Money and Donald Trump",
+    "sec": 125
+   },
+   {
+    "id": "ZWl13ZxYc2s",
+    "title": "Robert Anton Wilson - High And Happy",
+    "sec": 153
+   },
+   {
+    "id": "_uMSap7ntuw",
+    "title": "We Plants Are Happy Plants - Underneath The Form",
+    "sec": 361
+   },
+   {
+    "id": "uC_vFa3FZg8",
+    "title": "We Plants Are Happy Plants - Perception Of Dimensions",
+    "sec": 273
+   },
+   {
+    "id": "CfUDLW8v8KE",
+    "title": "Terence McKenna - Mama Matrix Most Mysterious",
+    "sec": 214
+   },
+   {
+    "id": "4rL_gR-dCT4",
+    "title": "We Plants Are Happy Plants - Euphrosyne",
+    "sec": 364
+   },
+   {
+    "id": "fvRMjcH77iU",
+    "title": "Best McKenna Snippet Ever",
+    "sec": 41
+   },
+   {
+    "id": "6sg5XwPnRS0",
+    "title": "We Plants Are Happy Plants - Your Happiness (Featuring John Lennon)",
+    "sec": 214
+   },
+   {
+    "id": "FJnyQwNDkW0",
+    "title": "Terence McKenna - The Difference",
+    "sec": 382
+   },
+   {
+    "id": "0HrK0u2f_dk",
+    "title": "Paul Stamets on Terence McKenna",
+    "sec": 205
+   },
+   {
+    "id": "Py9gLDk16fM",
+    "title": "Terence McKenna - Just Take Hold Of Yourself",
+    "sec": 567
+   },
+   {
+    "id": "7XJHPL90t3o",
+    "title": "Terence McKenna - Love Is The Realm Of True Being",
+    "sec": 272
+   },
+   {
+    "id": "dJYoQd4o65k",
+    "title": "Terence McKenna - The Spiritual Life",
+    "sec": 307
+   },
+   {
+    "id": "CyB5VwSCoCc",
+    "title": "Terence McKenna - When I Was Schizophrenic",
+    "sec": 239
+   },
+   {
+    "id": "VuAO3K8RJTE",
+    "title": "The Strange by Charles Bukowski",
+    "sec": 191
+   },
+   {
+    "id": "IhyQNqkOgPk",
+    "title": "'Becoming Nobody' Theatrical Trailer",
+    "sec": 173
+   },
+   {
+    "id": "oJ_EvaSKEv0",
+    "title": "At the Deepest Level Our Minds Are Connected",
+    "sec": 501
+   },
+   {
+    "id": "1KCUA6AD6xg",
+    "title": "ERA OF EASY | Joe Rogan",
+    "sec": 90
+   },
+   {
+    "id": "XQrJyR0t67g",
+    "title": "Alan Watts - Give Yourself To The Water",
+    "sec": 349
+   },
+   {
+    "id": "rnfAVasBkQc",
+    "title": "Roll the Dice (Go All the Way) by Charles Bukowski | Joe Rogan Experience",
+    "sec": 87
+   },
+   {
+    "id": "QJBOMwsGsYs",
+    "title": "Terence McKenna - Searching For Patterns",
+    "sec": 617
+   },
+   {
+    "id": "w5R8gduPZw4",
+    "title": "David Foster Wallace on Ambition | Blank on Blank",
+    "sec": 263
+   },
+   {
+    "id": "7W33HRc1A6c",
+    "title": "George Carlin - Saving the Planet",
+    "sec": 484
+   },
+   {
+    "id": "HDiLfQUBnyA",
+    "title": "Charles Bukowski - Born Into This - Dinosauria, We",
+    "sec": 265
+   },
+   {
+    "id": "2d07zQc8cEY",
+    "title": "A Counterculture For Every Culture",
+    "sec": 200
+   },
+   {
+    "id": "j49zlky-Si0",
+    "title": "Terence McKenna - How To Make Money Out Of Saving The World | Meaningwave",
+    "sec": 210
+   },
+   {
+    "id": "a-1YI-neupU",
+    "title": "Massive Attack - Massive Attack x Young Fathers featuring Professor Guy Standing",
+    "sec": 321
+   },
+   {
+    "id": "J1cNaFG1VII",
+    "title": "CARL SAGAN - A Way of Thinking",
+    "sec": 553
+   },
+   {
+    "id": "ifk6iuLQk28",
+    "title": "Biology of a tree",
+    "sec": 139
+   },
+   {
+    "id": "A41z7UD3NsU",
+    "title": "HOW NOT TO GO EXTINCT | Daniel Schmachtenberger",
+    "sec": 347
+   },
+   {
+    "id": "21CEOlBq2YI",
+    "title": "Jim Carrey: I Needed Color",
+    "sec": 379
+   },
+   {
+    "id": "60WTUwlvEk0",
+    "title": "Richard Feynman & Akira The Don - TREES COME OUT OF THE AIR! | Meaningwave Music Video \ud83c\udf33\ud83c\udf0a",
+    "sec": 207
+   },
+   {
+    "id": "O3MCodNInhY",
+    "title": "Terence McKenna - We Are Frustrated Monkeys",
+    "sec": 527
+   },
+   {
+    "id": "QkhBcLk_8f0",
+    "title": "Great Minds: Richard Feynman - The Uncertainty Of Knowledge",
+    "sec": 171
+   },
+   {
+    "id": "355TKLo4xsw",
+    "title": "Terence McKenna Tribute (Narrated by Dennis McKenna)",
+    "sec": 356
+   },
+   {
+    "id": "0xefRtWIZnE",
+    "title": "Terence McKenna - This Is The Way",
+    "sec": 438
+   },
+   {
+    "id": "ya_p4RIorXw",
+    "title": "If We Don't Fix Sensemaking, We Won't Survive",
+    "sec": 377
+   },
+   {
+    "id": "j4Ph02gzqmY",
+    "title": "Veggietales predicts modern internet humour",
+    "sec": 70
+   },
+   {
+    "id": "vjZH7nmsHpk",
+    "title": "My Framework for Making Better Decisions and Trusting Your Intuition",
+    "sec": 341
+   },
+   {
+    "id": "rsCul1sp4hQ",
+    "title": "Monkey MindPong",
+    "sec": 209
+   },
+   {
+    "id": "VMZkPe15SuE",
+    "title": "How To Train Your Mind To Get What You Want",
+    "sec": 248
+   },
+   {
+    "id": "Fam2LmzeyYc",
+    "title": "Awakening ~ Jim Carrey Lofi~ Prod Eric Godlow Beats",
+    "sec": 193
+   },
+   {
+    "id": "UT06KJ49Fhg",
+    "title": "Life Lines McConaughey pt 2 prod EricGodlowBeats",
+    "sec": 221
+   },
+   {
+    "id": "WekiRl16Oug",
+    "title": "Robert Anton Wilson Talks About Crypto-Currency In 1997",
+    "sec": 195
+   },
+   {
+    "id": "VW6LYuli7VU",
+    "title": "Richard Feynman talks about Algebra",
+    "sec": 82
+   },
+   {
+    "id": "tWr39Q9vBgo",
+    "title": "Richard Feynman on Pseudoscience",
+    "sec": 113
+   },
+   {
+    "id": "3gGocFUOYqs",
+    "title": "Neil Gaiman\u2019s Most Important Rule for Writing | The Tim Ferriss Show",
+    "sec": 168
+   },
+   {
+    "id": "Oseqh7SMIvo",
+    "title": "Norm MacDonald - Professor of Logic Joke",
+    "sec": 240
+   },
+   {
+    "id": "f61KMw5zVhg",
+    "title": "Feynman_i_dont_like_honors_ [longer_version]",
+    "sec": 157
+   },
+   {
+    "id": "Yxfn5PFWYTk",
+    "title": "Terence McKenna - Nobody is smarter than you are",
+    "sec": 97
+   },
+   {
+    "id": "-eu9GfHCpVo",
+    "title": "Terence McKenna - Reclaim your mind",
+    "sec": 122
+   },
+   {
+    "id": "GrWhX1BixBk",
+    "title": "THE YOGIS OF TIBET - Rare Documentary Film",
+    "sec": 4593
+   },
+   {
+    "id": "YkBcpsor1rk",
+    "title": "Just McKenna Being McKenna For Five Minutes",
+    "sec": 320
+   },
+   {
+    "id": "zDap-K6GmL0",
+    "title": "Christopher Hitchens - Free Speech (2006) [HQ]",
+    "sec": 1260
+   },
+   {
+    "id": "mD66opUGI2o",
+    "title": "Terence McKenna - This is an Art",
+    "sec": 319
+   },
+   {
+    "id": "TxxNidRefxU",
+    "title": "Terence McKenna - Harmless Madness",
+    "sec": 769
+   },
+   {
+    "id": "wCUXVzOVprE",
+    "title": "A Conversation Between Ram Dass & Terence McKenna",
+    "sec": 2424
+   },
+   {
+    "id": "yQU9f43702M",
+    "title": "Terence McKenna - Trading With Aliens",
+    "sec": 9553
+   },
+   {
+    "id": "7O3GLn78CAA",
+    "title": "Terence McKenna - The Final Illusion",
+    "sec": 465
+   },
+   {
+    "id": "rnDLgh6_SbQ",
+    "title": "How To Meditate - with Ram Dass | [ARCHIVAL VIDEO]",
+    "sec": 356
+   },
+   {
+    "id": "qo6ZXNBtYrc",
+    "title": "Ram Dass - Fruit of the Actions",
+    "sec": 3428
+   },
+   {
+    "id": "mSbYQz3rluM",
+    "title": "The Best of Mr. Rogers",
+    "sec": 599
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauohX_XKZAyjRfvUz8rK1nYV4",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "M E A N I N G W A V E - Best of 19-20",
+  "count": "83",
+  "feed_title": "M E A N I N G W A V E - Best of 19-20",
+  "videos": [
+   "cjFBV09nuGU",
+   "KMDBR5K5_74",
+   "0QkU7_BljPQ",
+   "mSbYQz3rluM",
+   "7aN-zuldVxg",
+   "VB9K2u0NZyk",
+   "32VO5vhcw0Y",
+   "0tUlHrdQvAE",
+   "1HfshLfQpLY",
+   "mKlE_NikKMU",
+   "EYB7zM_iXVY",
+   "b-mN8Z9I-qA",
+   "QpAhAAqwKGg",
+   "v_BshvKvSaA",
+   "iGYQDM4DrsY"
+  ],
+  "video_titles": [
+   "\ud83d\udd34 AKIRA THE DON MEANINGWAVE LIVE STREAM EXPERIENCE | 622",
+   "\ud83d\udd34 C l a s s i c s",
+   "\ud83d\udd34 Life is but a stream",
+   "The Best of Mr. Rogers",
+   "Naval Ravikant - The Purpose of WEALTH Is FREEDOM | Meaningwave MV | Akira The Don",
+   "Naval Ravikant - HABITS Are GOOD! | \ud83c\udf0a Meaningwave | Lofi Hiphop | Moomins AMV",
+   "IF I WERE THE DEVIL - Paul Harvey &amp; Akira The Don | Music Video",
+   "\uff33\uff2f\uff2e\uff27\uff33\u3000\uff21\uff22\uff2f\uff35\uff34\u3000\uff24\uff29\uff33\uff23\uff29\uff30\uff2c\uff29\uff2e\uff25 ft. Jocko Willink, David Goggins, Joe Rogan, Jordan Peterson",
+   "\uff34\uff28\uff25\u3000\uff23\uff28\uff21\uff24\u3000\uff26\uff2f\uff32\uff2d\uff35\uff2c\uff21 | \ud83d\ude24 Ft. David Goggins, Jocko Willink, Joe Rogan, Alan Watts, Jordan Peterson",
+   "\uff2c\uff2f\uff26\uff29\u3000\uff23\uff28\uff32\uff29\uff33\uff34\uff2d\uff21\uff33\u3000\uff29\uff36 \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f the new best lofi xmas mix",
+   "Naval Ravikant &amp; Akira The Don - \uff22\uff25\uff33\uff34\u3000\uff29\uff2e\u3000\uff34\uff28\uff25\u3000\uff37\uff2f\uff32\uff2c\uff24 | Music Video | Meaningwave",
+   "&quot;GENIUS&quot;: Scott Adams &amp; Gutfeld Talk New Meaningwave Album On Fox!",
+   "Akira The Don &amp; Mr Rogers - ALWAYS LOOK FOR THE HELPERS \ud83d\udc9c| Music Video | Meaningwave",
+   "The Immortal Stan Lee| Lofi Hiphop| Full album | Meaningwave| Akira The Don",
+   "\uff34\uff28\uff25\u3000\uff33\uff28\uff21\uff24\uff2f\uff37  \ud83c\udf12  | A Berserk Meaningwave Mixtape | Ft Alan Watts, Joseph Campbell, Jordan B Peterson"
+  ],
+  "playlist_videos": [
+   {
+    "id": "cjFBV09nuGU",
+    "title": "\ud83d\udd34 AKIRA THE DON MEANINGWAVE LIVE STREAM EXPERIENCE | 622",
+    "sec": 6728
+   },
+   {
+    "id": "KMDBR5K5_74",
+    "title": "\ud83d\udd34 C l a s s i c s",
+    "sec": 7380
+   },
+   {
+    "id": "0QkU7_BljPQ",
+    "title": "\ud83d\udd34 Life is but a stream",
+    "sec": 5691
+   },
+   {
+    "id": "mSbYQz3rluM",
+    "title": "The Best of Mr. Rogers",
+    "sec": 599
+   },
+   {
+    "id": "7aN-zuldVxg",
+    "title": "Naval Ravikant - The Purpose of WEALTH Is FREEDOM | Meaningwave MV | Akira The Don",
+    "sec": 375
+   },
+   {
+    "id": "VB9K2u0NZyk",
+    "title": "Naval Ravikant - HABITS Are GOOD! | \ud83c\udf0a Meaningwave | Lofi Hiphop | Moomins AMV",
+    "sec": 205
+   },
+   {
+    "id": "32VO5vhcw0Y",
+    "title": "IF I WERE THE DEVIL - Paul Harvey & Akira The Don | Music Video",
+    "sec": 345
+   },
+   {
+    "id": "0tUlHrdQvAE",
+    "title": "\uff33\uff2f\uff2e\uff27\uff33\u3000\uff21\uff22\uff2f\uff35\uff34\u3000\uff24\uff29\uff33\uff23\uff29\uff30\uff2c\uff29\uff2e\uff25 ft. Jocko Willink, David Goggins, Joe Rogan, Jordan Peterson",
+    "sec": 2944
+   },
+   {
+    "id": "1HfshLfQpLY",
+    "title": "\uff34\uff28\uff25\u3000\uff23\uff28\uff21\uff24\u3000\uff26\uff2f\uff32\uff2d\uff35\uff2c\uff21 | \ud83d\ude24 Ft. David Goggins, Jocko Willink, Joe Rogan, Alan Watts, Jordan Peterson",
+    "sec": 7946
+   },
+   {
+    "id": "mKlE_NikKMU",
+    "title": "\uff2c\uff2f\uff26\uff29\u3000\uff23\uff28\uff32\uff29\uff33\uff34\uff2d\uff21\uff33\u3000\uff29\uff36 \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f the new best lofi xmas mix",
+    "sec": 2218
+   },
+   {
+    "id": "EYB7zM_iXVY",
+    "title": "Naval Ravikant & Akira The Don - \uff22\uff25\uff33\uff34\u3000\uff29\uff2e\u3000\uff34\uff28\uff25\u3000\uff37\uff2f\uff32\uff2c\uff24 | Music Video | Meaningwave",
+    "sec": 321
+   },
+   {
+    "id": "b-mN8Z9I-qA",
+    "title": "\"GENIUS\": Scott Adams & Gutfeld Talk New Meaningwave Album On Fox!",
+    "sec": 629
+   },
+   {
+    "id": "QpAhAAqwKGg",
+    "title": "Akira The Don & Mr Rogers - ALWAYS LOOK FOR THE HELPERS \ud83d\udc9c| Music Video | Meaningwave",
+    "sec": 192
+   },
+   {
+    "id": "v_BshvKvSaA",
+    "title": "The Immortal Stan Lee| Lofi Hiphop| Full album | Meaningwave| Akira The Don",
+    "sec": 745
+   },
+   {
+    "id": "iGYQDM4DrsY",
+    "title": "\uff34\uff28\uff25\u3000\uff33\uff28\uff21\uff24\uff2f\uff37  \ud83c\udf12  | A Berserk Meaningwave Mixtape | Ft Alan Watts, Joseph Campbell, Jordan B Peterson",
+    "sec": 2214
+   },
+   {
+    "id": "6awvbdfC0SM",
+    "title": "Richard Feynman & Akira The Don - IMAGINATION | Music Video | Meaningwave",
+    "sec": 387
+   },
+   {
+    "id": "RGDE19qm9Eo",
+    "title": "HOW TO GET RICH VOL. 2 - Naval Ravikant & Akira The Don | Full Album | Meaningwave",
+    "sec": 4643
+   },
+   {
+    "id": "5ZZqqS_Pnfw",
+    "title": "Naval Ravikant & Akira The Don - THIS IS LEVERAGE  | Meaningwave | MV",
+    "sec": 303
+   },
+   {
+    "id": "y_GPCPHzoAo",
+    "title": "Naval Ravikant & Akira The Don - GIVE ME A LEVER ft. Nivi | Meaningwave | MV | Dr. Stone AMV",
+    "sec": 300
+   },
+   {
+    "id": "y90toAhKE9I",
+    "title": "Jim Morrison & Akira The Don - USING MACHINES | MV | Meaningwave",
+    "sec": 220
+   },
+   {
+    "id": "zRP8PudKh2A",
+    "title": "\ud83d\udd34THINK AND GROW RICH! | Lofi Library \ud83d\udcda   \ud83d\udcf9  MEANING STREAM 360",
+    "sec": 7996
+   },
+   {
+    "id": "5QnlyQ-0hsU",
+    "title": "Graham Hancock & Akira The Don - THE WAR ON CONSCIOUSNESS | Full Album | Meaningwave",
+    "sec": 2364
+   },
+   {
+    "id": "oolwScls_QA",
+    "title": "\uff24\uff32\uff25\uff21\uff2d\uff37\uff21\uff36\uff25\u3000 \ud83d\udcf9  MEANING STREAM 205",
+    "sec": 5454
+   },
+   {
+    "id": "HPBc0u-Llbc",
+    "title": "The Chad Formula | A Motivational Mixtape | MEANINGWAVE | Akira The Don",
+    "sec": 3062
+   },
+   {
+    "id": "w6GAuCpa1r0",
+    "title": "MEANING CRISIS & CHILL 13: Buddhism and Parasitic Processing \ud83e\uddca   \ud83d\udcf9  MEANING STREAM 338",
+    "sec": 1221
+   },
+   {
+    "id": "WbWfLCcrEq4",
+    "title": "Jordan Peterson & Akira The Don - OH YE OF LITTLE FAITH | Music Video | Meaningwave",
+    "sec": 320
+   },
+   {
+    "id": "A-Kf64yARoI",
+    "title": "PEOPLE ARE FUEL!  A ROGAN-FI edit produced by EricGodlowBeats",
+    "sec": 212
+   },
+   {
+    "id": "fXXayafKI4A",
+    "title": "MEANINGWAVE LIVE: THE TALE OF 2020: Rebuilding Reality!  \ud83d\udcf9  MEANING STREAM 294",
+    "sec": 9641
+   },
+   {
+    "id": "qKnTDBTbS80",
+    "title": "Terence McKenna & Akira The Don - The Archaic Revival | Meaningwave",
+    "sec": 277
+   },
+   {
+    "id": "WMAtQqgQm2k",
+    "title": "Charlie Chaplin & Akira The Don - THE GREAT DICTATOR | Music Video | Meaningwave",
+    "sec": 324
+   },
+   {
+    "id": "4IhFCmd9yuo",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25  \uff29\uff29 \u26a1\ud83c\udf0a  How To Be A Better Person - Alan Watts & Akira The Don | Full Album | Lofi Hiphop",
+    "sec": 5752
+   },
+   {
+    "id": "g9VeXLuJu4M",
+    "title": "Alan Watts & Akira The Don - THE WAY THE WORLD ACTUALLY IS | MV | Meaningwave | Lofi Hip hop",
+    "sec": 331
+   },
+   {
+    "id": "fINm8wWfeYc",
+    "title": "MEANINGWAVE MASTERPIECES II | Full Album | Lofi Hip Hop | Philosophy | Motivation",
+    "sec": 5588
+   },
+   {
+    "id": "BHceSEYXz5M",
+    "title": "\ud83d\udcf9MEANING STREAM 178: MAZ FOREVER!!!",
+    "sec": 7485
+   },
+   {
+    "id": "60WTUwlvEk0",
+    "title": "Richard Feynman & Akira The Don - TREES COME OUT OF THE AIR! | Meaningwave Music Video \ud83c\udf33\ud83c\udf0a",
+    "sec": 207
+   },
+   {
+    "id": "uLdxyHwjY38",
+    "title": "Joe Rogan & Akira The Don - EXPERIENCE | Full Album | Meaningwave",
+    "sec": 4311
+   },
+   {
+    "id": "cOxuYhGaSpo",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25  \uff36\uff29 \u26a1\ud83c\udf0a : The Web of Life 2 - Alan Watts & Akira The Don | Lofi Hiphop Meaningwave",
+    "sec": 5936
+   },
+   {
+    "id": "d6VTQZNULlA",
+    "title": "ALAN WATTS X DR DRE - IT TAKES TWO (What's The Difference Remix) | Meaningwave | Akira The Don",
+    "sec": 407
+   },
+   {
+    "id": "Dc_S_ocOtYk",
+    "title": "Alan Watts - The Sound of the Rain Needs No Translation | W A T  T S W A V E | VISUAL | MEANINGWAVE",
+    "sec": 443
+   },
+   {
+    "id": "BLsdZvgXziI",
+    "title": "Alan Watts - Gangster Arrangement | W A T T S W A V E | VISUAL | MEANINGWAVE | Akira The Don",
+    "sec": 304
+   },
+   {
+    "id": "8Dp2jtInUe4",
+    "title": "Alan Watts - That's The Way It Goes | W A T T S W A V E | VISUAL | MEANINGWAVE | Akira The Don",
+    "sec": 453
+   },
+   {
+    "id": "_pDR7E13oE8",
+    "title": "Naval Ravikant - Maintain Your Freedom | MEANINGWAVE | VISUAL | Akira The Don",
+    "sec": 228
+   },
+   {
+    "id": "NTcI1qxLTJ4",
+    "title": "THE USER INTERFACE FOR REALITY  with Scott Adams| Full Album",
+    "sec": 2631
+   },
+   {
+    "id": "1mP1DfEn6ZA",
+    "title": "\ud83d\udcf9MEANING STREAM 100: THE OFFICIAL MEANINGWAVE TOP 100!!!",
+    "sec": 17338
+   },
+   {
+    "id": "_qbTXtGgcdk",
+    "title": "Alan Watts - Everybody is God & The Power of Omnipotence | W A T T S W A V E | VISUAL | MEANINGWAVE",
+    "sec": 276
+   },
+   {
+    "id": "tvGDNBbRk2k",
+    "title": "Jordan Peterson & Akira The Don - THE WAVE \ud83c\udf0a(NIGHT DRIVING EDIT) | Synthwave | Future Funk",
+    "sec": 253
+   },
+   {
+    "id": "2zqvoH5PJAw",
+    "title": "\ud83d\udcf9 MEANING STREAM 50! ALL ALAN WATTS  SET! WATTSWAVE 6 LAUNCH PARTY!",
+    "sec": 12278
+   },
+   {
+    "id": "wy9WYck-8Kk",
+    "title": "Alan Watts - There Will Be Noise | W A T T S W A V E | MEANINGWAVE | VISUAL | Akira The Don",
+    "sec": 317
+   },
+   {
+    "id": "V6qGTWEQXNM",
+    "title": "Manly P. Hall & Akira The Don - REDUCE EFFORT | Music Video  | Meaningwave",
+    "sec": 228
+   },
+   {
+    "id": "Q2ZRAc6pcyY",
+    "title": "David Foster Wallace - Inside My Head | W A T E R W A V E | MEANINGWAVE | VISUAL | Akira The Don",
+    "sec": 255
+   },
+   {
+    "id": "h3IuVjS2NJo",
+    "title": "Meaningwave Christmas \ud83c\udf84lofi hip hop Xmas mix ft Jordan Peterson, Alan Watts, Jocko Willink and more",
+    "sec": 2721
+   },
+   {
+    "id": "Tb8kqNBwKcs",
+    "title": "Jordan Peterson - JBPWAVE: FATHER (Full Album) | Meaningwave | Lofi hip hop | Akira The Don",
+    "sec": 4523
+   },
+   {
+    "id": "gH3eGosOqXU",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25\u00b2 \u26a1\ud83c\udf0a : How To Be A Better Person - An Alan Watts Lofi Hip Hop Mix",
+    "sec": 3862
+   },
+   {
+    "id": "wZobf0MiWpE",
+    "title": "HOW TO GET RICH - Naval Ravikant & Akira The Don | Full Album |Meaningwave",
+    "sec": 5130
+   },
+   {
+    "id": "WnMKpx38NLo",
+    "title": "\uff27\uff2f\uff27\uff27\uff29\uff2e\uff33 | Full Album | Akira The Don & David Goggins | Motivational Music",
+    "sec": 5866
+   },
+   {
+    "id": "O9nyWg7obj4",
+    "title": "Alan Watts - \uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25 \ud835\udce5\u26a1\ud83c\udf0a: The Web of Life \ud83d\udd78\ufe0f\ud83d\udc9c | Lofi Hip Hop | Meaningwave | Full Album",
+    "sec": 5245
+   },
+   {
+    "id": "U-1DY0OVvew",
+    "title": "\uff2a\uff22\uff30\uff37\uff21\uff36\uff25: GENESIS (A Jordan Peterson lofi hip hop album)",
+    "sec": 3952
+   },
+   {
+    "id": "Fx_HIfzsb58",
+    "title": "Jordan Peterson & Akira The Don -\uff2a\uff22\uff30\uff37\uff21\uff36\uff25: PARADISE  \ud83e\udd9e\ud83c\udf0a | Full Album | Meaningwave",
+    "sec": 5049
+   },
+   {
+    "id": "fSQSETwnrio",
+    "title": "12 Rules For Life: The Album ft. Jordan Peterson (\uff2a\uff22\uff30\uff37\uff21\uff36\uff25)",
+    "sec": 2824
+   },
+   {
+    "id": "qjQC-0H574c",
+    "title": "Jocko Willink & Akira The Don - \ud83d\udd25 \uff34\uff28\uff25\u3000\uff30\uff21\uff34\uff28 \ud83d\udd25 FULL ALBUM | Motivational Music | Meaningwave",
+    "sec": 4180
+   },
+   {
+    "id": "8KRCjUu2aNE",
+    "title": "\uff23\uff2c\uff25\uff21\uff2e\u3000\uff35\uff30\u3000\uff39\uff2f\uff35\uff32\u3000\uff32\uff2f\uff2f\uff2d \u2078\u3000\ud83d\uddd1 \u2b06 | Lofi Hip-hop Tape",
+    "sec": 5046
+   },
+   {
+    "id": "dYiXG2cAajs",
+    "title": "David Foster Wallace - This Is  \uff37\uff21\uff34\uff25\uff32\uff37\uff21\uff36\uff25 \ud83d\udca7\ud83c\udf0a| Lofi Hip Hop | Full Album | Meaningwave",
+    "sec": 2568
+   },
+   {
+    "id": "FWZx9hTyvSU",
+    "title": "Terence McKenna - CLOCKWORK ELVES \u23f0\ud83d\udc7dFull Album | Meaningwave",
+    "sec": 1905
+   },
+   {
+    "id": "i2R2bZjvAmI",
+    "title": "MEANINGWAVE MASTERPIECES | Full Album | Jordan Peterson, Alan Watts, Jocko Willink & More",
+    "sec": 3433
+   },
+   {
+    "id": "057LswAXqgE",
+    "title": "\uff33\uff34\uff2f\uff30\u3000\uff34\uff28\uff29\uff2e\uff2b\uff29\uff2e\uff27 \u3000\uff36    \ud83e\uddd8    |   A Mind Expanding Mix To Meditate To  \ud83e\uddd8",
+    "sec": 5250
+   },
+   {
+    "id": "anUiTQQYpsA",
+    "title": "Eric Weinstein -\uff29\uff4e\uff54\uff45\uff4c\uff4c\uff45\uff43\uff54\uff55\uff41\uff4c\u3000\uff24\uff41\uff52\uff4b\u3000\uff37\uff41\uff56\uff45\uff1a \uff2e\uff25\uff2d\uff25\uff33\uff29\uff33 | Meaningwave | Akira The Donn",
+    "sec": 1331
+   },
+   {
+    "id": "DhbAzFw-7xg",
+    "title": "Alan Watts - \uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25\u3000\uff29\uff36\u26a1\ud83c\udf0a DREAMS | Lofi hip hop | Full album | Akira The Don",
+    "sec": 3919
+   },
+   {
+    "id": "U37gaLkmnHc",
+    "title": "\uff33\uff34\uff2f\uff30\u3000\uff34\uff28\uff29\uff2e\uff2b\uff29\uff2e\uff27  IV   |   A Transcendent Lofi Vaportrap Mix To Meditate To",
+    "sec": 3916
+   },
+   {
+    "id": "rA2YbO4s03o",
+    "title": "\uff34\uff29\uff2d\uff25\uff37\uff21\uff36\uff25 \u23f0\ud83c\udf0a ft. Terence McKenna - Full Album",
+    "sec": 2124
+   },
+   {
+    "id": "w7yxiy7JMy0",
+    "title": "\ud83d\udc4b \uff2e\uff25\uff29\uff27\uff28\uff22\uff2f\uff32\uff37\uff21\uff36\uff25 \ud83d\udc4b  - A Mr Rogers Lofi Tape",
+    "sec": 1588
+   },
+   {
+    "id": "m_hmCW5QvTI",
+    "title": "\uff37\uff48\uff4f\uff4c\uff45\uff53\uff4f\uff4d\uff45\u3000\uff36\uff49\uff42\uff45\uff53   \ud83e\udd17    A Lofi mix",
+    "sec": 1589
+   },
+   {
+    "id": "qtsO4VKU4fU",
+    "title": "\uff33\uff34\uff2f\uff30\u3000\uff34\uff28\uff29\uff2e\uff2b\uff29\uff2e\uff27  \u2162    \ud83e\uddd8    |   A Chill Lofi Mix To Meditate To  \ud83e\uddd8",
+    "sec": 1906
+   },
+   {
+    "id": "23pgfpgv_Pg",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25 \u2162 \u26a1\ud83c\udf0a : Time  \u231b - An Alan Watts Lofi Hip Hop Mix",
+    "sec": 1906
+   },
+   {
+    "id": "z6rklFf69z8",
+    "title": "\uff2e\uff21\uff36\uff21\uff2c\uff37\uff21\uff36\uff25: A Naval Ravikant Lofi Hip Hop Mix",
+    "sec": 1159
+   },
+   {
+    "id": "8WsStYAB3sM",
+    "title": "\uff2a\uff22\uff30\uff37\uff21\uff36\uff25\u2075   : A Jordan Peterson Lofi Hip Hop Mix",
+    "sec": 2474
+   },
+   {
+    "id": "vpLlyWRnKxY",
+    "title": "\uff33\uff34\uff2f\uff30\u3000\uff34\uff28\uff29\uff2e\uff2b\uff29\uff2e\uff27     \ud83e\uddd8    |   A Chill Lofi Mix To Meditate To  \ud83e\uddd8",
+    "sec": 1946
+   },
+   {
+    "id": "mwjwPhtyz4c",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25 \u26a1\ud83c\udf0a : An Alan Watts Lofi Hip Hop Mix",
+    "sec": 1948
+   },
+   {
+    "id": "H09e11JJwFk",
+    "title": "\uff2a \uff22 \uff30 \uff37 \uff21 \uff36 \uff25\u00b3\u3000: A Jordan Peterson   Lofi Hip Hop Mix",
+    "sec": 2945
+   },
+   {
+    "id": "BV-q6RfK1S0",
+    "title": "\ud83c\udf6d  \u3000 \uff22\uff2c\uff29\uff33\uff33  \u3000 \uff30\uff2f\uff29\uff2e\uff34  \u3000 \ud83c\udf6d  \u3000 (Full Album)",
+    "sec": 1705
+   },
+   {
+    "id": "KTJAaY9ngHk",
+    "title": "\uff28\uff39\uff30\uff25\uff32\uff2e\uff2f\uff32\uff2d\uff21\uff2c\uff29\uff33\uff21\uff34\uff29\uff2f\uff2e (Mixtape)",
+    "sec": 2599
+   },
+   {
+    "id": "2Zg6kBeSsm8",
+    "title": "\uff2a \uff22 \uff30 \uff37 \uff21 \uff36 \uff25 \u00b2\u3000: A Jordan Peterson Lofi Hip Hop Mix",
+    "sec": 2536
+   },
+   {
+    "id": "3KcOWSibce0",
+    "title": "\uff2a \uff22 \uff30 \uff37 \uff21 \uff36 \uff25\u3000: A Jordan Peterson Lofi Hip Hop Mix",
+    "sec": 2600
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoiOhEcaFjyuYCTG_Zd6rDnh",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "A Personal Guide through the Infinite Realm of Hip-Hop Part 2",
+  "count": "39",
+  "feed_title": "A Personal Guide through the Infinite Realm of Hip-Hop Part 2",
+  "videos": [
+   "0_02oslDQgs",
+   "lPLc67lXZUs",
+   "IX-2DLoOx_s",
+   "zsWr9J67EJk",
+   "qFASFUh6eyM",
+   "muTygpofH5o",
+   "TwGwD-0OYuM",
+   "nVqWRuglUMM",
+   "BG0JuDBK1VE",
+   "fGlEen-WAtw",
+   "6sRQ9q4hzv4",
+   "wE_KOXiSbI8",
+   "7OzzW-huj_M",
+   "Nh27dGGAaqg"
+  ],
+  "video_titles": [
+   "King Chip (Chip Tha Ripper) - The Entrance (Gift Raps)",
+   "Big Baby Gandhi- Supposed 2 Change",
+   "Big Baby Gandhi - Long Ass Into",
+   "Serengeti - Tracks",
+   "Lakutis- Lakutis In the House",
+   "Kool A.D. - 51",
+   "milo - sweet chin music (the fisher king's anthem)",
+   "Mac Miller - The Star Room (WMWTSO)",
+   "Heems- WWK Intro",
+   "Lil Dicky - Make Belief",
+   "Run The Jewels - Jeopardy (from the Run The Jewels 2 album)",
+   "Doors",
+   "Garage",
+   "Logic - Illuminatro (Official Audio)"
+  ],
+  "playlist_videos": [
+   {
+    "id": "0_02oslDQgs",
+    "title": "King Chip (Chip Tha Ripper) - The Entrance (Gift Raps)",
+    "sec": 221
+   },
+   {
+    "id": "lPLc67lXZUs",
+    "title": "Big Baby Gandhi- Supposed 2 Change",
+    "sec": 271
+   },
+   {
+    "id": "IX-2DLoOx_s",
+    "title": "Big Baby Gandhi - Long Ass Into",
+    "sec": 160
+   },
+   {
+    "id": "zsWr9J67EJk",
+    "title": "Serengeti - Tracks",
+    "sec": 174
+   },
+   {
+    "id": "qFASFUh6eyM",
+    "title": "Lakutis- Lakutis In the House",
+    "sec": 179
+   },
+   {
+    "id": "muTygpofH5o",
+    "title": "Kool A.D. - 51",
+    "sec": 292
+   },
+   {
+    "id": "TwGwD-0OYuM",
+    "title": "milo - sweet chin music (the fisher king's anthem)",
+    "sec": 209
+   },
+   {
+    "id": "nVqWRuglUMM",
+    "title": "Mac Miller - The Star Room (WMWTSO)",
+    "sec": 279
+   },
+   {
+    "id": "BG0JuDBK1VE",
+    "title": "Heems- WWK Intro",
+    "sec": 216
+   },
+   {
+    "id": "fGlEen-WAtw",
+    "title": "Lil Dicky - Make Belief",
+    "sec": 402
+   },
+   {
+    "id": "6sRQ9q4hzv4",
+    "title": "Run The Jewels - Jeopardy (from the Run The Jewels 2 album)",
+    "sec": 203
+   },
+   {
+    "id": "wE_KOXiSbI8",
+    "title": "Doors",
+    "sec": 79
+   },
+   {
+    "id": "7OzzW-huj_M",
+    "title": "Garage",
+    "sec": 238
+   },
+   {
+    "id": "Nh27dGGAaqg",
+    "title": "Logic - Illuminatro (Official Audio)",
+    "sec": 49
+   },
+   {
+    "id": "p5vOG6BYdeM",
+    "title": "Oliver ~ 3 deep",
+    "sec": 174
+   },
+   {
+    "id": "ke6cux-KR4I",
+    "title": "HEAT",
+    "sec": 273
+   },
+   {
+    "id": "hcnNvy_svTE",
+    "title": "BLOOD.",
+    "sec": 119
+   },
+   {
+    "id": "VzAjXdBJsEc",
+    "title": "Come Back to Earth",
+    "sec": 162
+   },
+   {
+    "id": "sQtAJYoaIJ4",
+    "title": "Soulfolk",
+    "sec": 130
+   },
+   {
+    "id": "P1eJyrOQrr0",
+    "title": "Atmosphere - Onemosphere",
+    "sec": 138
+   },
+   {
+    "id": "NtEQbvU-1ns",
+    "title": "Eyedea & Abilities-Reintroducing",
+    "sec": 181
+   },
+   {
+    "id": "XILLovSSNFI",
+    "title": "01: Baba Says Cool For Thought - Lupe Fiasco's The Cool",
+    "sec": 47
+   },
+   {
+    "id": "wEkXWK6ZcsU",
+    "title": "The Dirty Heads - Intro (Anchors Up)",
+    "sec": 79
+   },
+   {
+    "id": "EngbGrzCE0w",
+    "title": "Danny Brown - Side A (Old)",
+    "sec": 144
+   },
+   {
+    "id": "HQ8lKEzzEAQ",
+    "title": "2Pac + Nujabes | Metaphorical Shakur EP (Full Album)",
+    "sec": 1442
+   },
+   {
+    "id": "kGNhEtOVxek",
+    "title": "Spillage Village, EARTHGANG, JID \u2013 End of Daze feat. Jurdan Bryant, Mereba, Hollywood JB",
+    "sec": 343
+   },
+   {
+    "id": "rBLuvEwIF5E",
+    "title": "90s Underground Hip Hop - Rare Tracks (No AI)",
+    "sec": 3424
+   },
+   {
+    "id": "P6AIKRI_XpY",
+    "title": "Gza - Queens Gambit",
+    "sec": 276
+   },
+   {
+    "id": "04GUP4VhRB4",
+    "title": "Lil B - Save The Planet [ Produced By The BasedGod ]",
+    "sec": 289
+   },
+   {
+    "id": "LrC9IGf1Qm0",
+    "title": "J Dilla - Sunbeams (Extended)",
+    "sec": 1106
+   },
+   {
+    "id": "VHRkkeecg7c",
+    "title": "COVID-19: The Great Reset",
+    "sec": 4067
+   },
+   {
+    "id": "OtwZj9-am70",
+    "title": "207001 - (OFFICIAL MUSIC VIDEO) || FREE SOULS ORIGINALS || Etah || UP82",
+    "sec": 366
+   },
+   {
+    "id": "F43VagKKDkY",
+    "title": "KHYATI - (OFFICIAL MUSIC VIDEO) || FREE SOULS ORIGINALS",
+    "sec": 296
+   },
+   {
+    "id": "EpiPdAxC1UA",
+    "title": "Playa G - 09 - Something To Ride To - 1996",
+    "sec": 300
+   },
+   {
+    "id": "YlpN3S16ZAs",
+    "title": "J. Cole Freestyles Over \"93 Til Infinity\" & Mike Jones' \"Still Tippin\" - L.A. Leakers Freestyle #108",
+    "sec": 351
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoixAn_SV2ThC__ORMWS71sn",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "A Personal Guide through the Infinite Realm of Hip-Hop",
+  "count": "89",
+  "feed_title": "A Personal Guide through the Infinite Realm of Hip-Hop",
+  "videos": [
+   "HIgN1RdNfLM",
+   "qh8SQuokdLQ",
+   "CVKrrs5K9v0",
+   "-aB6bfucM04",
+   "oAG_k4VUeTs",
+   "1ppwnd8Up60",
+   "m3j6UACQ7BI",
+   "lGCtAzYNwZ4",
+   "wB85VhBv4qk",
+   "dlYkKZsXGl0",
+   "TSMgjBbmjWk",
+   "nZaYfDzYrdw",
+   "xy7iUYO66aA",
+   "AwnPC1x7rQg"
+  ],
+  "video_titles": [
+   "A Tribe Called Quest - The Low End Theory (1991) Full Album",
+   "The Pharcyde - Bizarre Ride II The Pharcyde - 20th Anniversary Mixtape",
+   "A Tribe Called Quest - Midnight Marauders (Full Album) [HD]",
+   "Illmatic (Full Album)",
+   "Outkast - ATliens [Full Album]",
+   "The Roots - Dilla Joints (Full Album)",
+   "Aesop Rock - Music for earth worms [Full Album]",
+   "Lauryn Hill 1998 The Miseducation of Lauryn Hill",
+   "Mos Def and Talib Kweli - Black Star",
+   "Kool Keith - Black Elvis/Lost In Space (1999)",
+   "MF DOOM Operation: Doomsday [1999][Full Album]",
+   "Blackalicious - Nia [full lp] 2000",
+   "THE SLIM SHADY",
+   "THE MARSHALL MATHERS"
+  ],
+  "playlist_videos": [
+   {
+    "id": "qh8SQuokdLQ",
+    "title": "The Pharcyde - Bizarre Ride II The Pharcyde - 20th Anniversary Mixtape",
+    "sec": 2473
+   },
+   {
+    "id": "1ppwnd8Up60",
+    "title": "The Roots - Dilla Joints (Full Album)",
+    "sec": 2501
+   },
+   {
+    "id": "m3j6UACQ7BI",
+    "title": "Aesop Rock - Music for earth worms [Full Album]",
+    "sec": 3361
+   },
+   {
+    "id": "wB85VhBv4qk",
+    "title": "Mos Def and Talib Kweli - Black Star",
+    "sec": 2581
+   },
+   {
+    "id": "nZaYfDzYrdw",
+    "title": "Blackalicious - Nia [full lp] 2000",
+    "sec": 4409
+   },
+   {
+    "id": "xy7iUYO66aA",
+    "title": "THE SLIM SHADY",
+    "sec": 3591
+   },
+   {
+    "id": "v6YJjkO7F5A",
+    "title": "Deltron 3030 - Deltron 3030 (FULL ALBUM)",
+    "sec": 3626
+   },
+   {
+    "id": "AwnPC1x7rQg",
+    "title": "THE MARSHALL MATHERS",
+    "sec": 4336
+   },
+   {
+    "id": "kJdL5onCfLw",
+    "title": "Del Tha Funkee Homosapien- Both Sides Of The Brain (FULL ALBUM) (2000) (SLIDESHOW)",
+    "sec": 4422
+   },
+   {
+    "id": "vBdEnJaKStA",
+    "title": "mc paul barman -  paullelujah?! remastered + bonused",
+    "sec": 3795
+   },
+   {
+    "id": "ePHE1JCpME4",
+    "title": "Hieroglyphics - Full Circle (Full Album)",
+    "sec": 3333
+   },
+   {
+    "id": "9H20LK2lQHM",
+    "title": "WHY? - Elephant Eyelash [Full Album]",
+    "sec": 2461
+   },
+   {
+    "id": "NJfsnbhejn8",
+    "title": "Blu & Exile - Below The Heavens (Full Album-2007)",
+    "sec": 4423
+   },
+   {
+    "id": "Um-W9-IxMFU",
+    "title": "Why? - Alopecia [Full Album]",
+    "sec": 2706
+   },
+   {
+    "id": "rBFnmXHdjuY",
+    "title": "Curren$y \u25cf 2009 \u25cf The Jet Files (FULL ALBUM)",
+    "sec": 2562
+   },
+   {
+    "id": "c1p6JWQ7p4Y",
+    "title": "Das Racist - Shut Up, Dude (Full Mixtape)",
+    "sec": 3882
+   },
+   {
+    "id": "Gcr3b8YRbTo",
+    "title": "Das Racist - Sit Down, Man (Full Mixtape)",
+    "sec": 4336
+   },
+   {
+    "id": "opsl7aJdT6A",
+    "title": "Wiz Khalifa - Kush OJ (Full Mixtape)",
+    "sec": 3842
+   },
+   {
+    "id": "vR99qn-rvSI",
+    "title": "Soulchef - Escapism [Full Album]",
+    "sec": 3186
+   },
+   {
+    "id": "fCRfW2D0w74",
+    "title": "Milo // I wish my brother Rob was here (FULL ALBUM)",
+    "sec": 2695
+   },
+   {
+    "id": "UW-qcsDLxUY",
+    "title": "Kendrick Lamar - Section.80 Full Album",
+    "sec": 3596
+   },
+   {
+    "id": "04EREvfJ6Ag",
+    "title": "Childish Gambino - EP (Full Album)",
+    "sec": 1226
+   },
+   {
+    "id": "NGRLDuWfrzM",
+    "title": "Captain Murphy // DU\u0394LITY (FULL ALBUM)",
+    "sec": 4210
+   },
+   {
+    "id": "4EMPD329sAY",
+    "title": "Ab-Soul - Control System (Full Album)",
+    "sec": 4313
+   },
+   {
+    "id": "SfM84wPUF9c",
+    "title": "scallops hotel - poplar grove (or how to rap with a hammer)",
+    "sec": 1661
+   },
+   {
+    "id": "8IUrisrzqYc",
+    "title": "Rejjie Snow - Rejovich EP [FULL]",
+    "sec": 1016
+   },
+   {
+    "id": "_y9RjAMWHck",
+    "title": "D.A.I.S.Y. rage - \u2661kitty\u2661 (Full EP)",
+    "sec": 1380
+   },
+   {
+    "id": "J3YlFvZVLcI",
+    "title": "Lakutis - 3 Seashells (Full Album)",
+    "sec": 1472
+   },
+   {
+    "id": "qV0_UAbeyHs",
+    "title": "Mick Jenkins - The Water[s] (Full Mixtape)",
+    "sec": 3444
+   },
+   {
+    "id": "TEe3tEKMJTo",
+    "title": "Scallops Hotel (Milo) - Plain Speaking",
+    "sec": 1871
+   },
+   {
+    "id": "wqDhZlBTE1g",
+    "title": "Red wall - (Boyle) and Piles EP",
+    "sec": 1207
+   },
+   {
+    "id": "YoP-AQ5AOAY",
+    "title": "Jonwayne Is Retired (Full Album)",
+    "sec": 1100
+   },
+   {
+    "id": "7LrIMt7WurE",
+    "title": "Busdriver - THUMBS [Full Album]",
+    "sec": 3088
+   },
+   {
+    "id": "La_DUdnH7qU",
+    "title": "JARVAGE VOL.1 (FULL MIXTAPE)",
+    "sec": 2454
+   },
+   {
+    "id": "K2ygli4qEeQ",
+    "title": "Pink Navel - raw navel (FULL ALBUM)",
+    "sec": 2229
+   },
+   {
+    "id": "cueOlzdZ3_U",
+    "title": "Oliver Francis - Infinity Boy [FULL ALBUM]",
+    "sec": 781
+   },
+   {
+    "id": "i463BSDsPhQ",
+    "title": "Offsite - \u7121 [full album]",
+    "sec": 1360
+   },
+   {
+    "id": "-u9sKVTcVn8",
+    "title": "Deep Puddle Dynamics - The Taste of Rain... Why Kneel? (1999) [full album]",
+    "sec": 4350
+   },
+   {
+    "id": "N1VboJAlbgw",
+    "title": "Eyedea & Abilities - First Born (2001) Full Album",
+    "sec": 4038
+   },
+   {
+    "id": "QO53tTmU42k",
+    "title": "Cunninlynguists   A Piece Of Strange Full Album 2006",
+    "sec": 3253
+   },
+   {
+    "id": "0msdHDWfIDs",
+    "title": "Jonwayne - Rap Album One / Full Album",
+    "sec": 2298
+   },
+   {
+    "id": "1sXk5Q2q_2M",
+    "title": "Danny Brown - Atrocity Exhibition (FULL ALBUM)",
+    "sec": 2815
+   },
+   {
+    "id": "9OaXxh16oao",
+    "title": "The Roots - Intro",
+    "sec": 39
+   },
+   {
+    "id": "Ns7stSXW-nw",
+    "title": "busdriver - 1. new aquarium",
+    "sec": 69
+   },
+   {
+    "id": "WuxHWc-ZEXw",
+    "title": "MF DOOM : Beef Rapp",
+    "sec": 280
+   },
+   {
+    "id": "Jack8LjitZk",
+    "title": "Atmosphere - 1597",
+    "sec": 185
+   },
+   {
+    "id": "v4TQKOZZqfs",
+    "title": "Jazz Addixx - Intro",
+    "sec": 126
+   },
+   {
+    "id": "yGZ6sdapLz0",
+    "title": "Tha Mobb",
+    "sec": 321
+   },
+   {
+    "id": "OTZzjAU0Kg0",
+    "title": "Intro",
+    "sec": 20
+   },
+   {
+    "id": "6CHs4x2uqcQ",
+    "title": "Kanye West - Good Morning",
+    "sec": 188
+   },
+   {
+    "id": "UTH1VNHLjng",
+    "title": "Dark Fantasy",
+    "sec": 281
+   },
+   {
+    "id": "UNFa23QzdhY",
+    "title": "In My Dreams (Cudder Anthem)",
+    "sec": 199
+   },
+   {
+    "id": "Epb1To80PSQ",
+    "title": "Scott Mescudi Vs. The World",
+    "sec": 236
+   },
+   {
+    "id": "bbqtxbuTgkc",
+    "title": "Unapologetic",
+    "sec": 213
+   },
+   {
+    "id": "LmreCiyV-Kc",
+    "title": "KNOCKSTEADY LIVE - OPEN MIKE EAGLE",
+    "sec": 211
+   },
+   {
+    "id": "XFbYKPURxeE",
+    "title": "Kendrick Lamar - good kid, m.A.A.d city - Sherane a.k.a. Master Splinter's Daughter",
+    "sec": 275
+   },
+   {
+    "id": "YNRawMeyshw",
+    "title": "Sacrilegious",
+    "sec": 212
+   },
+   {
+    "id": "9LRy_WMyslM",
+    "title": "DOOM BEATS | 2 Hour MF DOOM Instrumentals Live Mix",
+    "sec": 6212
+   },
+   {
+    "id": "YuKbv1KdhTw",
+    "title": "If 90's rappers made lofi hip hop radio",
+    "sec": 2127
+   },
+   {
+    "id": "0vnXH18FMoc",
+    "title": "Hip Hop 1995 XIII Instrumentals",
+    "sec": 12805
+   },
+   {
+    "id": "SHhYDNFdhQY",
+    "title": "\"This is a Typical ChessBase India Dirty Trick\" - Anish Giri",
+    "sec": 200
+   },
+   {
+    "id": "VP4KgPYNo-4",
+    "title": "Respiration",
+    "sec": 366
+   },
+   {
+    "id": "0xiAT13DUxA",
+    "title": "Eminem- Guilty Conscience (feat. Dr. Dre)",
+    "sec": 200
+   },
+   {
+    "id": "NEW_g5LbjvM",
+    "title": "J Dilla - '93 til",
+    "sec": 2419
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoj3XlSPFYTKRfO-FWrfnIvm",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Personal Guide for Innovative Future Thinking",
+  "count": "198",
+  "feed_title": "Personal Guide for Innovative Future Thinking",
+  "videos": [
+   "c7zC0esZny0",
+   "A7N6TOFyrLg",
+   "UVqtXX6LbM4",
+   "UQTfyjhvfH8",
+   "ABWeA203Q-c",
+   "RD-9Ghvt480",
+   "eh7qvXfGQho",
+   "ycPr5-27vSI",
+   "X9JLij1obHY",
+   "fCopI-5LyHo",
+   "iRPDGEgaATU",
+   "9Xc7DN-noAc",
+   "PhHtBqsGAoA"
+  ],
+  "video_titles": [
+   "Terence Mckenna &amp; Joe Rogan - Awaken from the culture-Time For Change",
+   "Maybe Logic: The Lives &amp; Ideas Of Robert Anton Wilson (2003)",
+   "Mike Rowe | The Ben Shapiro Show Sunday Special Ep. 12",
+   "Joe Rogan Experience #993 - Ben Shapiro",
+   "A Zen Master talks about Jordan Peterson &amp; the Shadow",
+   "Joe Rogan Experience #1313 - Duncan Trussell",
+   "Daniel Schmachtenberger\u2019s talk at Emergence",
+   "Joe Rogan Experience #1169 - Elon Musk",
+   "Joe Rogan Experience #1203 - Eric Weinstein",
+   "Akira the Don \u2014 The DJ of the Intellectual Dark Web (#20)",
+   "Frontline of Free Speech (LIVE) | Jordan Peterson &amp; Ben Shapiro | POLITICS | Rubin Report",
+   "Joe Rogan Experience #1139 - Jordan Peterson",
+   "Joe Rogan Experience #919 - Neil deGrasse Tyson"
+  ],
+  "playlist_videos": [
+   {
+    "id": "c7zC0esZny0",
+    "title": "Terence Mckenna & Joe Rogan - Awaken from the culture-Time For Change",
+    "sec": 2258
+   },
+   {
+    "id": "A7N6TOFyrLg",
+    "title": "Maybe Logic: The Lives & Ideas Of Robert Anton Wilson (2003)",
+    "sec": 4884
+   },
+   {
+    "id": "UVqtXX6LbM4",
+    "title": "Mike Rowe | The Ben Shapiro Show Sunday Special Ep. 12",
+    "sec": 3752
+   },
+   {
+    "id": "UQTfyjhvfH8",
+    "title": "Joe Rogan Experience #993 - Ben Shapiro",
+    "sec": 9554
+   },
+   {
+    "id": "ABWeA203Q-c",
+    "title": "A Zen Master talks about Jordan Peterson & the Shadow",
+    "sec": 2387
+   },
+   {
+    "id": "RD-9Ghvt480",
+    "title": "Joe Rogan Experience #1313 - Duncan Trussell",
+    "sec": 10493
+   },
+   {
+    "id": "eh7qvXfGQho",
+    "title": "Daniel Schmachtenberger\u2019s talk at Emergence",
+    "sec": 1506
+   },
+   {
+    "id": "ycPr5-27vSI",
+    "title": "Joe Rogan Experience #1169 - Elon Musk",
+    "sec": 9423
+   },
+   {
+    "id": "X9JLij1obHY",
+    "title": "Joe Rogan Experience #1203 - Eric Weinstein",
+    "sec": 13907
+   },
+   {
+    "id": "fCopI-5LyHo",
+    "title": "Akira the Don \u2014 The DJ of the Intellectual Dark Web (#20)",
+    "sec": 8054
+   },
+   {
+    "id": "iRPDGEgaATU",
+    "title": "Frontline of Free Speech (LIVE) | Jordan Peterson & Ben Shapiro | POLITICS | Rubin Report",
+    "sec": 6071
+   },
+   {
+    "id": "9Xc7DN-noAc",
+    "title": "Joe Rogan Experience #1139 - Jordan Peterson",
+    "sec": 12022
+   },
+   {
+    "id": "3ODaWxBJNPk",
+    "title": "Joe Rogan Experience #142 - Graham Hancock, Duncan Trussell",
+    "sec": 7715
+   },
+   {
+    "id": "PhHtBqsGAoA",
+    "title": "Joe Rogan Experience #919 - Neil deGrasse Tyson",
+    "sec": 8065
+   },
+   {
+    "id": "bDhHK8nk_V0",
+    "title": "Joe Rogan Experience #938 - Lawrence Krauss",
+    "sec": 8678
+   },
+   {
+    "id": "j5FOumrXyww",
+    "title": "Joe Rogan Experience #1188 - Lex Fridman",
+    "sec": 10545
+   },
+   {
+    "id": "zPmgTJGPzlg",
+    "title": "A Dialogue with Ram Dass and Eckhart Tolle",
+    "sec": 7222
+   },
+   {
+    "id": "aDejwCGdUV8",
+    "title": "Joe Rogan Experience #725 - Graham Hancock & Randall Carlson",
+    "sec": 10915
+   },
+   {
+    "id": "mPqWstVnRjQ",
+    "title": "Joe Rogan Experience #1035 - Paul Stamets",
+    "sec": 8029
+   },
+   {
+    "id": "UfuSgRjUIl0",
+    "title": "Lunch Break Lectures with Brose",
+    "sec": 5355
+   },
+   {
+    "id": "uNs5OgYYiJQ",
+    "title": "Jordan Peterson Bible Series IV LIVE LOFI DJ MIX \ud83c\udf0a \ud83c\udf0a \ud83c\udf0a \ud83c\udf0a",
+    "sec": 9878
+   },
+   {
+    "id": "RX5Iw-XsWu4",
+    "title": "Joe Rogan Experience  #857 - Dan Bilzerian",
+    "sec": 10801
+   },
+   {
+    "id": "5n_3mnJfHzY",
+    "title": "Joe Rogan Experience #1029 - Tom DeLonge",
+    "sec": 6050
+   },
+   {
+    "id": "BEWz4SXfyCQ",
+    "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+    "sec": 8085
+   },
+   {
+    "id": "e5qJYwfAju8",
+    "title": "Lloyd Pye   Everything You Know Is Wrong",
+    "sec": 7115
+   },
+   {
+    "id": "iB4MS1hsWXU",
+    "title": "The lies our culture tells us about what matters --- and a better way to live | David Brooks",
+    "sec": 895
+   },
+   {
+    "id": "QxxJkkUiRxw",
+    "title": "Camron Wiltshire & Randall Carlson's Cosmic Patterns and Cycles of Catastrophe Film",
+    "sec": 6950
+   },
+   {
+    "id": "2wq9x2QcZN0",
+    "title": "Eric Weinstein: Revolutionary Ideas in Science, Math, and Society | Lex Fridman Podcast #16",
+    "sec": 4916
+   },
+   {
+    "id": "Rxmw9eizOAo",
+    "title": "Joe Rogan Experience #1284 - Graham Hancock",
+    "sec": 9929
+   },
+   {
+    "id": "7sbqa2Nq0lM",
+    "title": "How to Negotiate a Prenup \u2014 Ramit Sethi",
+    "sec": 8478
+   },
+   {
+    "id": "-7J-Gwc9pVg",
+    "title": "The Person I Call Most for Startup Advice \u2014 Naval Ravikant",
+    "sec": 8189
+   },
+   {
+    "id": "pb_yvBNLjNk",
+    "title": "Eric Weinstein | The Portal Story",
+    "sec": 199
+   },
+   {
+    "id": "GqqrTLwxE_Y",
+    "title": "Jocko Willink \u2014 The Scariest Navy SEAL Imaginable\u2026And What He Taught Me | The Tim Ferriss Show",
+    "sec": 9373
+   },
+   {
+    "id": "8DJJO-QoHs8",
+    "title": "The Tao of Seneca: Letters from a Stoic Master | The Tim Ferriss Show (Podcast)",
+    "sec": 1931
+   },
+   {
+    "id": "OLHdzLpMg-s",
+    "title": "Joe Rogan Experience #910 - Gary Vaynerchuk",
+    "sec": 6259
+   },
+   {
+    "id": "-2PQ4eQ6EKc",
+    "title": "Morning Routines and Strategies | The Tim Ferriss Show (Podcast)",
+    "sec": 4308
+   },
+   {
+    "id": "u9v_MpcUPdg",
+    "title": "How Mushrooms Can Save You and (Perhaps) the World \u2014 Paul Stamets",
+    "sec": 8764
+   },
+   {
+    "id": "m6f3Mz95kq8",
+    "title": "Rick Doblin \u2014 Integrating Psychedelics into a Global Culture (#1)",
+    "sec": 5354
+   },
+   {
+    "id": "nM9f0W2KD5s",
+    "title": "Peter Thiel on \"The Portal\", Episode #001: \"An Era of Stagnation & Universal Institutional Failure.\"",
+    "sec": 10327
+   },
+   {
+    "id": "fCxQbrTfeag",
+    "title": "(Live Archive) Tim Ferriss: Tools of Titans",
+    "sec": 4777
+   },
+   {
+    "id": "iHPKTby9z6o",
+    "title": "Neil Gaiman \u2014 The Interview I've Waited 20 Years To Do",
+    "sec": 5880
+   },
+   {
+    "id": "cbBXplrwbyQ",
+    "title": "Michael Pollan Interview | The Tim Ferriss Show (Podcast)",
+    "sec": 8153
+   },
+   {
+    "id": "RllvSIk4tB4",
+    "title": "Lisa Randall Interview (Full Episode) | The Tim Ferriss Show (Podcast)",
+    "sec": 5816
+   },
+   {
+    "id": "_EWCN3CPhTI",
+    "title": "Joe Rogan Experience #1320 - Eric Weinstein",
+    "sec": 12492
+   },
+   {
+    "id": "VCN8MQ4NWy8",
+    "title": "Jim Collins \u2014 A Rare Interview with a Reclusive Polymath | The Tim Ferriss Show (Podcast)",
+    "sec": 8698
+   },
+   {
+    "id": "YRz7IaKUYnE",
+    "title": "LeBron James and His Top Secret Trainer, Mike Mancias | Interview on The Tim Ferriss Show",
+    "sec": 4038
+   },
+   {
+    "id": "-FlLj64dI1Q",
+    "title": "Mr  Money Mustache Interview",
+    "sec": 6667
+   },
+   {
+    "id": "vrBEbgnG01s",
+    "title": "Malcolm Gladwell Interview (Full Episode) | The Tim Ferriss Show (Podcast)",
+    "sec": 6326
+   },
+   {
+    "id": "7JRyy2MM-rI",
+    "title": "Peter Thiel: The Star Trek Computer Is Not Enough - National Conservatism Conference",
+    "sec": 2406
+   },
+   {
+    "id": "i-yydKjuMAM",
+    "title": "ELON MUSK - Tesla | SpaceX | Solar City | Open AI | Boring Company | Paypal | The Story So Far",
+    "sec": 2282
+   },
+   {
+    "id": "iYtJq71CMnU",
+    "title": "Joe Rogan | The Mythology of \"The Portal\" w/Eric Weinstein",
+    "sec": 539
+   },
+   {
+    "id": "2xiEEtoa-_4",
+    "title": "Joe Rogan - Eric Weinstein Explains Gauge Symmetry",
+    "sec": 1288
+   },
+   {
+    "id": "8LPwyy4scAc",
+    "title": "Eric Weinstein Interview (Full Episode) | The Tim Ferriss Show (Podcast)",
+    "sec": 6025
+   },
+   {
+    "id": "idDcB10VSas",
+    "title": "Sam Harris, Ph.D. \u2014 How to Master Your Mind  | The Tim Ferriss Show (Podcast)",
+    "sec": 5945
+   },
+   {
+    "id": "9qeWQz7qCW4",
+    "title": "Howard Marks \u2014 How to Invest with Clear Thinking | The Tim Ferriss Show (Podcast)",
+    "sec": 7124
+   },
+   {
+    "id": "7-QWVAz8ym4",
+    "title": "Dr  Peter Attia vs  Tim Ferriss | The Tim Ferriss Show (Podcast)",
+    "sec": 10015
+   },
+   {
+    "id": "7LqaotiGWjQ",
+    "title": "The War on Sensemaking, Daniel Schmachtenberger",
+    "sec": 6530
+   },
+   {
+    "id": "aAlaRdrcQcY",
+    "title": "The Transcendental Object At The End Of Time (Terence McKenna Movie) FULL HD",
+    "sec": 12889
+   },
+   {
+    "id": "0HrK0u2f_dk",
+    "title": "Paul Stamets on Terence McKenna",
+    "sec": 205
+   },
+   {
+    "id": "zl0XSWGsTqA",
+    "title": "SOS from the Kids - (Official Music Video)",
+    "sec": 208
+   },
+   {
+    "id": "Td_qaNy1W9U",
+    "title": "Nick Bostrom: Why Our Brains Themselves May Be Simulated",
+    "sec": 1428
+   },
+   {
+    "id": "bUBMPtcfYNk",
+    "title": "Justin Nopp\u00e9 \u2014 The Secret Strategies of 'Super Learners' (#27)",
+    "sec": 7419
+   },
+   {
+    "id": "UBSJF5x5iO4",
+    "title": "Ram Dass on Dharma - Full Lecture 1973",
+    "sec": 4232
+   },
+   {
+    "id": "kjh1BAG5Pfs",
+    "title": "Sacred in the Everyday - Ram Dass Full Lecture",
+    "sec": 5235
+   },
+   {
+    "id": "-DHuRTvzMFw",
+    "title": "Andrew Yang | The Ben Shapiro Show Sunday Special Ep. 45",
+    "sec": 3904
+   },
+   {
+    "id": "AzdxbzHtjgs",
+    "title": "Michael Kearns: Algorithmic Fairness, Privacy & Ethics | Lex Fridman Podcast #50",
+    "sec": 6536
+   },
+   {
+    "id": "M95m2EFb7IQ",
+    "title": "Ray Dalio: Principles, the Economic Machine, AI & the Arc of Life | Lex Fridman Podcast #54",
+    "sec": 5420
+   },
+   {
+    "id": "bBC-nXj3Ng4",
+    "title": "But how does bitcoin actually work?",
+    "sec": 1516
+   },
+   {
+    "id": "jXvFraQw01Q",
+    "title": "Mark Cuban and Andrew Yang on the Future of Work and Trump",
+    "sec": 1976
+   },
+   {
+    "id": "ZD3iBrqPP6Y",
+    "title": "The Future of Hiring - No Resume Needed | Ben Rubenstein | TEDxYouth@Austin",
+    "sec": 723
+   },
+   {
+    "id": "oJ_EvaSKEv0",
+    "title": "At the Deepest Level Our Minds Are Connected",
+    "sec": 501
+   },
+   {
+    "id": "3_t9DnKEnbo",
+    "title": "How I Made Meaningwave - In The Studio With Akira The Don | Documentary",
+    "sec": 816
+   },
+   {
+    "id": "UwwBG-MbniY",
+    "title": "Daniel Kahneman: Thinking Fast and Slow, Deep Learning, and AI | Lex Fridman Podcast #65",
+    "sec": 4721
+   },
+   {
+    "id": "P1PC1sArw70",
+    "title": "David Foster Wallace discusses Consumerism (2003)",
+    "sec": 1038
+   },
+   {
+    "id": "LW59lMvxmY4",
+    "title": "David Chalmers: The Hard Problem of Consciousness | Lex Fridman Podcast #69",
+    "sec": 5929
+   },
+   {
+    "id": "1Q0un2GPsSQ",
+    "title": "Paul Stamets: Mycology and Mushrooms as Medicines",
+    "sec": 2995
+   },
+   {
+    "id": "7W33HRc1A6c",
+    "title": "George Carlin - Saving the Planet",
+    "sec": 484
+   },
+   {
+    "id": "r4iO0GpgnlQ",
+    "title": "Joe Rogan Experience #1444 - Duncan Trussell",
+    "sec": 10871
+   },
+   {
+    "id": "aX5n0DYXnUQ",
+    "title": "Covid 19 Situational Assessment, Risk Landscape & Possible Solutions, Daniel Schmachtenberger",
+    "sec": 5250
+   },
+   {
+    "id": "brUC8Vh2gms",
+    "title": "44: End Games (part 1) | Naval Ravikant",
+    "sec": 4422
+   },
+   {
+    "id": "9QR4WIxFVjk",
+    "title": "45: End Games (part 2) | Naval Ravikant",
+    "sec": 3964
+   },
+   {
+    "id": "NK8C_rCz1yw",
+    "title": "An Epidemic of Control, Charles Eisenstein",
+    "sec": 3648
+   },
+   {
+    "id": "wf0_nMaQ6tA",
+    "title": "Joe Rogan Experience #1453 - Eric Weinstein",
+    "sec": 10926
+   },
+   {
+    "id": "rIAZJNe7YtE",
+    "title": "Eric Weinstein: Geometric Unity and the Call for New Ideas & Institutions | Lex Fridman Podcast #88",
+    "sec": 9996
+   },
+   {
+    "id": "_hA3TV1bGsg",
+    "title": "Pomp Podcast #256: Billionaire Chamath Palihapitiya on How To Invest in This Crisis",
+    "sec": 4962
+   },
+   {
+    "id": "60KJz1BVTyU",
+    "title": "Jack Dorsey: Square, Cryptocurrency, and Artificial Intelligence | Lex Fridman Podcast #91",
+    "sec": 3074
+   },
+   {
+    "id": "S9Po0KU5_nU",
+    "title": "Terence McKenna - Green Anarchy",
+    "sec": 773
+   },
+   {
+    "id": "0Bhiy0797qo",
+    "title": "Terence McKenna - Ride The Tao",
+    "sec": 291
+   },
+   {
+    "id": "z3LDEN5TLaQ",
+    "title": "The Conspiracy \"Myth\", Charles Eisenstein",
+    "sec": 2197
+   },
+   {
+    "id": "vzx6h2sAGTU",
+    "title": "Joe Rogan Experience #1480 - Kevin Hart",
+    "sec": 7269
+   },
+   {
+    "id": "v87FZLU-_fw",
+    "title": "The Economics of the Police State | Thomas E. Woods, Jr.",
+    "sec": 2374
+   },
+   {
+    "id": "2d07zQc8cEY",
+    "title": "A Counterculture For Every Culture",
+    "sec": 200
+   },
+   {
+    "id": "j49zlky-Si0",
+    "title": "Terence McKenna - How To Make Money Out Of Saving The World | Meaningwave",
+    "sec": 210
+   },
+   {
+    "id": "-8VE04-by9Q",
+    "title": "Terence McKenna - What's Going On?",
+    "sec": 625
+   },
+   {
+    "id": "ltG9_pE62eQ",
+    "title": "Terence McKenna - Ocean Of Thought",
+    "sec": 333
+   },
+   {
+    "id": "K_hDX3GzROo",
+    "title": "Terence McKenna - Build Your Own Myth",
+    "sec": 463
+   },
+   {
+    "id": "hl0iNRXcUbE",
+    "title": "Joe Rogan Experience #1512 - Ben Shapiro",
+    "sec": 6211
+   },
+   {
+    "id": "Bh0kauv1lGo",
+    "title": "Unity Campfire #3: Bret Weinstein with Dan Crenshaw 08/19/20",
+    "sec": 5260
+   },
+   {
+    "id": "A41z7UD3NsU",
+    "title": "HOW NOT TO GO EXTINCT | Daniel Schmachtenberger",
+    "sec": 347
+   },
+   {
+    "id": "rs1PH_GLi98",
+    "title": "Gold Debate: Is A New Gold Standard Coming? - Steve Forbes | What's Ahead | Forbes",
+    "sec": 182
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauojkW7zSJaagP8ZsGpr9xfWj",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "The Chess Zone",
+  "count": "191",
+  "feed_title": "The Chess Zone",
+  "videos": [
+   "GPuazOwq0aw",
+   "Qc_v9mTfhC8",
+   "eh8U6SLvNgs",
+   "WXuK6gekU1Y",
+   "3TQS78kJFY8",
+   "e_bZFbX_gCU",
+   "l4ie10ulRmg",
+   "iUGldZX1zT4",
+   "e0_4cwV4apI",
+   "k1SCXb2WA2U",
+   "mOqmLYlFdBo",
+   "uPUEq8d73JI",
+   "5zzkGdcBPR4",
+   "U5vnpOp0U_g",
+   "35jiOqL8Xrw"
+  ],
+  "video_titles": [
+   "April 9, 1972: Chess champ Bobby Fischer on 60 Minutes",
+   "Mozart of Chess: Magnus Carlsen",
+   "The Last Chess Shop in New York City",
+   "AlphaGo - The Movie | Full award-winning documentary",
+   "Franklin County Chess Project: Improving Academics through Chess",
+   "Chess Blitz Battle: Blunder Police Part 1",
+   "Kings Gambit with Commentary",
+   "Blitz Battles: When Black Attacks, with Coach Chad",
+   "David MacEnulty - CBS News",
+   "Magnus Carlsen Takes the 100 Endgames Test!",
+   "AlphaZero vs AlphaZero || THE PERFECT GAME",
+   "David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning | Lex Fridman Podcast #86",
+   "One Freshly Squeezed Stone, Coming Up! || Nakamura vs Ding || Chessable Masters (2020)",
+   "Grandmaster Maurice Ashley plays NYC trash talker - The Tim Ferriss Experiment",
+   "Grandmaster Maurice Ashley Plays Willson the Chess Hustler in NYC Park"
+  ],
+  "playlist_videos": [
+   {
+    "id": "GPuazOwq0aw",
+    "title": "April 9, 1972: Chess champ Bobby Fischer on 60 Minutes",
+    "sec": 558
+   },
+   {
+    "id": "Qc_v9mTfhC8",
+    "title": "Mozart of Chess: Magnus Carlsen",
+    "sec": 780
+   },
+   {
+    "id": "eh8U6SLvNgs",
+    "title": "The Last Chess Shop in New York City",
+    "sec": 415
+   },
+   {
+    "id": "WXuK6gekU1Y",
+    "title": "AlphaGo - The Movie | Full award-winning documentary",
+    "sec": 5428
+   },
+   {
+    "id": "3TQS78kJFY8",
+    "title": "Franklin County Chess Project: Improving Academics through Chess",
+    "sec": 402
+   },
+   {
+    "id": "e_bZFbX_gCU",
+    "title": "Chess Blitz Battle: Blunder Police Part 1",
+    "sec": 572
+   },
+   {
+    "id": "l4ie10ulRmg",
+    "title": "Kings Gambit with Commentary",
+    "sec": 458
+   },
+   {
+    "id": "iUGldZX1zT4",
+    "title": "Blitz Battles: When Black Attacks, with Coach Chad",
+    "sec": 788
+   },
+   {
+    "id": "e0_4cwV4apI",
+    "title": "David MacEnulty - CBS News",
+    "sec": 860
+   },
+   {
+    "id": "k1SCXb2WA2U",
+    "title": "Magnus Carlsen Takes the 100 Endgames Test!",
+    "sec": 1883
+   },
+   {
+    "id": "mOqmLYlFdBo",
+    "title": "AlphaZero vs AlphaZero || THE PERFECT GAME",
+    "sec": 1374
+   },
+   {
+    "id": "uPUEq8d73JI",
+    "title": "David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning | Lex Fridman Podcast #86",
+    "sec": 6481
+   },
+   {
+    "id": "5zzkGdcBPR4",
+    "title": "One Freshly Squeezed Stone, Coming Up! || Nakamura vs Ding || Chessable Masters (2020)",
+    "sec": 910
+   },
+   {
+    "id": "U5vnpOp0U_g",
+    "title": "Grandmaster Maurice Ashley plays NYC trash talker - The Tim Ferriss Experiment",
+    "sec": 264
+   },
+   {
+    "id": "35jiOqL8Xrw",
+    "title": "Grandmaster Maurice Ashley Plays Willson the Chess Hustler in NYC Park",
+    "sec": 536
+   },
+   {
+    "id": "R0m4M1JKqMw",
+    "title": "2020 Just Got A LOT Better || Ivanchuk vs Ding || Chess24 Legends of Chess (2020)",
+    "sec": 740
+   },
+   {
+    "id": "Eas20kFpAYw",
+    "title": "Anand's Immortal - A game for the ages! (According to Magnus Carlsen) || Remake 60fps",
+    "sec": 1312
+   },
+   {
+    "id": "Ij96c7M-t-I",
+    "title": "Only Superhuman Moves Count || Anand vs Carlsen || || Tata Steel Masters (2020)",
+    "sec": 1087
+   },
+   {
+    "id": "M9nqKf-0I8c",
+    "title": "Chess Openings: How to Play the Sicilian Defense",
+    "sec": 329
+   },
+   {
+    "id": "t3d0Y-JpRRg",
+    "title": "Legend of the Chessboard",
+    "sec": 119
+   },
+   {
+    "id": "jvjcrfs-Uk8",
+    "title": "Short Vs. Kasparov - Speed Chess Challenge Final Game",
+    "sec": 1371
+   },
+   {
+    "id": "G90SVhxKeig",
+    "title": "The Greatest Queen Sacrifice in Chess History | Nezhmetdinov vs Chernikov (1962)",
+    "sec": 518
+   },
+   {
+    "id": "MFNv-FJFGTg",
+    "title": "Amateur Challenges Chess Grandmaster Magnus Carlsen | WSJ",
+    "sec": 351
+   },
+   {
+    "id": "_NhTnsmV-9I",
+    "title": "The Bird is the Word! || Henry Edward Bird vs. Emanuel Lasker || 1892 Lasker-Bird match",
+    "sec": 953
+   },
+   {
+    "id": "hSRTCWHasgc",
+    "title": "The most outrageously devastating bullet chess game in Lichess Titled Arena history?",
+    "sec": 416
+   },
+   {
+    "id": "i7QU4KbTnXU",
+    "title": "The Extremely Dodgy ENGLUND GAMBIT",
+    "sec": 1467
+   },
+   {
+    "id": "bG-KPOvAy24",
+    "title": "The Tal Recipe - Complicate, and They Will Blunder",
+    "sec": 826
+   },
+   {
+    "id": "SByhM7j2A2M",
+    "title": "The Power of Tal's Smile | Fischer vs Tal | 1959. Candidates",
+    "sec": 1003
+   },
+   {
+    "id": "UON5Wa460H0",
+    "title": "Chess World.net: \"The Modern Immortal Draw\" - Vladimir Kramnik vs Vishy Anand - Corus 2004 - Amazing",
+    "sec": 1062
+   },
+   {
+    "id": "Sh0Fkx-ufPc",
+    "title": "Carlsen vs. Nakamura | Magnus Carlsen Chess Tour Final | Day 6",
+    "sec": 14178
+   },
+   {
+    "id": "U8RePIMEPe4",
+    "title": "Carlsen vs. Nakamura | Magnus Carlsen Chess Tour Final | Day 7",
+    "sec": 21105
+   },
+   {
+    "id": "_mKiUwtFpus",
+    "title": "Fortress to Believe in! || Nakamura vs Carlsen || Magnus Carlsen Grand Final (2020)",
+    "sec": 903
+   },
+   {
+    "id": "hKvr9B0abHM",
+    "title": "The \"Original\" Evans Gambit Game",
+    "sec": 604
+   },
+   {
+    "id": "5XdCUSF2KU8",
+    "title": "Killer Grob 1.g4 :  Instructive Game: Surviving an attack! IM Basman vs T.Gavriel (kingscrusher)",
+    "sec": 900
+   },
+   {
+    "id": "k--pPxSH9Tg",
+    "title": "Beat the Scandinavian in 8 Moves!",
+    "sec": 703
+   },
+   {
+    "id": "f4qCYtkZMnU",
+    "title": "2020 Champions Showdown | Chess 9LX: Day 1",
+    "sec": 15984
+   },
+   {
+    "id": "qrnuiTGHNlU",
+    "title": "This Happens To All of Us || Morphy vs L\u00f6wenthal (1858)",
+    "sec": 954
+   },
+   {
+    "id": "8N-Wqo3Hy5A",
+    "title": "Bobby Fischer vs Garry Kasparov - The Chess Time Machine",
+    "sec": 408
+   },
+   {
+    "id": "cAe1xAWJvxQ",
+    "title": "\"e=Nc4\" - Einstein Crushes Oppenheimer",
+    "sec": 294
+   },
+   {
+    "id": "C5lRfZ-ygJg",
+    "title": "Hikaru's Mind is Blown by AlphaZero and Chess Variants",
+    "sec": 2274
+   },
+   {
+    "id": "6vYJyOGKCHE",
+    "title": "Chess Grandmaster Garry Kasparov Replays His Four Most Memorable Games | The New Yorker",
+    "sec": 577
+   },
+   {
+    "id": "t6RUbnGr-qk",
+    "title": "The Chess Review with Coach Chad: Week of October 4th",
+    "sec": 201
+   },
+   {
+    "id": "eRV5qFoYbZ8",
+    "title": "The Best || Fabiano Caruana vs Magnus Carlsen || Altibox Norway Chess (2020)",
+    "sec": 878
+   },
+   {
+    "id": "q_6Zl1jNWYQ",
+    "title": "Magnus Carlsen's Improved Bong Cloud",
+    "sec": 962
+   },
+   {
+    "id": "-6kZWBE2jdw",
+    "title": "125-game Unbeaten Streak - Hello Everyone, I'm Back! :)",
+    "sec": 1093
+   },
+   {
+    "id": "uweeEdiHiL4",
+    "title": "The Chess Review with Coach Chad: Week of October 11",
+    "sec": 297
+   },
+   {
+    "id": "oIMaTKOZG-8",
+    "title": "Bether Than The Original || Harmon vs Borgov - Final Game || Netflix's Queen's Gambit",
+    "sec": 1546
+   },
+   {
+    "id": "EWbZvqU3IhQ",
+    "title": "Is There a Gender Gap in Chess? ||  Magnus Carlsen vs Judit Polgar",
+    "sec": 1247
+   },
+   {
+    "id": "EwTH8-DsF3w",
+    "title": "Bongcloud VS 2700+ GM?  || Nakamura vs Xiong || Saint Louis Blitz (2020)",
+    "sec": 767
+   },
+   {
+    "id": "sVAV79_DsE0",
+    "title": "Where Are ALL MY PAWNS??? || The Eight Pawns Gambit",
+    "sec": 909
+   },
+   {
+    "id": "o1dgrvlWML4",
+    "title": "Feynman :: Rules of Chess",
+    "sec": 169
+   },
+   {
+    "id": "l-IvrRoEC2I",
+    "title": "Curious Jones Podcast #14 - Chad Ambrose - Rule of 10,000 Hours in Chess - Clip",
+    "sec": 130
+   },
+   {
+    "id": "fPzqdDGM4zI",
+    "title": "Most annoying chess player habits | Skilling Open",
+    "sec": 83
+   },
+   {
+    "id": "HkBz79W5tV4",
+    "title": "This is Why Chess Will Always Be Beautiful",
+    "sec": 1094
+   },
+   {
+    "id": "AOZTkfCwK_c",
+    "title": "What is \"PLACHUTTA\" in Chess?",
+    "sec": 957
+   },
+   {
+    "id": "NMjABbjtLVo",
+    "title": "Am I the real life Beth Harmon?",
+    "sec": 1434
+   },
+   {
+    "id": "zVgLJWr_2Kk",
+    "title": "Alan Watts & Boreta & Superposition | Listen, Dream | Dream",
+    "sec": 332
+   },
+   {
+    "id": "m87zM3ySyB0",
+    "title": "Hikaru Nakamura Meets the Young Beth Harmon",
+    "sec": 2972
+   },
+   {
+    "id": "GlpjSagH34w",
+    "title": "2 Pieces Sacrificed in First 7 Moves! || MVL vs Nakamura || Speed Chess Championship Finals (2020)",
+    "sec": 577
+   },
+   {
+    "id": "rUwe1d6YFzM",
+    "title": "Bullet Played to PERFECTION! || Nakamura VS MVL || Speed Chess Championship Finals (2020)",
+    "sec": 613
+   },
+   {
+    "id": "DxbMzZ5a2Zg",
+    "title": "A Thriller!!! (Anand Vs Kasparov - 1996 Blitz Chess Final)",
+    "sec": 685
+   },
+   {
+    "id": "nMLww24135E",
+    "title": "Kasparov blunders, Seville 1987, 23rd WC game",
+    "sec": 293
+   },
+   {
+    "id": "UpzbiSUx2_4",
+    "title": "How To Checkmate With Bishop and Knight EASY",
+    "sec": 714
+   },
+   {
+    "id": "7B9p2PrsKWY",
+    "title": "Bobby Fischer's Secret Online Match vs Nigel Short in 2000",
+    "sec": 641
+   },
+   {
+    "id": "58FdYo5tbNs",
+    "title": "No One Can Win This Position || Firouzja vs Nakamura || Chess.com Bullet Championship",
+    "sec": 845
+   },
+   {
+    "id": "QLLAMdj5Bu4",
+    "title": "9 Year Old Master Hustling Famous Trash Talker! (Bongcloud!) NM Brainy Bryan vs The Great Carlini",
+    "sec": 940
+   },
+   {
+    "id": "dbssw-f1KZs",
+    "title": "Queen's Gambit Lesson from Magnus Carlsen! Wanna Learn His Main Repertoire?",
+    "sec": 524
+   },
+   {
+    "id": "tWTWJhQGslI",
+    "title": "Magnus Roasted ft. spoiled AG, Samay Raina and Vidit Gujrathi",
+    "sec": 612
+   },
+   {
+    "id": "2-ZxUG55naQ",
+    "title": "Nihal Sarin solving a chess study",
+    "sec": 153
+   },
+   {
+    "id": "xiXqQ5wqElg",
+    "title": "DrDrunkenstein (Magnus Carlsen) Sacrifices his Queen on Move 10!",
+    "sec": 731
+   },
+   {
+    "id": "0rr9gKbtbro",
+    "title": "Nihal Sarin is just TOO FAST!!",
+    "sec": 609
+   },
+   {
+    "id": "SMe-hvCwTRo",
+    "title": "Kasparov's Calculations - Mindboggling!!!  (very instructive)",
+    "sec": 448
+   },
+   {
+    "id": "U8RwLmWV-tk",
+    "title": "Welcome to Planet DUBOV!! || Dubov vs Carlsen || Airthings Masters (2020)",
+    "sec": 875
+   },
+   {
+    "id": "suHkktfIG5g",
+    "title": "Vidit Gujrathi stand-up explained",
+    "sec": 111
+   },
+   {
+    "id": "qkdPE6Rpfmg",
+    "title": "What happened when Anish Giri offered a draw to Magnus Carlsen on move 4!",
+    "sec": 680
+   },
+   {
+    "id": "1JIGvilwRSk",
+    "title": "Carlsen Goes For Scholar's Mate... Oops | World Rapid Championship (2018)",
+    "sec": 637
+   },
+   {
+    "id": "TMvBWTEXSes",
+    "title": "Gazprom Brilliancy Prize | Nihal Sarin vs Francesco Sonis | World Online Youth Championships 2020",
+    "sec": 880
+   },
+   {
+    "id": "T3yfNB27Sv4",
+    "title": "In Chess, Berlin Wall Still Stands || Aronian vs Rajabov || Airthings Masters (2020)",
+    "sec": 715
+   },
+   {
+    "id": "zOwY-5IlBig",
+    "title": "Premoving A Whole Game Against Magnus Carlsen",
+    "sec": 776
+   },
+   {
+    "id": "ldV5qNvdFBU",
+    "title": "Magnus Carlsen plays the King's Gambit vs. chess24 user FireMarshall",
+    "sec": 358
+   },
+   {
+    "id": "En1dt00I0iY",
+    "title": "This is Chess in 2021! || Aronian vs Rajabov || Airthings Masters (2020)",
+    "sec": 592
+   },
+   {
+    "id": "2HfpWHhvH64",
+    "title": "Someone STOP This Man || Dubov vs MVL || Airthings Masters (2020)",
+    "sec": 762
+   },
+   {
+    "id": "7nrX28YLbiU",
+    "title": "He Tried to Embarrass Paul Morphy",
+    "sec": 600
+   },
+   {
+    "id": "WMxU0-aRqoU",
+    "title": "Magnus Goes on a Killing Spree",
+    "sec": 502
+   },
+   {
+    "id": "S2JedouTRZo",
+    "title": "Anna Rudolf Accused of Cheating with an Engine Hidden in her Lip Balm!",
+    "sec": 1310
+   },
+   {
+    "id": "8pMvQ0fm04w",
+    "title": "Cheater gets CAUGHT after offering me $250 to win",
+    "sec": 1861
+   },
+   {
+    "id": "WqenJgw7ZIc",
+    "title": "Solve This If YOU Are a GENIUS | Chess Challenge | Endgame Puzzle, Moves, Ideas, Strategy & Tactics",
+    "sec": 354
+   },
+   {
+    "id": "IdYDL_RK--w",
+    "title": "TWiV 615: Peter Daszak of EcoHealth Alliance",
+    "sec": 2153
+   },
+   {
+    "id": "HgEAcD6aZoE",
+    "title": "Bobby Fischer plays 1.b4!",
+    "sec": 400
+   },
+   {
+    "id": "4MLFDaV3ToA",
+    "title": "Curious Jones Podcast #41 - Chad Ambrose - The Chess Zone",
+    "sec": 4743
+   },
+   {
+    "id": "tVnX42umatA",
+    "title": "Bill Gates vs Magnus Carlsen CHESS GAME",
+    "sec": 452
+   },
+   {
+    "id": "pongZXpUTlg",
+    "title": "It's 2021 and This Pawn is Still Poisoned || Grandelius vs MVL || Tata Steel (2021)",
+    "sec": 774
+   },
+   {
+    "id": "8AjKwOT124E",
+    "title": "Chess is an Evil Game || Caruana vs MVL || Tata Steel (2021)",
+    "sec": 1006
+   },
+   {
+    "id": "wnoMqGVvLpw",
+    "title": "Heavy is The Head that Wears the Crown",
+    "sec": 1427
+   },
+   {
+    "id": "m9YLXgJPFbI",
+    "title": "King's Gambit - Official Notflix Trailer",
+    "sec": 185
+   },
+   {
+    "id": "2Fs7lBAaYZU",
+    "title": "Magnus Carlsen HACKS Chess!",
+    "sec": 587
+   },
+   {
+    "id": "q8RSOjaHz5I",
+    "title": "Win What World Champion Couldn't",
+    "sec": 990
+   },
+   {
+    "id": "YeB-1F-UKO0",
+    "title": "A brief history of chess - Alex Gendler",
+    "sec": 340
+   },
+   {
+    "id": "lYoKwNQ5hTA",
+    "title": "An Epic Play Between Two of the Best",
+    "sec": 1694
+   },
+   {
+    "id": "L7RIDfDG8wY",
+    "title": "Ron Weasley Sacrifices Himself for the Team",
+    "sec": 251
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauogx3NDsImqRBL9f-JBwxSU0",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "An Afternoon with Professor Brose",
+  "count": "11",
+  "feed_title": "An Afternoon with Professor Brose",
+  "videos": [
+   "UfuSgRjUIl0",
+   "uwBj_GgDWWA",
+   "ll_bVVeezdU",
+   "4MLFDaV3ToA",
+   "PWfEJkJ36NE",
+   "dF4uHQ7GFSE",
+   "noUNYB383Lg",
+   "l-IvrRoEC2I",
+   "fEBXdjc1-74",
+   "QTx6L4sdqxA"
+  ],
+  "video_titles": [
+   "Lunch Break Lectures with Brose",
+   "Plant Life",
+   "Leafly Host Submission - Brose",
+   "Curious Jones Podcast #41 - Chad Ambrose - The Chess Zone",
+   "How To Get Better At Chess",
+   "Can We Talk About Aliens Already?",
+   "What is an NFT?",
+   "Curious Jones Podcast #14 - Chad Ambrose - Rule of 10,000 Hours in Chess - Clip",
+   "Terra Chess - Grand Vision",
+   "Coinhall TA for the LUNATICs -- October 19th 2021"
+  ],
+  "playlist_videos": [
+   {
+    "id": "UfuSgRjUIl0",
+    "title": "Lunch Break Lectures with Brose",
+    "sec": 5355
+   },
+   {
+    "id": "uwBj_GgDWWA",
+    "title": "Plant Life",
+    "sec": 368
+   },
+   {
+    "id": "ll_bVVeezdU",
+    "title": "Leafly Host Submission - Brose",
+    "sec": 65
+   },
+   {
+    "id": "HR1c_w2Wy4k",
+    "title": "Tutor, Chad Ambrose, intellatutor introduction",
+    "sec": 214
+   },
+   {
+    "id": "4MLFDaV3ToA",
+    "title": "Curious Jones Podcast #41 - Chad Ambrose - The Chess Zone",
+    "sec": 4743
+   },
+   {
+    "id": "PWfEJkJ36NE",
+    "title": "How To Get Better At Chess",
+    "sec": 128
+   },
+   {
+    "id": "dF4uHQ7GFSE",
+    "title": "Can We Talk About Aliens Already?",
+    "sec": 95
+   },
+   {
+    "id": "noUNYB383Lg",
+    "title": "What is an NFT?",
+    "sec": 201
+   },
+   {
+    "id": "l-IvrRoEC2I",
+    "title": "Curious Jones Podcast #14 - Chad Ambrose - Rule of 10,000 Hours in Chess - Clip",
+    "sec": 130
+   },
+   {
+    "id": "fEBXdjc1-74",
+    "title": "Terra Chess - Grand Vision",
+    "sec": 2169
+   },
+   {
+    "id": "QTx6L4sdqxA",
+    "title": "Coinhall TA for the LUNATICs -- October 19th 2021",
+    "sec": 1491
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauohDMkrbTmG0ewdwhLj5Nfym",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Creative Visual Collaborations",
+  "count": "2",
+  "feed_title": "Creative Visual Collaborations",
+  "videos": [
+   "0KuhsEAslxo",
+   "4jBAR4EcmNU"
+  ],
+  "video_titles": [
+   "Blended Sense News: Thank you to our investors",
+   "Sense of Humor TV | Episode 1: Ray Solis"
+  ],
+  "playlist_videos": [
+   {
+    "id": "0KuhsEAslxo",
+    "title": "Blended Sense News: Thank you to our investors",
+    "sec": 300
+   },
+   {
+    "id": "4jBAR4EcmNU",
+    "title": "Sense of Humor TV | Episode 1: Ray Solis",
+    "sec": 7117
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoiqbmuR7rELulGoYA1psSSd",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Exploring the Free World with the Bud Brothers",
+  "count": "8",
+  "feed_title": "Exploring the Free World with the Bud Brothers",
+  "videos": [
+   "QC4v2TbbYbI",
+   "PfuxTxHUdjQ",
+   "huVdxAVCYp8",
+   "M8bSQFgCX8o",
+   "KHTjIZ6UtgQ",
+   "znvtxcE7Yw0",
+   "6EI0QsyY56k",
+   "UWTYaO1BwFA"
+  ],
+  "video_titles": [
+   "Adam iLL Saves Epic Backwoods Fail &amp; Talks Lil Pump / Smokepurpp Interview  -  Episode 1",
+   "Maurice &quot;Ambitious&quot; Lee Talks Mayweather, Being Shot 7x &amp; Creating a Winning Mentality - Episode 2",
+   "St\u00fcndenglass Shares Dopest Gravity Bong Ever &amp; How 1 Seth Rogen Post Changed Everything - Episode 3",
+   "Alice Moon Shares Her Journey &amp; Talks Cannabinoid Hyperemesis Syndrome (CHS) - Bud Brothers EP - 4",
+   "Bud Brothers Podcast #5 - Green Rush - Today's Cannabis Industry w/ Cannapreneur Christian of Kushly",
+   "Bud Brothers EP. #6 - Doobie Jones Gets a Tattoo in a Trap House while selling alarms w/ Mormons",
+   "Curious Jones Podcast #3  - JD Casper Talks Late Night TV, John Lennon &amp; Famous Assassinations Clip",
+   "Psychedelic Mushrooms Benefits on the Ego - Ian Mccall Shares the benefits for Athletes"
+  ],
+  "playlist_videos": [
+   {
+    "id": "QC4v2TbbYbI",
+    "title": "Adam iLL Saves Epic Backwoods Fail & Talks Lil Pump / Smokepurpp Interview  -  Episode 1",
+    "sec": 2050
+   },
+   {
+    "id": "PfuxTxHUdjQ",
+    "title": "Maurice \"Ambitious\" Lee Talks Mayweather, Being Shot 7x & Creating a Winning Mentality - Episode 2",
+    "sec": 2090
+   },
+   {
+    "id": "huVdxAVCYp8",
+    "title": "St\u00fcndenglass Shares Dopest Gravity Bong Ever & How 1 Seth Rogen Post Changed Everything - Episode 3",
+    "sec": 1927
+   },
+   {
+    "id": "M8bSQFgCX8o",
+    "title": "Alice Moon Shares Her Journey & Talks Cannabinoid Hyperemesis Syndrome (CHS) - Bud Brothers EP - 4",
+    "sec": 1488
+   },
+   {
+    "id": "KHTjIZ6UtgQ",
+    "title": "Bud Brothers Podcast #5 - Green Rush - Today's Cannabis Industry w/ Cannapreneur Christian of Kushly",
+    "sec": 1741
+   },
+   {
+    "id": "znvtxcE7Yw0",
+    "title": "Bud Brothers EP. #6 - Doobie Jones Gets a Tattoo in a Trap House while selling alarms w/ Mormons",
+    "sec": 1102
+   },
+   {
+    "id": "6EI0QsyY56k",
+    "title": "Curious Jones Podcast #3  - JD Casper Talks Late Night TV, John Lennon & Famous Assassinations Clip",
+    "sec": 788
+   },
+   {
+    "id": "UWTYaO1BwFA",
+    "title": "Psychedelic Mushrooms Benefits on the Ego - Ian Mccall Shares the benefits for Athletes",
+    "sec": 150
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauojAhvEwUzC77S9ZvIhvtOAk",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Mastering the Royal Game: Chess and Motivation",
+  "count": "148",
+  "feed_title": "Mastering the Royal Game: Chess and Motivation",
+  "videos": [
+   "eh8U6SLvNgs",
+   "7aN-zuldVxg",
+   "nZ5CXiMgOCw",
+   "ybMgbaIt6FA",
+   "dU9FxDkbQkE",
+   "oH0Xs3Y8US8",
+   "lvM7KKxxQV8",
+   "pb_yvBNLjNk",
+   "ykva5iPaqjY",
+   "e0_4cwV4apI",
+   "Qc_v9mTfhC8",
+   "GPuazOwq0aw",
+   "3TQS78kJFY8",
+   "cHG8bN3J8Gw",
+   "iY7DuZJ1i_o"
+  ],
+  "video_titles": [
+   "The Last Chess Shop in New York City",
+   "Naval Ravikant - The Purpose of WEALTH Is FREEDOM | Meaningwave MV | Akira The Don",
+   "Napoleon Hill - 10 Rules of Self Discipline YOU MUST SEE",
+   "Joe Rogan - I Don\u2019t Wanna HEAR THAT!  ON SPOTIFY NOW! | MOTIVATIONAL MUSIC | Meaningwave",
+   "Joe Rogan - Do SOMETHING! \ud83d\udcaa | Motivational Music | Meaningwave",
+   "Jordan Peterson &amp; Akira The Don - 42 Rules For Life \ud83e\udd9e\ud83c\udf0a | Music Video",
+   "Jordan Peterson | THAT'S GOD! | \ud83e\udd9e\ud83c\udf0a Meaningwave | MV",
+   "Eric Weinstein | The Portal Story",
+   "\uff2e\uff25\uff37\u3000\uff27\uff2f\uff24\uff33    ft. Jack Kirby ( \uff2d\uff45\uff41\uff4e\uff49\uff4e\uff47\uff57\uff41\uff56\uff45 \u00ae )",
+   "David MacEnulty - CBS News",
+   "Mozart of Chess: Magnus Carlsen",
+   "April 9, 1972: Chess champ Bobby Fischer on 60 Minutes",
+   "Franklin County Chess Project: Improving Academics through Chess",
+   "\uff27\uff25\uff34\u3000\uff21\uff26\uff34\uff25\uff32\u3000\uff29\uff34  \ud83d\udcaa\ud83d\udd25 Motivational Instrumentals",
+   "Grandmaster Yi is Legendary!  || Wei Yi vs Giri || FIDE Grand Prix (2019)"
+  ],
+  "playlist_videos": [
+   {
+    "id": "eh8U6SLvNgs",
+    "title": "The Last Chess Shop in New York City",
+    "sec": 415
+   },
+   {
+    "id": "7aN-zuldVxg",
+    "title": "Naval Ravikant - The Purpose of WEALTH Is FREEDOM | Meaningwave MV | Akira The Don",
+    "sec": 375
+   },
+   {
+    "id": "nZ5CXiMgOCw",
+    "title": "Napoleon Hill - 10 Rules of Self Discipline YOU MUST SEE",
+    "sec": 585
+   },
+   {
+    "id": "ybMgbaIt6FA",
+    "title": "Joe Rogan - I Don\u2019t Wanna HEAR THAT!  ON SPOTIFY NOW! | MOTIVATIONAL MUSIC | Meaningwave",
+    "sec": 293
+   },
+   {
+    "id": "dU9FxDkbQkE",
+    "title": "Joe Rogan - Do SOMETHING! \ud83d\udcaa | Motivational Music | Meaningwave",
+    "sec": 274
+   },
+   {
+    "id": "oH0Xs3Y8US8",
+    "title": "Jordan Peterson & Akira The Don - 42 Rules For Life \ud83e\udd9e\ud83c\udf0a | Music Video",
+    "sec": 437
+   },
+   {
+    "id": "lvM7KKxxQV8",
+    "title": "Jordan Peterson | THAT'S GOD! | \ud83e\udd9e\ud83c\udf0a Meaningwave | MV",
+    "sec": 319
+   },
+   {
+    "id": "pb_yvBNLjNk",
+    "title": "Eric Weinstein | The Portal Story",
+    "sec": 199
+   },
+   {
+    "id": "ykva5iPaqjY",
+    "title": "\uff2e\uff25\uff37\u3000\uff27\uff2f\uff24\uff33    ft. Jack Kirby ( \uff2d\uff45\uff41\uff4e\uff49\uff4e\uff47\uff57\uff41\uff56\uff45 \u00ae )",
+    "sec": 499
+   },
+   {
+    "id": "e0_4cwV4apI",
+    "title": "David MacEnulty - CBS News",
+    "sec": 860
+   },
+   {
+    "id": "Qc_v9mTfhC8",
+    "title": "Mozart of Chess: Magnus Carlsen",
+    "sec": 780
+   },
+   {
+    "id": "GPuazOwq0aw",
+    "title": "April 9, 1972: Chess champ Bobby Fischer on 60 Minutes",
+    "sec": 558
+   },
+   {
+    "id": "3TQS78kJFY8",
+    "title": "Franklin County Chess Project: Improving Academics through Chess",
+    "sec": 402
+   },
+   {
+    "id": "cHG8bN3J8Gw",
+    "title": "\uff27\uff25\uff34\u3000\uff21\uff26\uff34\uff25\uff32\u3000\uff29\uff34  \ud83d\udcaa\ud83d\udd25 Motivational Instrumentals",
+    "sec": 3858
+   },
+   {
+    "id": "iY7DuZJ1i_o",
+    "title": "Grandmaster Yi is Legendary!  || Wei Yi vs Giri || FIDE Grand Prix (2019)",
+    "sec": 787
+   },
+   {
+    "id": "k1SCXb2WA2U",
+    "title": "Magnus Carlsen Takes the 100 Endgames Test!",
+    "sec": 1883
+   },
+   {
+    "id": "uPUEq8d73JI",
+    "title": "David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning | Lex Fridman Podcast #86",
+    "sec": 6481
+   },
+   {
+    "id": "WXuK6gekU1Y",
+    "title": "AlphaGo - The Movie | Full award-winning documentary",
+    "sec": 5428
+   },
+   {
+    "id": "_3STbuf_Ets",
+    "title": "Genius With a Sense of Humor | MAGNUS CARLSEN MEGA COMPILATION #2",
+    "sec": 594
+   },
+   {
+    "id": "7tD6WgVTe5o",
+    "title": "How a Chess Genius Thinks - MAGNUS CARLSEN MEGA COMPILATION #1",
+    "sec": 354
+   },
+   {
+    "id": "P57jq6lv21o",
+    "title": "CRITICAL THINKING Trailer (2020) John Leguizamo, Chess Drama Movie",
+    "sec": 145
+   },
+   {
+    "id": "z2DHpW79w0Y",
+    "title": "The history of the top chess players over time",
+    "sec": 369
+   },
+   {
+    "id": "6vYJyOGKCHE",
+    "title": "Chess Grandmaster Garry Kasparov Replays His Four Most Memorable Games | The New Yorker",
+    "sec": 577
+   },
+   {
+    "id": "95057f-T0VE",
+    "title": "GM Hikaru and Levy Rank the Legends, the GOATs, the Theorists | Tier Maker: Greatest Chess Players",
+    "sec": 3204
+   },
+   {
+    "id": "oIMaTKOZG-8",
+    "title": "Bether Than The Original || Harmon vs Borgov - Final Game || Netflix's Queen's Gambit",
+    "sec": 1546
+   },
+   {
+    "id": "EWbZvqU3IhQ",
+    "title": "Is There a Gender Gap in Chess? ||  Magnus Carlsen vs Judit Polgar",
+    "sec": 1247
+   },
+   {
+    "id": "w-Q-CQ6UiU0",
+    "title": "Trump vs Biden? Honestly by Anish Giri",
+    "sec": 32
+   },
+   {
+    "id": "o1dgrvlWML4",
+    "title": "Feynman :: Rules of Chess",
+    "sec": 169
+   },
+   {
+    "id": "HqABigw_QW4",
+    "title": "How to become a chess player? Ft. IM Erik Kislik | The Brainy Chess Podcast Ep. 1 (Part 1)",
+    "sec": 778
+   },
+   {
+    "id": "AOZTkfCwK_c",
+    "title": "What is \"PLACHUTTA\" in Chess?",
+    "sec": 957
+   },
+   {
+    "id": "NMjABbjtLVo",
+    "title": "Am I the real life Beth Harmon?",
+    "sec": 1434
+   },
+   {
+    "id": "P6AIKRI_XpY",
+    "title": "Gza - Queens Gambit",
+    "sec": 276
+   },
+   {
+    "id": "GlpjSagH34w",
+    "title": "2 Pieces Sacrificed in First 7 Moves! || MVL vs Nakamura || Speed Chess Championship Finals (2020)",
+    "sec": 577
+   },
+   {
+    "id": "DxbMzZ5a2Zg",
+    "title": "A Thriller!!! (Anand Vs Kasparov - 1996 Blitz Chess Final)",
+    "sec": 685
+   },
+   {
+    "id": "nMLww24135E",
+    "title": "Kasparov blunders, Seville 1987, 23rd WC game",
+    "sec": 293
+   },
+   {
+    "id": "7B9p2PrsKWY",
+    "title": "Bobby Fischer's Secret Online Match vs Nigel Short in 2000",
+    "sec": 641
+   },
+   {
+    "id": "G9NabGlnDCs",
+    "title": "\"I'm a Machine\" An interview with Fabiano Caruana | GibChess",
+    "sec": 618
+   },
+   {
+    "id": "NhOZ1VFK4qo",
+    "title": "Bobby Fischer Gives Dick Cavett A Chess Crash Course | The Dick Cavett Show",
+    "sec": 489
+   },
+   {
+    "id": "7ol9O16ziG8",
+    "title": "Bobby Fischer on Gender Equality in The Chess Community | The Dick Cavett Show",
+    "sec": 319
+   },
+   {
+    "id": "QLLAMdj5Bu4",
+    "title": "9 Year Old Master Hustling Famous Trash Talker! (Bongcloud!) NM Brainy Bryan vs The Great Carlini",
+    "sec": 940
+   },
+   {
+    "id": "dbssw-f1KZs",
+    "title": "Queen's Gambit Lesson from Magnus Carlsen! Wanna Learn His Main Repertoire?",
+    "sec": 524
+   },
+   {
+    "id": "tWTWJhQGslI",
+    "title": "Magnus Roasted ft. spoiled AG, Samay Raina and Vidit Gujrathi",
+    "sec": 612
+   },
+   {
+    "id": "2-ZxUG55naQ",
+    "title": "Nihal Sarin solving a chess study",
+    "sec": 153
+   },
+   {
+    "id": "xiXqQ5wqElg",
+    "title": "DrDrunkenstein (Magnus Carlsen) Sacrifices his Queen on Move 10!",
+    "sec": 731
+   },
+   {
+    "id": "SMe-hvCwTRo",
+    "title": "Kasparov's Calculations - Mindboggling!!!  (very instructive)",
+    "sec": 448
+   },
+   {
+    "id": "U8RwLmWV-tk",
+    "title": "Welcome to Planet DUBOV!! || Dubov vs Carlsen || Airthings Masters (2020)",
+    "sec": 875
+   },
+   {
+    "id": "suHkktfIG5g",
+    "title": "Vidit Gujrathi stand-up explained",
+    "sec": 111
+   },
+   {
+    "id": "qkdPE6Rpfmg",
+    "title": "What happened when Anish Giri offered a draw to Magnus Carlsen on move 4!",
+    "sec": 680
+   },
+   {
+    "id": "TMvBWTEXSes",
+    "title": "Gazprom Brilliancy Prize | Nihal Sarin vs Francesco Sonis | World Online Youth Championships 2020",
+    "sec": 880
+   },
+   {
+    "id": "Gcb41Y5AMaE",
+    "title": "Grandmaster tries Stand up Comedy | Vidit Gujrathi |",
+    "sec": 192
+   },
+   {
+    "id": "zOwY-5IlBig",
+    "title": "Premoving A Whole Game Against Magnus Carlsen",
+    "sec": 776
+   },
+   {
+    "id": "_OE80iXC-hM",
+    "title": "@viditchess & @AnishGiriOfficial have CHEAT CODES  | That's My Job | Ep 16 - Part 1",
+    "sec": 672
+   },
+   {
+    "id": "JcrJJxDwSV0",
+    "title": "\uff28\uff4f\uff52\uff53\uff45\uff50\uff4f\uff57\uff45\uff52- A Joe \ud835\udc11\ud835\udc28\ud835\udc20\ud835\udc1a\ud835\udc27-\ud835\udc05\ud835\udc22  edit Prod EricGodlowBeats",
+    "sec": 204
+   },
+   {
+    "id": "u6YfCCI2Igk",
+    "title": "Hikaru gives Magnus Carlsen some mouse tips",
+    "sec": 1189
+   },
+   {
+    "id": "LnBZs04XQOU",
+    "title": "Magnus Carlsen Analyzes the Game Between Elizabeth Harmon and Borgov From The Queen's Gambit",
+    "sec": 513
+   },
+   {
+    "id": "9J_PvWkkvag",
+    "title": "Hikaru and Magnus Analyze The Queens Gambit",
+    "sec": 1304
+   },
+   {
+    "id": "YxOiQHR5yzw",
+    "title": "Queen's Gambit's Anya Taylor-Joy Is A Real Chess Master | The Netflix Afterparty",
+    "sec": 373
+   },
+   {
+    "id": "XGFnE5_yrnE",
+    "title": "How Bobby Fischer Saved Game of Thrones",
+    "sec": 415
+   },
+   {
+    "id": "2Fs7lBAaYZU",
+    "title": "Magnus Carlsen HACKS Chess!",
+    "sec": 587
+   },
+   {
+    "id": "c7BVtGnlxT8",
+    "title": "why do I hear boss music? (original)",
+    "sec": 52
+   },
+   {
+    "id": "-6lBiQiI0Q8",
+    "title": "True Meaning of agadmator",
+    "sec": 499
+   },
+   {
+    "id": "YeB-1F-UKO0",
+    "title": "A brief history of chess - Alex Gendler",
+    "sec": 340
+   },
+   {
+    "id": "Y6QDV27TtlU",
+    "title": "When 11 Year Old Hikaru Won in 11 Moves",
+    "sec": 672
+   },
+   {
+    "id": "jMksEm4-U1k",
+    "title": "Spassky Lights a Cigarette after Blundering a Rook to Karpov",
+    "sec": 758
+   },
+   {
+    "id": "peii70HZjWs",
+    "title": "The Impossible Checkmate!? | Tal vs Botvinnik 1960. | Game 16",
+    "sec": 1052
+   },
+   {
+    "id": "ArHtFdOOp-A",
+    "title": "Hikaru Nakamura vs Garry Kasparov | Epic Blitz Chess Battle \u2013 St. Louis Blitz 2017 #Chess64",
+    "sec": 831
+   },
+   {
+    "id": "ZCpt_cPzwsA",
+    "title": "You May Be Cool, But You're Not \"Paul Morphy Hanging 3 Pieces\" Cool",
+    "sec": 943
+   },
+   {
+    "id": "ZOrLfEZav14",
+    "title": "Garry Kasparov vs. The Entire World (1999)",
+    "sec": 1557
+   },
+   {
+    "id": "v34NqCbAA1c",
+    "title": "Working backward to solve problems - Maurice Ashley",
+    "sec": 357
+   },
+   {
+    "id": "_jx_jySDkN0",
+    "title": "Magnus Carlsen Retires From Chess!",
+    "sec": 791
+   },
+   {
+    "id": "kNF0LkIodXw",
+    "title": "Obsessive Learner Max Deutsch Challenged Magnus Carlsen. He Had One Month to Train",
+    "sec": 569
+   },
+   {
+    "id": "U4ogK0MIzqk",
+    "title": "Coding Adventure: Chess",
+    "sec": 1762
+   },
+   {
+    "id": "q5rvOXui70Q",
+    "title": "Magnus: \u201cHorror. When You Are There You Feel Pure Horror\u201d",
+    "sec": 1914
+   },
+   {
+    "id": "FC1CN9vtBTI",
+    "title": "Your Soul is Mine! || Carlsen vs Nakamura!! New In Chess Classic (2021)",
+    "sec": 949
+   },
+   {
+    "id": "VMZkPe15SuE",
+    "title": "How To Train Your Mind To Get What You Want",
+    "sec": 248
+   },
+   {
+    "id": "yqxnZoaTUDI",
+    "title": "Magnus Carlsen playing 1 min vs 9 min",
+    "sec": 305
+   },
+   {
+    "id": "PU--4CF9qPo",
+    "title": "Hikaru Can Not Believe His Eyes! || Nakamura vs Carlsen || NCC Finals! (2021)",
+    "sec": 874
+   },
+   {
+    "id": "PZFS0kewLRQ",
+    "title": "A chess prodigy explains how his mind works",
+    "sec": 271
+   },
+   {
+    "id": "tAqmqGunQ2s",
+    "title": "Magnus Carlsen Comments on the Only Game vs. Agadmator While He is Playing! CARLSEN vs AGADMATOR",
+    "sec": 422
+   },
+   {
+    "id": "8dT6CR9_6l4",
+    "title": "How AlphaZero Completely CRUSHED Stockfish",
+    "sec": 2028
+   },
+   {
+    "id": "r-xTunK0WcY",
+    "title": "The Immortal Pawns Game - 17 Consecutive Pawn Moves by White",
+    "sec": 592
+   },
+   {
+    "id": "_22xUIaok7Y",
+    "title": "Hikaru Nakamura Makes Chess look Simple",
+    "sec": 376
+   },
+   {
+    "id": "v8RaKTWHOoA",
+    "title": "GZA Interview at Chess Forum - Brooklyn Bound (Episode 17 - Part 1)",
+    "sec": 179
+   },
+   {
+    "id": "vztVylqnBSo",
+    "title": "White Sacrifices ALL of his Pieces! The Immortal Sacrifice Game",
+    "sec": 468
+   },
+   {
+    "id": "SHhYDNFdhQY",
+    "title": "\"This is a Typical ChessBase India Dirty Trick\" - Anish Giri",
+    "sec": 200
+   },
+   {
+    "id": "1YaTfmeRu98",
+    "title": "Master of Preparation - 1.b4!!",
+    "sec": 879
+   },
+   {
+    "id": "CUQQ4dym5ZU",
+    "title": "Learn The Ultimate Chess Opening || The Evans Gambit!",
+    "sec": 1859
+   },
+   {
+    "id": "mh9bZCKG-CM",
+    "title": "I Played Chess Hustlers in Union Square Park",
+    "sec": 573
+   },
+   {
+    "id": "GT9Q80Ov3Q0",
+    "title": "WE HAVE A NEW YOUNGEST CHESS GRANDMASTER!",
+    "sec": 983
+   },
+   {
+    "id": "TW0yJYab5YA",
+    "title": "STORY OF WORLD CHESS CHAMPION MAGNUS CARLSEN!",
+    "sec": 508
+   },
+   {
+    "id": "47_kQS7r6qU",
+    "title": "Knights, Bishops, and Marcus Buckingham - E1",
+    "sec": 71
+   },
+   {
+    "id": "gI3wwT3cWgE",
+    "title": "Greatest Chess Game Ever Played",
+    "sec": 1121
+   },
+   {
+    "id": "E6tZOClD3oY",
+    "title": "IT Strategy and the Danish Gambit - E1",
+    "sec": 142
+   },
+   {
+    "id": "yGnpewUKP88",
+    "title": "Invisible to Engines | One Of The Greatest Moves Ever Played",
+    "sec": 881
+   },
+   {
+    "id": "RGuA2V9x7wY",
+    "title": "I Played Chess Hustlers in Times Square",
+    "sec": 685
+   },
+   {
+    "id": "Iau6W5pjy9Y",
+    "title": "RZA: Wu-Tang Clan, Kung Fu, Chess, God, Life, and Death | Lex Fridman Podcast #228",
+    "sec": 5180
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauohrb44yRQbAQi5pAUmqj75-",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Let it Go and Be You",
+  "count": "59",
+  "feed_title": "Let it Go and Be You",
+  "videos": [
+   "gLu1wP9HhYM",
+   "-VYnfnBCVQU",
+   "iKGbuIaJyho",
+   "FCNl9nCWVVo",
+   "wTFLC_81dM4",
+   "KS9H8v3D_lA",
+   "zUl_zQqLzUk",
+   "z6rklFf69z8",
+   "LCiB9oMnIbI",
+   "PhhC_N6Bm_s",
+   "XQrJyR0t67g",
+   "jN3mBDQjTlc",
+   "2zqvoH5PJAw",
+   "aSh0LeCl0dE"
+  ],
+  "video_titles": [
+   "Alan Watts Chillstep Mix #2 / 1 Hour +",
+   "Alan Watts Chillstep Mix #1 / 1 Hour (REMASTERED)",
+   "Alan Watts Chillstep Mix #4 / 1 Hour",
+   "Alan Watts Chillstep Mix #5 / 1 Hour",
+   "Alan Watts Chillstep Mix #6 / 1 Hour",
+   "Alan Watts Chillstep Mix #7 / 1 Hour +",
+   "The Answer - Alan Watts Chillstep Mix #8 (watered down Re-upload)",
+   "\uff2e\uff21\uff36\uff21\uff2c\uff37\uff21\uff36\uff25: A Naval Ravikant Lofi Hip Hop Mix",
+   "The Miracle of Consciousness - Ram Dass Full Lecture 1996",
+   "This Is Water by David Foster Wallace Full Speech",
+   "Alan Watts - Give Yourself To The Water",
+   "Terence Mckenna - The Big Secret",
+   "\ud83d\udcf9 MEANING STREAM 50! ALL ALAN WATTS  SET! WATTSWAVE 6 LAUNCH PARTY!",
+   "East Forest \u2014 Digital Shamanism, Ram Dass, and Making Worlds of Music (#36)"
+  ],
+  "playlist_videos": [
+   {
+    "id": "zUl_zQqLzUk",
+    "title": "The Answer - Alan Watts Chillstep Mix #8 (watered down Re-upload)",
+    "sec": 2716
+   },
+   {
+    "id": "z6rklFf69z8",
+    "title": "\uff2e\uff21\uff36\uff21\uff2c\uff37\uff21\uff36\uff25: A Naval Ravikant Lofi Hip Hop Mix",
+    "sec": 1159
+   },
+   {
+    "id": "LCiB9oMnIbI",
+    "title": "The Miracle of Consciousness - Ram Dass Full Lecture 1996",
+    "sec": 9691
+   },
+   {
+    "id": "XQrJyR0t67g",
+    "title": "Alan Watts - Give Yourself To The Water",
+    "sec": 349
+   },
+   {
+    "id": "jN3mBDQjTlc",
+    "title": "Terence Mckenna - The Big Secret",
+    "sec": 684
+   },
+   {
+    "id": "2zqvoH5PJAw",
+    "title": "\ud83d\udcf9 MEANING STREAM 50! ALL ALAN WATTS  SET! WATTSWAVE 6 LAUNCH PARTY!",
+    "sec": 12278
+   },
+   {
+    "id": "aSh0LeCl0dE",
+    "title": "East Forest \u2014 Digital Shamanism, Ram Dass, and Making Worlds of Music (#36)",
+    "sec": 6271
+   },
+   {
+    "id": "7KdVijmvAfU",
+    "title": "\ud83d\udcf9 MEANING STREAM 67: WATTS VS PETERSON LIVE! ROUND 1!",
+    "sec": 8965
+   },
+   {
+    "id": "tvGDNBbRk2k",
+    "title": "Jordan Peterson & Akira The Don - THE WAVE \ud83c\udf0a(NIGHT DRIVING EDIT) | Synthwave | Future Funk",
+    "sec": 253
+   },
+   {
+    "id": "_qbTXtGgcdk",
+    "title": "Alan Watts - Everybody is God & The Power of Omnipotence | W A T T S W A V E | VISUAL | MEANINGWAVE",
+    "sec": 276
+   },
+   {
+    "id": "OT-bjR8Dxak",
+    "title": "Terence McKenna - The Nature Of Nature",
+    "sec": 2175
+   },
+   {
+    "id": "byxSazKYnw8",
+    "title": "Om Namah Shivaya (We Plants Are Happy Plants Remix)",
+    "sec": 376
+   },
+   {
+    "id": "2pPmt9xNj0I",
+    "title": "We Plants Are Happy Plants - Full Of Sound",
+    "sec": 329
+   },
+   {
+    "id": "Dc_S_ocOtYk",
+    "title": "Alan Watts - The Sound of the Rain Needs No Translation | W A T  T S W A V E | VISUAL | MEANINGWAVE",
+    "sec": 443
+   },
+   {
+    "id": "mwjwPhtyz4c",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25 \u26a1\ud83c\udf0a : An Alan Watts Lofi Hip Hop Mix",
+    "sec": 1948
+   },
+   {
+    "id": "gH3eGosOqXU",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25\u00b2 \u26a1\ud83c\udf0a : How To Be A Better Person - An Alan Watts Lofi Hip Hop Mix",
+    "sec": 3862
+   },
+   {
+    "id": "23pgfpgv_Pg",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25 \u2162 \u26a1\ud83c\udf0a : Time  \u231b - An Alan Watts Lofi Hip Hop Mix",
+    "sec": 1906
+   },
+   {
+    "id": "DhbAzFw-7xg",
+    "title": "Alan Watts - \uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25\u3000\uff29\uff36\u26a1\ud83c\udf0a DREAMS | Lofi hip hop | Full album | Akira The Don",
+    "sec": 3919
+   },
+   {
+    "id": "O9nyWg7obj4",
+    "title": "Alan Watts - \uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25 \ud835\udce5\u26a1\ud83c\udf0a: The Web of Life \ud83d\udd78\ufe0f\ud83d\udc9c | Lofi Hip Hop | Meaningwave | Full Album",
+    "sec": 5245
+   },
+   {
+    "id": "cOxuYhGaSpo",
+    "title": "\uff37\uff21\uff34\uff34\uff33\uff37\uff21\uff36\uff25  \uff36\uff29 \u26a1\ud83c\udf0a : The Web of Life 2 - Alan Watts & Akira The Don | Lofi Hiphop Meaningwave",
+    "sec": 5936
+   },
+   {
+    "id": "gnDYIUnMcYk",
+    "title": "Terence McKenna - Spirit And Impermanence",
+    "sec": 806
+   },
+   {
+    "id": "viNlErR88GE",
+    "title": "Dissolving the Fear, Finding Your Own Beauty - Ram Dass",
+    "sec": 247
+   },
+   {
+    "id": "355TKLo4xsw",
+    "title": "Terence McKenna Tribute (Narrated by Dennis McKenna)",
+    "sec": 356
+   },
+   {
+    "id": "zVgLJWr_2Kk",
+    "title": "Alan Watts & Boreta & Superposition | Listen, Dream | Dream",
+    "sec": 332
+   },
+   {
+    "id": "kjh1BAG5Pfs",
+    "title": "Sacred in the Everyday - Ram Dass Full Lecture",
+    "sec": 5235
+   },
+   {
+    "id": "vrvSvxOf2dY",
+    "title": "Terence McKenna - Speech Makes Mountains",
+    "sec": 403
+   },
+   {
+    "id": "3bKjlUtj1Yk",
+    "title": "The Modern Philosopher - A Chillstep Mix",
+    "sec": 6032
+   },
+   {
+    "id": "aJpd2VuHKC4",
+    "title": "\"The Philosopher's Mixtape Vol. II\" Chillstep Mix / 1 Hour",
+    "sec": 3636
+   },
+   {
+    "id": "lEQ5IInqL40",
+    "title": "Liberation from Karma - Alan Watts (feat Ram Dass) Chillstep Mix #10",
+    "sec": 2540
+   },
+   {
+    "id": "WmIlHih0UKM",
+    "title": "You are The Buddha - Alan Watts Chillstep Mix #2",
+    "sec": 2789
+   },
+   {
+    "id": "ILop3Kn3JO8",
+    "title": "LA SPEED STORY - SR-71 Pilot Brian Shul USAF (Ret.)",
+    "sec": 358
+   },
+   {
+    "id": "HUDvVq56vDw",
+    "title": "Terence McKenna - The Lost Connection",
+    "sec": 412
+   },
+   {
+    "id": "9iq_LdOW0Lc",
+    "title": "Alan Watts & Gianluca Fellini, Mark Watts, Save OM | Human Consciousness | TIME AND ETERNITY",
+    "sec": 273
+   },
+   {
+    "id": "w-rCdnbyd2E",
+    "title": "Random Rab LIVE on the Soul Land Music Series: Songs and Stories Inspired by Ram Dass",
+    "sec": 3353
+   },
+   {
+    "id": "xLcy1ifkoK8",
+    "title": "Naval Ravikant | Creator Economy w Sahil & Ben Thompson | Clubhouse 26th March 2021",
+    "sec": 7566
+   },
+   {
+    "id": "cginLIvczGs",
+    "title": "Enlightenment - The Philosophers' Mixtape",
+    "sec": 3730
+   },
+   {
+    "id": "GowIF-nIEvM",
+    "title": "Terence McKenna - The Departure",
+    "sec": 453
+   },
+   {
+    "id": "k7eJOKAPZxo",
+    "title": "We Plants Are Happy Plants - Not Waiting For Anything (Variation On A Theme)",
+    "sec": 360
+   },
+   {
+    "id": "mD66opUGI2o",
+    "title": "Terence McKenna - This is an Art",
+    "sec": 319
+   },
+   {
+    "id": "CMOcmUXJdlw",
+    "title": "Terence McKenna - The Ethical Life",
+    "sec": 373
+   },
+   {
+    "id": "9I0MhbJoMbY",
+    "title": "Ram Dass - Have a Good Journey  - Full Lecture",
+    "sec": 10222
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauoh_v3-e6Nc--O7V59jsqXFA",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "A Personal Guide into Quantum Theories, a Conscious Universe and Complex Mathematics",
+  "count": "76",
+  "feed_title": "A Personal Guide into Quantum Theories, a Conscious Universe and Complex Mathematics",
+  "videos": [
+   "EH-z9gE2uGY",
+   "A7N6TOFyrLg",
+   "3CyN8rYdX6g",
+   "e5_V78SWGF0",
+   "sB1EPGmpzyg",
+   "tafGL02EUOA",
+   "CBrsWPCp_rs",
+   "kF4ju6j6aLE",
+   "CIooLxk2jxs",
+   "-l6CTMs37rs",
+   "wgSZA3NPpBs",
+   "1OLz6uUuMp8",
+   "9UK6mfmPg4A",
+   "0jLBfAdryEI",
+   "NpMk9G-ddiM"
+  ],
+  "video_titles": [
+   "The Mystery at the Bottom of Physics",
+   "Maybe Logic: The Lives &amp; Ideas Of Robert Anton Wilson (2003)",
+   "What If the Earth Does Not Exist?",
+   "Quantum Theory Made Easy [1]",
+   "What is Quantum Spin?",
+   "Quantum Entanglement and the Great Bohr-Einstein Debate | Space Time | PBS Digital Studios",
+   "Quantum Theory - Full Documentary HD",
+   "String theory - Brian Greene",
+   "David Chalmers - Physics of Consciousness",
+   "Sylvester James \u201cJim\u201d Gates, Jr. \u2500 \u200bA Retrospective on Science &amp; Evidence-Based Policy Formation",
+   "Is the Universe a Simulation? | 2016 Isaac Asimov Memorial Debate",
+   "The Existence of Nothing | 2013 Isaac Asimov Memorial Debate",
+   "Jim Carrey, Tetrahedrons, &amp; the Flower of Death...",
+   "Fundamentals of Subdividing a Sphere for a Geodesic Dome",
+   "Steven Weinberg - Is Mathematics Invented or Discovered?"
+  ],
+  "playlist_videos": [
+   {
+    "id": "EH-z9gE2uGY",
+    "title": "The Mystery at the Bottom of Physics",
+    "sec": 695
+   },
+   {
+    "id": "A7N6TOFyrLg",
+    "title": "Maybe Logic: The Lives & Ideas Of Robert Anton Wilson (2003)",
+    "sec": 4884
+   },
+   {
+    "id": "3CyN8rYdX6g",
+    "title": "What If the Earth Does Not Exist?",
+    "sec": 1373
+   },
+   {
+    "id": "e5_V78SWGF0",
+    "title": "Quantum Theory Made Easy [1]",
+    "sec": 1869
+   },
+   {
+    "id": "sB1EPGmpzyg",
+    "title": "What is Quantum Spin?",
+    "sec": 351
+   },
+   {
+    "id": "tafGL02EUOA",
+    "title": "Quantum Entanglement and the Great Bohr-Einstein Debate | Space Time | PBS Digital Studios",
+    "sec": 843
+   },
+   {
+    "id": "CBrsWPCp_rs",
+    "title": "Quantum Theory - Full Documentary HD",
+    "sec": 3294
+   },
+   {
+    "id": "kF4ju6j6aLE",
+    "title": "String theory - Brian Greene",
+    "sec": 1150
+   },
+   {
+    "id": "CIooLxk2jxs",
+    "title": "David Chalmers - Physics of Consciousness",
+    "sec": 434
+   },
+   {
+    "id": "-l6CTMs37rs",
+    "title": "Sylvester James \u201cJim\u201d Gates, Jr. \u2500 \u200bA Retrospective on Science & Evidence-Based Policy Formation",
+    "sec": 4697
+   },
+   {
+    "id": "wgSZA3NPpBs",
+    "title": "Is the Universe a Simulation? | 2016 Isaac Asimov Memorial Debate",
+    "sec": 7259
+   },
+   {
+    "id": "1OLz6uUuMp8",
+    "title": "The Existence of Nothing | 2013 Isaac Asimov Memorial Debate",
+    "sec": 6840
+   },
+   {
+    "id": "0jLBfAdryEI",
+    "title": "Fundamentals of Subdividing a Sphere for a Geodesic Dome",
+    "sec": 169
+   },
+   {
+    "id": "NpMk9G-ddiM",
+    "title": "Steven Weinberg - Is Mathematics Invented or Discovered?",
+    "sec": 522
+   },
+   {
+    "id": "gB9n2gHsHN4",
+    "title": "Fractals are typically not self-similar",
+    "sec": 1296
+   },
+   {
+    "id": "56gzV0od6DU",
+    "title": "The Mandelbrot Set - Part Two - The only video you need to see!",
+    "sec": 642
+   },
+   {
+    "id": "Kas0tIxDvrg",
+    "title": "Exponential growth and epidemics",
+    "sec": 537
+   },
+   {
+    "id": "EK32jo7i5LQ",
+    "title": "Why do prime numbers make these spirals? | Dirichlet\u2019s theorem and pi approximations",
+    "sec": 1341
+   },
+   {
+    "id": "oJ_EvaSKEv0",
+    "title": "At the Deepest Level Our Minds Are Connected",
+    "sec": 501
+   },
+   {
+    "id": "spUNpyF58BY",
+    "title": "But what is the Fourier Transform?  A visual introduction.",
+    "sec": 1182
+   },
+   {
+    "id": "d-o3eB9sfls",
+    "title": "Why is pi here?  And why is it squared?  A geometric answer to the Basel problem",
+    "sec": 1028
+   },
+   {
+    "id": "U_lKUK2MCsg",
+    "title": "Grant Sanderson: 3Blue1Brown and the Beauty of Mathematics | Lex Fridman Podcast #64",
+    "sec": 3766
+   },
+   {
+    "id": "3qMemn__kK8",
+    "title": "Michael Stevens: Vsauce | Lex Fridman Podcast #58",
+    "sec": 3513
+   },
+   {
+    "id": "kD5yc1LQrpQ",
+    "title": "Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45",
+    "sec": 3660
+   },
+   {
+    "id": "sRTKSzAOBr4",
+    "title": "The Adventures of the Klein Bottle",
+    "sec": 237
+   },
+   {
+    "id": "wKV0GYvR2X8",
+    "title": "Unexpected Shapes (Part 1) - Numberphile",
+    "sec": 456
+   },
+   {
+    "id": "mh3eMt09EAs",
+    "title": "Unexpected Shapes (Part 2) - Numberphile",
+    "sec": 399
+   },
+   {
+    "id": "v_NnY_yYwuc",
+    "title": "Our Geodesic Dome Connector - How it Works!",
+    "sec": 965
+   },
+   {
+    "id": "SS5X5BkIKpM",
+    "title": "AT&T Archives: The Far Sound, a History of Long and Longer Distance Communications, from 1961",
+    "sec": 1612
+   },
+   {
+    "id": "_-JzxX75oYc",
+    "title": "AT&T Archives: A Modern Aladdin's Lamp, about vacuum tubes,1940",
+    "sec": 1292
+   },
+   {
+    "id": "ZBZnSteT72A",
+    "title": "The History of Computing [Documentary] (Vacuum Tube to Transistor to Integrated Circuit)",
+    "sec": 3559
+   },
+   {
+    "id": "vdW9XDBuxjU",
+    "title": "Geometric Unity - A Theory of Everything (Eric Weinstein) | AI Podcast Clips",
+    "sec": 3298
+   },
+   {
+    "id": "Ec03o-7rHLw",
+    "title": "Richard P Feynman: Quantum Mechanical View of Reality 2 (Part 1)",
+    "sec": 1703
+   },
+   {
+    "id": "-ERFBg2Uh1c",
+    "title": "George Carlin's Greatest Speech",
+    "sec": 259
+   },
+   {
+    "id": "ovJcsL7vyrk",
+    "title": "This equation will change how you see the world (the logistic map)",
+    "sec": 1119
+   },
+   {
+    "id": "etCW9M9VdGk",
+    "title": "The satisfying math of folding origami - Evan Zodl",
+    "sec": 323
+   },
+   {
+    "id": "t-_VPRCtiUg",
+    "title": "The Surprising Secret of Synchronization",
+    "sec": 1169
+   },
+   {
+    "id": "48sCx-wBs34",
+    "title": "The Infinite Pattern That Never Repeats",
+    "sec": 1272
+   },
+   {
+    "id": "kTXTPe3wahc",
+    "title": "Why Parallel Universes Are Probably Real",
+    "sec": 1200
+   },
+   {
+    "id": "rsCul1sp4hQ",
+    "title": "Monkey MindPong",
+    "sec": 209
+   },
+   {
+    "id": "KdDNfTREQJU",
+    "title": "Why Does Anything Exist? Zero Ontology, Physical Information, and Pure Awareness",
+    "sec": 3787
+   },
+   {
+    "id": "1VPfZ_XzisU",
+    "title": "The Bizarre Behavior of Rotating Bodies",
+    "sec": 889
+   },
+   {
+    "id": "s86-Z-CbaHA",
+    "title": "The Banach\u2013Tarski Paradox",
+    "sec": 1454
+   },
+   {
+    "id": "S1ggNjQrJWw",
+    "title": "Teaching Critical Thinking & Problem Solving | Chrisman Frank | Pomp Podcast #552",
+    "sec": 3988
+   },
+   {
+    "id": "zHL9GP_B30E",
+    "title": "Illusions of Time",
+    "sec": 1868
+   },
+   {
+    "id": "8VzDr7bgZwY",
+    "title": "Is Anything Real?",
+    "sec": 348
+   },
+   {
+    "id": "HeQX2HjkcNo",
+    "title": "Math's Fundamental Flaw",
+    "sec": 2040
+   },
+   {
+    "id": "JTvcpdfGUtQ",
+    "title": "What Is The Speed of Dark?",
+    "sec": 812
+   },
+   {
+    "id": "ACUuFg9Y9dY",
+    "title": "Would Headlights Work at Light Speed?",
+    "sec": 743
+   },
+   {
+    "id": "zlm1aajH6gY",
+    "title": "The Riemann Hypothesis, Explained",
+    "sec": 984
+   },
+   {
+    "id": "sD0NjbwqlYw",
+    "title": "But what is the Riemann zeta function? Visualizing analytic continuation",
+    "sec": 1331
+   },
+   {
+    "id": "VW6LYuli7VU",
+    "title": "Richard Feynman talks about Algebra",
+    "sec": 82
+   },
+   {
+    "id": "094y1Z2wpJg",
+    "title": "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
+    "sec": 1329
+   },
+   {
+    "id": "6AuQPqJPSKE",
+    "title": "The Symphony of Time",
+    "sec": 219
+   },
+   {
+    "id": "36GT2zI8lVA",
+    "title": "Richard Feynman. Why.",
+    "sec": 453
+   },
+   {
+    "id": "TyZSBqQ813c",
+    "title": "What It\u2019s Like Being Married to Neil deGrasse Tyson - Key & Peele",
+    "sec": 268
+   },
+   {
+    "id": "X8jsijhllIA",
+    "title": "But what are Hamming codes? The origin of error correction",
+    "sec": 1205
+   },
+   {
+    "id": "utMx48aGndI",
+    "title": "The Story of Creation Through Sacred Geometry",
+    "sec": 766
+   },
+   {
+    "id": "SBdW978Ii_E",
+    "title": "Sir Michael Atiyah, What is a Spinor ?",
+    "sec": 2303
+   },
+   {
+    "id": "rt_IKefTJn0",
+    "title": "Terence McKenna On Quantum Physics",
+    "sec": 1817
+   },
+   {
+    "id": "aSg2Db3jF_4",
+    "title": "Hardest Mandelbrot Zoom in 2017 - 750 000 000 iterations!",
+    "sec": 337
+   },
+   {
+    "id": "LqbZpur38nw",
+    "title": "Beyond the Mandelbrot set, an intro to holomorphic dynamics",
+    "sec": 1656
+   },
+   {
+    "id": "VvCytJvd4H0",
+    "title": "Why this puzzle is impossible",
+    "sec": 1177
+   },
+   {
+    "id": "zXTpASSd9xE",
+    "title": "Hardest Mandelbrot zoom in 2014, 10^198 - 350 000 000 iterations",
+    "sec": 551
+   },
+   {
+    "id": "b81Ib_oYbFk",
+    "title": "Making a BLOCKCHAIN in PYTHON WITH MINING!",
+    "sec": 400
+   },
+   {
+    "id": "gkbFiFBFNu8",
+    "title": "Welcome to the UNDRGRND / The Cryptowriter Podcast LIVE",
+    "sec": 4748
+   },
+   {
+    "id": "Iy_oYCNhiUI",
+    "title": "The biggest chess game ever",
+    "sec": 162
+   },
+   {
+    "id": "JvhSRCfCHb4",
+    "title": "Papers unpicked: Strategy on an Infinite Chessboard between an Angel and a Devil",
+    "sec": 715
+   },
+   {
+    "id": "ltLUadnCyi0",
+    "title": "A tale of two problem solvers | Average cube shadow area",
+    "sec": 2406
+   },
+   {
+    "id": "ixBPSX-gFP0",
+    "title": "Terence McKenna - New Phase Of Human Existence",
+    "sec": 3570
+   },
+   {
+    "id": "evQsOFQju08",
+    "title": "Is Your Red The Same as My Red?",
+    "sec": 575
+   },
+   {
+    "id": "zRP82omMX0g",
+    "title": "INSIDE a Spherical Mirror",
+    "sec": 434
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauogrCDpHeTmQWWSTd1O7nKyL",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "Can you imagine magic?",
+  "count": "117",
+  "feed_title": "Can you imagine magic?",
+  "videos": [
+   "OEMnwI2G2U0",
+   "Iail_al0-ZQ",
+   "n8ejRou1BMM",
+   "fs0On1AcPkU",
+   "hcRGY2Bdk0U",
+   "z5wrcMiT2jM",
+   "JzIUNQ9HxzU",
+   "JkALrU3gXH4"
+  ],
+  "video_titles": [
+   "Is this life a Dream? - Alan Watts",
+   "Imagination Is A Portal (Terence McKenna)",
+   "Terence Mckenna Resets Your Mind \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+   "The Most Important Message that Terence McKenna left Humanity",
+   "Terence McKenna - Psychedelics Before and After History",
+   "A Message to Artists from Terence Mckenna [1990]",
+   "Terence McKenna - Opening the Doors of Creativity",
+   "The Importance of Being Alone (Terence Mckenna)"
+  ],
+  "playlist_videos": [
+   {
+    "id": "OEMnwI2G2U0",
+    "title": "Is this life a Dream? - Alan Watts",
+    "sec": 261
+   },
+   {
+    "id": "Iail_al0-ZQ",
+    "title": "Imagination Is A Portal (Terence McKenna)",
+    "sec": 2066
+   },
+   {
+    "id": "n8ejRou1BMM",
+    "title": "Terence Mckenna Resets Your Mind \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+    "sec": 3547
+   },
+   {
+    "id": "fs0On1AcPkU",
+    "title": "The Most Important Message that Terence McKenna left Humanity",
+    "sec": 915
+   },
+   {
+    "id": "hcRGY2Bdk0U",
+    "title": "Terence McKenna - Psychedelics Before and After History",
+    "sec": 7120
+   },
+   {
+    "id": "z5wrcMiT2jM",
+    "title": "A Message to Artists from Terence Mckenna [1990]",
+    "sec": 795
+   },
+   {
+    "id": "JzIUNQ9HxzU",
+    "title": "Terence McKenna - Opening the Doors of Creativity",
+    "sec": 6118
+   },
+   {
+    "id": "JkALrU3gXH4",
+    "title": "The Importance of Being Alone (Terence Mckenna)",
+    "sec": 1053
+   },
+   {
+    "id": "eh7qvXfGQho",
+    "title": "Daniel Schmachtenberger\u2019s talk at Emergence",
+    "sec": 1506
+   },
+   {
+    "id": "mPqWstVnRjQ",
+    "title": "Joe Rogan Experience #1035 - Paul Stamets",
+    "sec": 8029
+   },
+   {
+    "id": "3ODaWxBJNPk",
+    "title": "Joe Rogan Experience #142 - Graham Hancock, Duncan Trussell",
+    "sec": 7715
+   },
+   {
+    "id": "aAlaRdrcQcY",
+    "title": "The Transcendental Object At The End Of Time (Terence McKenna Movie) FULL HD",
+    "sec": 12889
+   },
+   {
+    "id": "FY74AFQl2qQ",
+    "title": "Sonic Geometry: The Language of Frequency and Form",
+    "sec": 1932
+   },
+   {
+    "id": "Td_qaNy1W9U",
+    "title": "Nick Bostrom: Why Our Brains Themselves May Be Simulated",
+    "sec": 1428
+   },
+   {
+    "id": "efHisXGsi08",
+    "title": "Terence McKenna Chillstep Mix / 1 Hour",
+    "sec": 3601
+   },
+   {
+    "id": "v8a0jmRkTH8",
+    "title": "Terence McKenna ~ DMT Vs. 5-MEO-DMT",
+    "sec": 572
+   },
+   {
+    "id": "_r16TDBLI9Y",
+    "title": "John C. Lilly - Looking Into Inner Space",
+    "sec": 642
+   },
+   {
+    "id": "eb-Ni-0ULuI",
+    "title": "John C. Lilly - Isolation Tanks, Dolphins and the Deep Self",
+    "sec": 1488
+   },
+   {
+    "id": "alasBxZsb40",
+    "title": "Aldous Huxley interviewed by Mike Wallace : 1958 (Full)",
+    "sec": 1693
+   },
+   {
+    "id": "3G5sV6DXQd0",
+    "title": "Sound Vibration Creates Form ( David Icke )",
+    "sec": 274
+   },
+   {
+    "id": "WjEK2CIK6nY",
+    "title": "Terence McKenna - Viruses and Social Life",
+    "sec": 435
+   },
+   {
+    "id": "0wkhHefMDNQ",
+    "title": "Terence McKenna at Esalen Institute in 1989",
+    "sec": 3338
+   },
+   {
+    "id": "jN3mBDQjTlc",
+    "title": "Terence Mckenna - The Big Secret",
+    "sec": 684
+   },
+   {
+    "id": "S9Po0KU5_nU",
+    "title": "Terence McKenna - Green Anarchy",
+    "sec": 773
+   },
+   {
+    "id": "Hye5MxihJVE",
+    "title": "Terence McKenna - Extraterrestrial Mushrooms",
+    "sec": 432
+   },
+   {
+    "id": "0Bhiy0797qo",
+    "title": "Terence McKenna - Ride The Tao",
+    "sec": 291
+   },
+   {
+    "id": "Gol5sPM073k",
+    "title": "Jordan Peterson - The Mystery of DMT and Psilocybin",
+    "sec": 454
+   },
+   {
+    "id": "vU90ybDgEzM",
+    "title": "Terence McKenna - Language Of Emotion",
+    "sec": 772
+   },
+   {
+    "id": "skkUo8Lgiu0",
+    "title": "RECONNECT - THE MOVIE: Featuring Dennis McKenna, Jordan Peterson, Dorian Yates & More",
+    "sec": 5286
+   },
+   {
+    "id": "pWKZLW_vfTI",
+    "title": "We Plants Are Happy Plants - Way Of The Wizard",
+    "sec": 325
+   },
+   {
+    "id": "IOppvLvCbcw",
+    "title": "Terence McKenna - It's Going To Get Crazier",
+    "sec": 285
+   },
+   {
+    "id": "MTJeljGJRgY",
+    "title": "Terence McKenna: The Wordsmith",
+    "sec": 2965
+   },
+   {
+    "id": "SV1N4m3sm7Q",
+    "title": "BOB LAZAR + THE CORE UFO SECRET",
+    "sec": 120
+   },
+   {
+    "id": "arUfiA3nm70",
+    "title": "Terence McKenna - The History Of New Age",
+    "sec": 1705
+   },
+   {
+    "id": "LUH-0iFJbYs",
+    "title": "Terence McKenna - You Could Change Your Reality",
+    "sec": 448
+   },
+   {
+    "id": "ssRUz_tNdJw",
+    "title": "Terence McKenna - Spiritual Objects",
+    "sec": 397
+   },
+   {
+    "id": "g9VeXLuJu4M",
+    "title": "Alan Watts & Akira The Don - THE WAY THE WORLD ACTUALLY IS | MV | Meaningwave | Lofi Hip hop",
+    "sec": 331
+   },
+   {
+    "id": "O3MCodNInhY",
+    "title": "Terence McKenna - We Are Frustrated Monkeys",
+    "sec": 527
+   },
+   {
+    "id": "355TKLo4xsw",
+    "title": "Terence McKenna Tribute (Narrated by Dennis McKenna)",
+    "sec": 356
+   },
+   {
+    "id": "647yqQOTa_Y",
+    "title": "Terence McKenna - The Fabric Of Time And Language",
+    "sec": 579
+   },
+   {
+    "id": "0xefRtWIZnE",
+    "title": "Terence McKenna - This Is The Way",
+    "sec": 438
+   },
+   {
+    "id": "vrvSvxOf2dY",
+    "title": "Terence McKenna - Speech Makes Mountains",
+    "sec": 403
+   },
+   {
+    "id": "tWTWJhQGslI",
+    "title": "Magnus Roasted ft. spoiled AG, Samay Raina and Vidit Gujrathi",
+    "sec": 612
+   },
+   {
+    "id": "ax0RvqExzYk",
+    "title": "Terence McKenna - The Game Of Understanding",
+    "sec": 298
+   },
+   {
+    "id": "qKnTDBTbS80",
+    "title": "Terence McKenna & Akira The Don - The Archaic Revival | Meaningwave",
+    "sec": 277
+   },
+   {
+    "id": "aLtJx7APLzk",
+    "title": "Terence McKenna - The Sword Of Wisdom",
+    "sec": 451
+   },
+   {
+    "id": "e_N7pKY5s7U",
+    "title": "Terence McKenna - The Power To Transform",
+    "sec": 373
+   },
+   {
+    "id": "CXEj666l-rs",
+    "title": "The Future Is Virtual (Terence McKenna VR Documentary)",
+    "sec": 688
+   },
+   {
+    "id": "HUDvVq56vDw",
+    "title": "Terence McKenna - The Lost Connection",
+    "sec": 412
+   },
+   {
+    "id": "Ml6bjFKJkqY",
+    "title": "Terence Mckenna - The Last Option",
+    "sec": 3232
+   },
+   {
+    "id": "ZDa7Zgs3gKs",
+    "title": "Terence Mckenna - Sound Is The Carrier",
+    "sec": 714
+   },
+   {
+    "id": "5J1KPGUd9IM",
+    "title": "Terence Mckenna - A Piece of Advice",
+    "sec": 625
+   },
+   {
+    "id": "KdDNfTREQJU",
+    "title": "Why Does Anything Exist? Zero Ontology, Physical Information, and Pure Awareness",
+    "sec": 3787
+   },
+   {
+    "id": "VMZkPe15SuE",
+    "title": "How To Train Your Mind To Get What You Want",
+    "sec": 248
+   },
+   {
+    "id": "Fam2LmzeyYc",
+    "title": "Awakening ~ Jim Carrey Lofi~ Prod Eric Godlow Beats",
+    "sec": 193
+   },
+   {
+    "id": "WBZatEPUHIE",
+    "title": "Terence McKenna - Alien Spores",
+    "sec": 530
+   },
+   {
+    "id": "CmAXFemOSFM",
+    "title": "Terence McKenna - Constant Scientific Revolution",
+    "sec": 652
+   },
+   {
+    "id": "loCBvaj4eSg",
+    "title": "The Hyperbolic Geometry of DMT Experiences (@Harvard Science of Psychedelics Club)",
+    "sec": 3975
+   },
+   {
+    "id": "vdOOBj8hbJU",
+    "title": "Terence Mckenna - See Things Differently",
+    "sec": 584
+   },
+   {
+    "id": "ia9kVAxg-hc",
+    "title": "Terence McKenna - The Still Small Voice",
+    "sec": 385
+   },
+   {
+    "id": "8VzDr7bgZwY",
+    "title": "Is Anything Real?",
+    "sec": 348
+   },
+   {
+    "id": "K2daXV4AxYY",
+    "title": "Terence McKenna - The Fractal Faith",
+    "sec": 427
+   },
+   {
+    "id": "GowIF-nIEvM",
+    "title": "Terence McKenna - The Departure",
+    "sec": 453
+   },
+   {
+    "id": "uQWadGDIedY",
+    "title": "Terence McKenna - Digital Liberation",
+    "sec": 377
+   },
+   {
+    "id": "u8y-khMKIbU",
+    "title": "Terence McKenna - Complete Program - Hallucinogens & Culture  --Thinking Allowed w/ Jeffrey Mishlove",
+    "sec": 1645
+   },
+   {
+    "id": "dVtnZ5r9Bt8",
+    "title": "Terence McKenna - Childhood Stories (Compilation)",
+    "sec": 1025
+   },
+   {
+    "id": "mJ9koe-UxrE",
+    "title": "Terence McKenna on Time Travel",
+    "sec": 2402
+   },
+   {
+    "id": "QaB2aZ0Q5FY",
+    "title": "Terence McKenna - Human Impact On Prehistoric Nature",
+    "sec": 659
+   },
+   {
+    "id": "wN0ZyRu55O8",
+    "title": "Terence McKenna - The Plant Connection",
+    "sec": 775
+   },
+   {
+    "id": "cqfJlaB7-Y8",
+    "title": "Terence McKenna - Ripping The Membrane",
+    "sec": 377
+   },
+   {
+    "id": "RzTVv4vghCI",
+    "title": "Terence McKenna - The Great Dilemma",
+    "sec": 347
+   },
+   {
+    "id": "qWKCsrwA1PY",
+    "title": "Terence McKenna On Fractals",
+    "sec": 1528
+   },
+   {
+    "id": "OwkQRqOzg70",
+    "title": "Terence McKenna - The Power Of Art",
+    "sec": 519
+   },
+   {
+    "id": "fXRmBve9voE",
+    "title": "The Origins Of Albus Dumbledore",
+    "sec": 542
+   },
+   {
+    "id": "HWRjGPCxV_4",
+    "title": "Terence McKenna - The Imagination is God (In The Dream)",
+    "sec": 273
+   },
+   {
+    "id": "v6lsQoGMzGc",
+    "title": "Terence McKenna - Subtle Evolution",
+    "sec": 523
+   },
+   {
+    "id": "Yxfn5PFWYTk",
+    "title": "Terence McKenna - Nobody is smarter than you are",
+    "sec": 97
+   },
+   {
+    "id": "-eu9GfHCpVo",
+    "title": "Terence McKenna - Reclaim your mind",
+    "sec": 122
+   },
+   {
+    "id": "aSg2Db3jF_4",
+    "title": "Hardest Mandelbrot Zoom in 2017 - 750 000 000 iterations!",
+    "sec": 337
+   },
+   {
+    "id": "zXTpASSd9xE",
+    "title": "Hardest Mandelbrot zoom in 2014, 10^198 - 350 000 000 iterations",
+    "sec": 551
+   },
+   {
+    "id": "MsU6R0oMyZA",
+    "title": "Terence McKenna - The Price Of Miracles",
+    "sec": 1657
+   },
+   {
+    "id": "ru-WouAYQzM",
+    "title": "Terence McKenna - No Place For True Believers",
+    "sec": 865
+   },
+   {
+    "id": "nLNtpAXOlHk",
+    "title": "Terence McKenna - The Cure For Boredom",
+    "sec": 302
+   },
+   {
+    "id": "KVNPUt56GOs",
+    "title": "Terence McKenna - Technologies and Our Flaws",
+    "sec": 726
+   },
+   {
+    "id": "ixBPSX-gFP0",
+    "title": "Terence McKenna - New Phase Of Human Existence",
+    "sec": 3570
+   },
+   {
+    "id": "zyU-susjUKc",
+    "title": "Terence McKenna's Seven-Minute Flight Of Ideas",
+    "sec": 426
+   },
+   {
+    "id": "UrStQRq95NY",
+    "title": "Terence McKenna - The Alchemical Child At The End Of Time",
+    "sec": 443
+   },
+   {
+    "id": "fClsFKfw1xg",
+    "title": "Terence McKenna Tells Four Stories In Ten Minutes",
+    "sec": 616
+   },
+   {
+    "id": "sqJYQ_TUC7c",
+    "title": "Terence McKenna - Alchemical Youth On The Edge Of The World (Full Talk)",
+    "sec": 2688
+   },
+   {
+    "id": "CMOcmUXJdlw",
+    "title": "Terence McKenna - The Ethical Life",
+    "sec": 373
+   },
+   {
+    "id": "evQsOFQju08",
+    "title": "Is Your Red The Same as My Red?",
+    "sec": 575
+   },
+   {
+    "id": "vcqyel7c6Qc",
+    "title": "Will People Ever Understand? - Terence McKenna On The Mysteries Of Our Universe",
+    "sec": 746
+   },
+   {
+    "id": "zRP82omMX0g",
+    "title": "INSIDE a Spherical Mirror",
+    "sec": 434
+   },
+   {
+    "id": "7O3GLn78CAA",
+    "title": "Terence McKenna - The Final Illusion",
+    "sec": 465
+   },
+   {
+    "id": "rnDLgh6_SbQ",
+    "title": "How To Meditate - with Ram Dass | [ARCHIVAL VIDEO]",
+    "sec": 356
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauogaBHq2kuve0uxv67Z2Tnvv",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "A Personal Guide for Finding Peace and Harmony in your Universe",
+  "count": "48",
+  "feed_title": "A Personal Guide for Finding Peace and Harmony in your Universe",
+  "videos": [
+   "VqEcNhTxtqs",
+   "EEZkQv25uEs",
+   "eh7qvXfGQho",
+   "pLbSlC0Pucw",
+   "zPmgTJGPzlg",
+   "3qHkcs3kG44",
+   "FF-wKPKSjCc",
+   "8aufuwMiKmE",
+   "dZ8WeLrtFnY",
+   "3RcjATFcbq4",
+   "tOYIE-RX3No",
+   "NCaK35DQ4uk"
+  ],
+  "video_titles": [
+   "Steve Taylor \u2014 Why Science Needs Spirituality to Make Sense of the World (#15)",
+   "Sacred Economics with Charles Eisenstein - A Short Film",
+   "Daniel Schmachtenberger\u2019s talk at Emergence",
+   "The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist",
+   "A Dialogue with Ram Dass and Eckhart Tolle",
+   "Joe Rogan Experience #1309 - Naval Ravikant",
+   "Alan Watts~ Eastern &amp; Western Zen: Zen Tales and Legends",
+   "Alan Watts: A Conversation with Myself - Part 1",
+   "Alan Watts: A Conversation with Myself- Part 2",
+   "Alan Watts: A Conversation with Myself-Part 3",
+   "Alan Watts: A Conversation with Myself- Part 4",
+   "Terence McKenna - Final Earthbound Interview"
+  ],
+  "playlist_videos": [
+   {
+    "id": "VqEcNhTxtqs",
+    "title": "Steve Taylor \u2014 Why Science Needs Spirituality to Make Sense of the World (#15)",
+    "sec": 4539
+   },
+   {
+    "id": "EEZkQv25uEs",
+    "title": "Sacred Economics with Charles Eisenstein - A Short Film",
+    "sec": 729
+   },
+   {
+    "id": "eh7qvXfGQho",
+    "title": "Daniel Schmachtenberger\u2019s talk at Emergence",
+    "sec": 1506
+   },
+   {
+    "id": "pLbSlC0Pucw",
+    "title": "The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist",
+    "sec": 4928
+   },
+   {
+    "id": "zPmgTJGPzlg",
+    "title": "A Dialogue with Ram Dass and Eckhart Tolle",
+    "sec": 7222
+   },
+   {
+    "id": "3qHkcs3kG44",
+    "title": "Joe Rogan Experience #1309 - Naval Ravikant",
+    "sec": 7917
+   },
+   {
+    "id": "8aufuwMiKmE",
+    "title": "Alan Watts: A Conversation with Myself - Part 1",
+    "sec": 428
+   },
+   {
+    "id": "dZ8WeLrtFnY",
+    "title": "Alan Watts: A Conversation with Myself- Part 2",
+    "sec": 439
+   },
+   {
+    "id": "3RcjATFcbq4",
+    "title": "Alan Watts: A Conversation with Myself-Part 3",
+    "sec": 600
+   },
+   {
+    "id": "tOYIE-RX3No",
+    "title": "Alan Watts: A Conversation with Myself- Part 4",
+    "sec": 222
+   },
+   {
+    "id": "NCaK35DQ4uk",
+    "title": "Terence McKenna - Final Earthbound Interview",
+    "sec": 3828
+   },
+   {
+    "id": "JFE3iIOBMDk",
+    "title": "Mose - Reveries (Chill Out Live Set)",
+    "sec": 3887
+   },
+   {
+    "id": "Py9gLDk16fM",
+    "title": "Terence McKenna - Just Take Hold Of Yourself",
+    "sec": 567
+   },
+   {
+    "id": "Orb8cGSqS-A",
+    "title": "Beyond Success - Ram Dass Full Lecture 1987",
+    "sec": 7255
+   },
+   {
+    "id": "wAp2TGinH7w",
+    "title": "East Forest & Ram Dass - Home (Official Music Video) [Part 1]",
+    "sec": 265
+   },
+   {
+    "id": "CM2Szq5yyRE",
+    "title": "East Forest & Ram Dass - SouLand (Official Music Video) [Part 2]",
+    "sec": 275
+   },
+   {
+    "id": "9s9PbBfwDfo",
+    "title": "East Forest & Ram Dass - Dark Thoughts (Official Music Video) [Part 3]",
+    "sec": 219
+   },
+   {
+    "id": "WUQkBFFML7w",
+    "title": "East Forest & Ram Dass - I Am Loving Awareness (feat. Krishna Das) [Official Audio]",
+    "sec": 605
+   },
+   {
+    "id": "8HvYlX_UYOY",
+    "title": "EAST FOREST x RAM DASS - Mind Karma (feat. Trevor Hall) - Official Lyric Video",
+    "sec": 284
+   },
+   {
+    "id": "LnzTWu2Nk_M",
+    "title": "East Forest & Ram Dass - You\u2019re A Guru (Official Audio)",
+    "sec": 232
+   },
+   {
+    "id": "1sx2wp1gahA",
+    "title": "East Forest & Ram Dass - We Are Truth (Official Audio)",
+    "sec": 323
+   },
+   {
+    "id": "CsXtSDk67_A",
+    "title": "Meditation: A Dream in God's Infinite Mind | Rupert Spira",
+    "sec": 5283
+   },
+   {
+    "id": "fcYoFoqEClM",
+    "title": "It All Starts Right Now | Alan Watts | Powerful Life Advice",
+    "sec": 343
+   },
+   {
+    "id": "a8NR6AM5oKk",
+    "title": "In the Face of Chaos - Ram Dass Full Lecture 1994",
+    "sec": 3726
+   },
+   {
+    "id": "ii2xTW1pT1E",
+    "title": "Joe Rogan Experience #739 - Duncan Trussell & Christopher Ryan",
+    "sec": 10650
+   },
+   {
+    "id": "LXCum823m8o",
+    "title": "He Spent 50 Years With Ram Dass! | Raghu Markus",
+    "sec": 4645
+   },
+   {
+    "id": "J8mK4dPna18",
+    "title": "Terence McKenna - Work On What Has Been Spoiled",
+    "sec": 672
+   },
+   {
+    "id": "ziqYvPfJcmE",
+    "title": "Terence McKenna - Don't Panic",
+    "sec": 441
+   },
+   {
+    "id": "WjEK2CIK6nY",
+    "title": "Terence McKenna - Viruses and Social Life",
+    "sec": 435
+   },
+   {
+    "id": "Rj-FyuuuCKM",
+    "title": "How to Deal With Anxiety Like a Stoic (Seneca's 11 Strategies)",
+    "sec": 1543
+   },
+   {
+    "id": "aSh0LeCl0dE",
+    "title": "East Forest \u2014 Digital Shamanism, Ram Dass, and Making Worlds of Music (#36)",
+    "sec": 6271
+   },
+   {
+    "id": "vU90ybDgEzM",
+    "title": "Terence McKenna - Language Of Emotion",
+    "sec": 772
+   },
+   {
+    "id": "QFm6xYglx4E",
+    "title": "Terence McKenna - Social Unrest, Anarchy, Responsibility",
+    "sec": 604
+   },
+   {
+    "id": "uqz_SuNw0gc",
+    "title": "Fractals Are Everywhere",
+    "sec": 1008
+   },
+   {
+    "id": "gWAZFuz_mFc",
+    "title": "Baba Ram Dass -1976, Aspen CO -  Some of the oldest known video footage of Baba Ram Dass",
+    "sec": 3968
+   },
+   {
+    "id": "GrWhX1BixBk",
+    "title": "THE YOGIS OF TIBET - Rare Documentary Film",
+    "sec": 4593
+   },
+   {
+    "id": "d1k_8z0yl20",
+    "title": "Terence McKenna On War",
+    "sec": 742
+   },
+   {
+    "id": "9I0MhbJoMbY",
+    "title": "Ram Dass - Have a Good Journey  - Full Lecture",
+    "sec": 10222
+   },
+   {
+    "id": "JUQnhiZirKQ",
+    "title": "The End of the Great Pacific Garbage Patch | The Ocean Cleanup",
+    "sec": 212
+   },
+   {
+    "id": "wCUXVzOVprE",
+    "title": "A Conversation Between Ram Dass & Terence McKenna",
+    "sec": 2424
+   },
+   {
+    "id": "qo6ZXNBtYrc",
+    "title": "Ram Dass - Fruit of the Actions",
+    "sec": 3428
+   },
+   {
+    "id": "YM3Bhi70kQE",
+    "title": "Why Mister Rogers Still Matters Today | Full Documentary",
+    "sec": 3470
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauojEDEnpCzN8HDiCVsKQd2gL",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "A Personal Guide for Understanding the Shape of Earth",
+  "count": "35",
+  "feed_title": "A Personal Guide for Understanding the Shape of Earth",
+  "videos": [
+   "i2dTXB3O3dw",
+   "gjq0wSiuX3g",
+   "mxhxL1LzKww",
+   "W9ksbh88OJs",
+   "McdMMmclGVc",
+   "3CyN8rYdX6g",
+   "IJhgZBn-LHg",
+   "NGZEXkSX9wI",
+   "wgSZA3NPpBs",
+   "vdW9XDBuxjU",
+   "Kas0tIxDvrg",
+   "8idr1WZ1A7Q",
+   "tek8-LtMgss",
+   "ZdfQQ9wWdF4"
+  ],
+  "video_titles": [
+   "How We Know The Earth Isn\u2019t Flat",
+   "Matt Boylan Forbidden Comic - NASA Lies - CLEAN",
+   "How Much of the Earth Can You See at Once?",
+   "Proving the Earth is not Flat - Part 1 - The Horizon",
+   "Convex Earth the Documentary /DAKILA PESQUISAS",
+   "What If the Earth Does Not Exist?",
+   "How Earth Moves",
+   "Proving the Earth is not Flat - Part 2 - The Stars",
+   "Is the Universe a Simulation? | 2016 Isaac Asimov Memorial Debate",
+   "Geometric Unity - A Theory of Everything (Eric Weinstein) | AI Podcast Clips",
+   "Exponential growth and epidemics",
+   "Binomial distributions | Probabilities of probabilities, part 1",
+   "Joe Rogan - Eddie Bravo Goes DEEP on Flat Earth",
+   "Why Are Astronauts still lying"
+  ],
+  "playlist_videos": [
+   {
+    "id": "i2dTXB3O3dw",
+    "title": "How We Know The Earth Isn\u2019t Flat",
+    "sec": 264
+   },
+   {
+    "id": "gjq0wSiuX3g",
+    "title": "Matt Boylan Forbidden Comic - NASA Lies - CLEAN",
+    "sec": 843
+   },
+   {
+    "id": "mxhxL1LzKww",
+    "title": "How Much of the Earth Can You See at Once?",
+    "sec": 1591
+   },
+   {
+    "id": "W9ksbh88OJs",
+    "title": "Proving the Earth is not Flat - Part 1 - The Horizon",
+    "sec": 957
+   },
+   {
+    "id": "McdMMmclGVc",
+    "title": "Convex Earth the Documentary /DAKILA PESQUISAS",
+    "sec": 5577
+   },
+   {
+    "id": "3CyN8rYdX6g",
+    "title": "What If the Earth Does Not Exist?",
+    "sec": 1373
+   },
+   {
+    "id": "IJhgZBn-LHg",
+    "title": "How Earth Moves",
+    "sec": 1297
+   },
+   {
+    "id": "NGZEXkSX9wI",
+    "title": "Proving the Earth is not Flat - Part 2 - The Stars",
+    "sec": 1048
+   },
+   {
+    "id": "wgSZA3NPpBs",
+    "title": "Is the Universe a Simulation? | 2016 Isaac Asimov Memorial Debate",
+    "sec": 7259
+   },
+   {
+    "id": "vdW9XDBuxjU",
+    "title": "Geometric Unity - A Theory of Everything (Eric Weinstein) | AI Podcast Clips",
+    "sec": 3298
+   },
+   {
+    "id": "Kas0tIxDvrg",
+    "title": "Exponential growth and epidemics",
+    "sec": 537
+   },
+   {
+    "id": "8idr1WZ1A7Q",
+    "title": "Binomial distributions | Probabilities of probabilities, part 1",
+    "sec": 754
+   },
+   {
+    "id": "tek8-LtMgss",
+    "title": "Joe Rogan - Eddie Bravo Goes DEEP on Flat Earth",
+    "sec": 3775
+   },
+   {
+    "id": "ZdfQQ9wWdF4",
+    "title": "Why Are Astronauts still lying",
+    "sec": 585
+   },
+   {
+    "id": "739tUjf43M4",
+    "title": "* Astronomer Proves the Earth is Round NOT Flat and the Bible to be 100% TRUE!!  *",
+    "sec": 10421
+   },
+   {
+    "id": "237F1_aLXZ8",
+    "title": "The Real Secrets Hidden in Antarctica... Revealed",
+    "sec": 2674
+   },
+   {
+    "id": "e5qJYwfAju8",
+    "title": "Lloyd Pye   Everything You Know Is Wrong",
+    "sec": 7115
+   },
+   {
+    "id": "MTKHqfloB7Q",
+    "title": "Apollo - Atmospheric Entry Phase (1968)",
+    "sec": 1532
+   },
+   {
+    "id": "SS5X5BkIKpM",
+    "title": "AT&T Archives: The Far Sound, a History of Long and Longer Distance Communications, from 1961",
+    "sec": 1612
+   },
+   {
+    "id": "FY74AFQl2qQ",
+    "title": "Sonic Geometry: The Language of Frequency and Form",
+    "sec": 1932
+   },
+   {
+    "id": "ifk6iuLQk28",
+    "title": "Biology of a tree",
+    "sec": 139
+   },
+   {
+    "id": "gLZJlf5rHVs",
+    "title": "What If Earth got Kicked Out of the Solar System? Rogue Earth",
+    "sec": 600
+   },
+   {
+    "id": "LXr-DFr5vgI",
+    "title": "Swirled Series November 2020",
+    "sec": 364
+   },
+   {
+    "id": "wdSkNWlJxtE",
+    "title": "Sacred Geometry 201-WC01: Spinning A Merkaba Field",
+    "sec": 210
+   },
+   {
+    "id": "JT66q4_3610",
+    "title": "The Truth - Deaf Ears",
+    "sec": 449
+   },
+   {
+    "id": "ILop3Kn3JO8",
+    "title": "LA SPEED STORY - SR-71 Pilot Brian Shul USAF (Ret.)",
+    "sec": 358
+   },
+   {
+    "id": "xTJYNq4GQAE",
+    "title": "The SR-71 \"Buzzing the tower\"  story you probably never heard before",
+    "sec": 330
+   },
+   {
+    "id": "oxN8QKGPJ7I",
+    "title": "Terence McKenna - Lunar Time",
+    "sec": 483
+   },
+   {
+    "id": "JELgfanNIPg",
+    "title": "Strange sighting in the Las Vegas sky",
+    "sec": 198
+   },
+   {
+    "id": "gn4bvjMh4vc",
+    "title": "A Theory You've Never Heard Of | Michael Robinson | TEDxUniversityofHartford",
+    "sec": 1062
+   },
+   {
+    "id": "kTXTPe3wahc",
+    "title": "Why Parallel Universes Are Probably Real",
+    "sec": 1200
+   },
+   {
+    "id": "KdDNfTREQJU",
+    "title": "Why Does Anything Exist? Zero Ontology, Physical Information, and Pure Awareness",
+    "sec": 3787
+   },
+   {
+    "id": "evQsOFQju08",
+    "title": "Is Your Red The Same as My Red?",
+    "sec": 575
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PLzg5AVBlauohmYXgyzTQCbbPFaCJhydzE",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "JD Casper - Living Dreams",
+  "count": "51",
+  "feed_title": "JD Casper - Living Dreams",
+  "videos": [
+   "aayL2NnQ__k",
+   "Qo3rldENm8s",
+   "t0XLeltvWSE",
+   "i-8nS6uzXD8",
+   "f4kqgGQobuA",
+   "mF5zQ3s2QUQ",
+   "3xWhoE_O8ns",
+   "gies8MKt3M8",
+   "_IcAHPsFHg4",
+   "Z7IoIsFm0DI",
+   "LdpDUlJ42Xk",
+   "hURIo7UyIdY",
+   "g4DZCFrKz_E",
+   "lbY5Smu56DY",
+   "pf_n45ljXTw"
+  ],
+  "video_titles": [
+   "JD Casper - Ballad of Johnny Hobo | Treehouse Sessions",
+   "JD Casper - Everlast | Treehouse Sessions",
+   "No Regrets- JD Casper Live @ Silver Jacket Audio",
+   "Take A Risk- JD Casper",
+   "Ballad of Johnny Hobo- JD Casper",
+   "JD Casper &amp; Jared Hill \u201cHow To Save a Life\u201d cover",
+   "JD Casper covers &quot;Home&quot; at The Library",
+   "Coney Island- Good Old War",
+   "Wagon Wheel banjo cover",
+   "Murder in the City cover",
+   "I would be sad- Avett Brothers (95 Tacoma Sessions)",
+   "Follow you into the dark- Jake",
+   "Home - Phillip Phillips cover",
+   "Living In The Past- JD Casper",
+   "JD Casper \u2013 Living In The Past"
+  ],
+  "playlist_videos": [
+   {
+    "id": "aayL2NnQ__k",
+    "title": "JD Casper - Ballad of Johnny Hobo | Treehouse Sessions",
+    "sec": 207
+   },
+   {
+    "id": "Qo3rldENm8s",
+    "title": "JD Casper - Everlast | Treehouse Sessions",
+    "sec": 173
+   },
+   {
+    "id": "t0XLeltvWSE",
+    "title": "No Regrets- JD Casper Live @ Silver Jacket Audio",
+    "sec": 164
+   },
+   {
+    "id": "i-8nS6uzXD8",
+    "title": "Take A Risk- JD Casper",
+    "sec": 245
+   },
+   {
+    "id": "f4kqgGQobuA",
+    "title": "Ballad of Johnny Hobo- JD Casper",
+    "sec": 216
+   },
+   {
+    "id": "mF5zQ3s2QUQ",
+    "title": "JD Casper & Jared Hill \u201cHow To Save a Life\u201d cover",
+    "sec": 150
+   },
+   {
+    "id": "3xWhoE_O8ns",
+    "title": "JD Casper covers \"Home\" at The Library",
+    "sec": 115
+   },
+   {
+    "id": "gies8MKt3M8",
+    "title": "Coney Island- Good Old War",
+    "sec": 181
+   },
+   {
+    "id": "_IcAHPsFHg4",
+    "title": "Wagon Wheel banjo cover",
+    "sec": 305
+   },
+   {
+    "id": "Z7IoIsFm0DI",
+    "title": "Murder in the City cover",
+    "sec": 176
+   },
+   {
+    "id": "LdpDUlJ42Xk",
+    "title": "I would be sad- Avett Brothers (95 Tacoma Sessions)",
+    "sec": 227
+   },
+   {
+    "id": "hURIo7UyIdY",
+    "title": "Follow you into the dark- Jake",
+    "sec": 223
+   },
+   {
+    "id": "g4DZCFrKz_E",
+    "title": "Home - Phillip Phillips cover",
+    "sec": 215
+   },
+   {
+    "id": "lbY5Smu56DY",
+    "title": "Living In The Past- JD Casper",
+    "sec": 244
+   },
+   {
+    "id": "pf_n45ljXTw",
+    "title": "JD Casper \u2013 Living In The Past",
+    "sec": 241
+   },
+   {
+    "id": "CehhUtLtQz4",
+    "title": "Gem on VHS/ Gem In The Rough Contest- JD Casper- Ballad Of Johnny Hobo",
+    "sec": 229
+   },
+   {
+    "id": "6EI0QsyY56k",
+    "title": "Curious Jones Podcast #3  - JD Casper Talks Late Night TV, John Lennon & Famous Assassinations Clip",
+    "sec": 788
+   },
+   {
+    "id": "WGhCuk-LBK0",
+    "title": "JD Casper - Live At The Beez Kneez",
+    "sec": 1053
+   },
+   {
+    "id": "b_aj9LPE0Fk",
+    "title": "Sink Like a Stone - JD Casper",
+    "sec": 223
+   },
+   {
+    "id": "HcGhismc9iQ",
+    "title": "\u201cChristmas Day\u201d By JD Casper performed Live @ Orb Recording Studios in Austin, TX",
+    "sec": 197
+   },
+   {
+    "id": "okhzIpgLRGo",
+    "title": "\u201cHigh & Dry\u201d Radiohead cover by JD Casper",
+    "sec": 304
+   },
+   {
+    "id": "bmMEfciEIlY",
+    "title": "JD Casper Wake Me Up",
+    "sec": 223
+   },
+   {
+    "id": "y23qeZ9BkZI",
+    "title": "\u201cHalf Moon Bay\u201d By JD Casper- Performed Live @ Bangers Beer Garden @ SXSW \u2014ORIGINAL SONG",
+    "sec": 254
+   },
+   {
+    "id": "M5iEBUL5DKw",
+    "title": "NIRVANA GOES BLUEGRASS \u201cAll Apologies\u201d covered by JD Casper",
+    "sec": 258
+   },
+   {
+    "id": "f9TzVeIGzRY",
+    "title": "\u201cI\u2019ll Stick Around\u201d by JD Casper",
+    "sec": 230
+   },
+   {
+    "id": "EK5IYB27bG8",
+    "title": "\u201cI\u2019ll Stick Around\u201d ORIGINAL SONG performed live by JD Casper @ Orb Recording Studios in ATX",
+    "sec": 216
+   },
+   {
+    "id": "6AbwuSlnpGw",
+    "title": "Lonely Boy/ Running Down a Dream cover by JD Casper.",
+    "sec": 357
+   },
+   {
+    "id": "Exp0XGCawFE",
+    "title": "The Killers-GRASS \u201cAll These Things I\u2019ve Done\u201d Covered by JD Casper LIVE @ Orb Recording Studios ATX",
+    "sec": 228
+   },
+   {
+    "id": "26jBXhWfDJQ",
+    "title": "TURNPIKE\u2019s Diamonds & Gasoline covered by JD Casper",
+    "sec": 192
+   },
+   {
+    "id": "ZqAGwgVN0_k",
+    "title": "\u201cZippo\u201d ORIGINAL SONG performed live by JD Casper @ Orb Recording Studios",
+    "sec": 197
+   },
+   {
+    "id": "N0Bt1cui7gE",
+    "title": "\u201cSing\u2019n Pick\u2019n Cowboy\u201d (Grass Version) Live from Bangers Green Room",
+    "sec": 219
+   },
+   {
+    "id": "yXGf2eDMHWw",
+    "title": "\u201cWalkin\u2019 With The Devil\u201d (ORIGINAL SONG) Performed Lived by JD Casper",
+    "sec": 246
+   },
+   {
+    "id": "w0ZplGdvjNE",
+    "title": "\u201cEverlasting\u201d ORIGINAL SONG (Piano Version) Written & Performed by JD Casper",
+    "sec": 192
+   },
+   {
+    "id": "D_znVBVZ_N4",
+    "title": "\u201cSing\u2019n Pick\u2019n Cowboy\u201d ORIGINAL SONG Performed Live by JD Casper @ Bangers ATX",
+    "sec": 286
+   },
+   {
+    "id": "RpB9OxVBcC0",
+    "title": "\u201c11:11\u201d by JD Casper ORIGINAL SONG/VIDEO",
+    "sec": 253
+   },
+   {
+    "id": "KhyB-PhkH-E",
+    "title": "JD CASPER LIVE @ LAMBERTS BBQ IN AUSTIN, TX",
+    "sec": 820
+   },
+   {
+    "id": "JQRqsXIb-kE",
+    "title": "\u201cSink Like a Stone\u201d ORIGINAL SONG Performed Live By JD Casper @ Bangers ATX",
+    "sec": 204
+   },
+   {
+    "id": "PqJ3ExdfAV0",
+    "title": "EMOGRASS (Grass That Cuts Itself) \u201cAdam\u2019s Song\u201d -Blink-182 covered LIVE by JD CASPER",
+    "sec": 203
+   },
+   {
+    "id": "uJptvqxaYqE",
+    "title": "JD Casper \u2013 \u201c7&7\u201d (Turnpike Troubadours Cover) | Live at Orb Recording Studios",
+    "sec": 221
+   },
+   {
+    "id": "Bubrp4OKUEY",
+    "title": "Curious Jones Podcast #54 - JD Casper - \"The Voice\" S.21 Contestant, Austin, TX based Songwriter",
+    "sec": 5822
+   },
+   {
+    "id": "k_jOoXuAyRc",
+    "title": "The Voice Contestant JD Casper Talks Taking Your Shot - Curious Jones Podcast Episode 54",
+    "sec": 112
+   },
+   {
+    "id": "hA3TO9FzLuA",
+    "title": "Curious Jones Podcast #3 - JD Casper Talking About Performing on Cruise Ships - Clip",
+    "sec": 59
+   },
+   {
+    "id": "0jJrzFLyF6s",
+    "title": "Curious Jones Podcast #3 - JD Casper Discusses Navy Littering in the Ocean - Clip",
+    "sec": 220
+   },
+   {
+    "id": "cN6QfLILn1E",
+    "title": "Dave McGarry Still Playing the Drums with J D Casper",
+    "sec": 49
+   },
+   {
+    "id": "QUCXl8HEc8M",
+    "title": "\u201cWhite House Road\u201d written by Tyler Childers covered by JD Casper Live in Austin, TX",
+    "sec": 208
+   },
+   {
+    "id": "Xutj8bk8Dqw",
+    "title": "\u201cWildflowers\u201d cover by JD Casper -Live @ Orb Recording Studios, Austin, TX",
+    "sec": 144
+   },
+   {
+    "id": "M0XYeabYhwg",
+    "title": "\u201cGolden Hair\u201d by JD Casper Live @ Bangers in Austin, TX",
+    "sec": 229
+   },
+   {
+    "id": "VjYaIvI2PvA",
+    "title": "EMOGRASS (Grass That Cuts Itself) \u201cOkay, I Believe But My Tommy Gun Don\u2019t\u201d by Brand New",
+    "sec": 217
+   }
+  ]
+ },
+ {
+  "account": "11cambrose",
+  "kind": "playlist",
+  "id": "PL4CE0E27ADB8B4318",
+  "channel_id": "UCHp4nhbMynPwl_cP1Lc9PNA",
+  "title": "irie",
+  "count": "6",
+  "feed_title": "irie",
+  "videos": [
+   "26nmL_JQc7Y",
+   "OSOPOdg0stg",
+   "ja3MYs9HD_M",
+   "RseyMgWNIfY",
+   "3XmWX75P3o8",
+   "b2d6IUKJA7A"
+  ],
+  "video_titles": [
+   "Wisepenny - Irie",
+   "Mistake - Irie",
+   "Take a Breath - Irie",
+   "Bound to Get Burned - Taylor Brinker",
+   "Wiseman slightly stoopid cover - Taylor Brinker",
+   "How Things Go - Irie"
+  ],
+  "playlist_videos": [
+   {
+    "id": "26nmL_JQc7Y",
+    "title": "Wisepenny - Irie",
+    "sec": 168
+   },
+   {
+    "id": "OSOPOdg0stg",
+    "title": "Mistake - Irie",
+    "sec": 176
+   },
+   {
+    "id": "ja3MYs9HD_M",
+    "title": "Take a Breath - Irie",
+    "sec": 241
+   },
+   {
+    "id": "RseyMgWNIfY",
+    "title": "Bound to Get Burned - Taylor Brinker",
+    "sec": 157
+   },
+   {
+    "id": "3XmWX75P3o8",
+    "title": "Wiseman slightly stoopid cover - Taylor Brinker",
+    "sec": 135
+   },
+   {
+    "id": "b2d6IUKJA7A",
+    "title": "How Things Go - Irie",
+    "sec": 200
+   }
+  ]
+ }
+]

@@ -1,0 +1,126 @@
+# CFD TV — Developer QA
+# QA kit lives in qa/ (see qa/README.md). Same commands run locally on the box, the Mac, or here.
+# Runs on every PR (including drafts) and by hand. The nightly live ID sweep only fires
+# once this file is on main (GitHub only runs schedules from the default branch).
+# Read-only: no deploy, no Pages, no comments, no issues.
+
+name: CFD TV QA
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  workflow_dispatch:
+    inputs:
+      live_ids:
+        description: "Also re-check every YouTube/Spotify ID live against oEmbed"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "17 11 * * *"   # 11:17 UTC = 6:17 am CDT / 5:17 am CST
+
+permissions:
+  contents: read
+
+concurrency:
+  group: qa-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  NODE_VERSION: "22"
+  PYTHON_VERSION: "3.12"
+
+jobs:
+  data:
+    name: Data contract (schema, lanes, clock, DST, offline IDs)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+          cache-dependency-path: qa/package-lock.json
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      - name: Install QA deps
+        working-directory: qa
+        run: npm ci --no-audit --no-fund
+      - name: JSON schema + invariants (unique CH numbers, lane contract, 24h clock coverage)
+        run: node qa/validate.mjs . qa/channels.schema.json
+      - name: Central-time helpers across DST (run under four machine time zones)
+        run: |
+          for tz in America/Chicago UTC Asia/Tokyo America/Los_Angeles; do
+            echo "::group::TZ=$tz"
+            TZ=$tz node qa/dst-check.mjs .
+            echo "::endgroup::"
+          done
+      - name: Broken-ID check against verify/ snapshots
+        run: python qa/check_ids.py --root . --out ids-offline.json
+      - uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: data-report
+          path: ids-offline.json
+
+  smoke:
+    name: Headless Chrome smoke (${{ matrix.embeds }})
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    needs: data
+    strategy:
+      fail-fast: false
+      matrix:
+        embeds: [allowed, blocked]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+          cache-dependency-path: qa/package-lock.json
+      - name: Install QA deps
+        working-directory: qa
+        run: npm ci --no-audit --no-fund
+      - name: Chrome path
+        id: chrome
+        run: echo "path=$(command -v google-chrome || command -v google-chrome-stable)" >> "$GITHUB_OUTPUT"
+      - name: Serve the static site
+        run: |
+          python3 -m http.server 8000 --bind 127.0.0.1 > /tmp/serve.log 2>&1 &
+          for i in $(seq 1 20); do curl -sf http://127.0.0.1:8000/ > /dev/null && break; sleep 0.5; done
+      - name: Smoke
+        working-directory: qa
+        env:
+          CHROME_PATH: ${{ steps.chrome.outputs.path }}
+          QA_NODE_MODULES: ${{ github.workspace }}/qa/node_modules
+        run: |
+          FLAG=""
+          if [ "${{ matrix.embeds }}" = "blocked" ]; then FLAG="--block-embeds"; fi
+          node smoke.mjs http://127.0.0.1:8000 $FLAG --known known-fails.json --out "$GITHUB_WORKSPACE/smoke-${{ matrix.embeds }}.json"
+      - uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: smoke-${{ matrix.embeds }}
+          path: |
+            smoke-${{ matrix.embeds }}.json
+            smoke-${{ matrix.embeds }}-mobile.png
+
+  live-ids:
+    name: Live broken-ID sweep (YouTube + Spotify oEmbed)
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.live_ids)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      - name: Re-hit every ID
+        run: python qa/check_ids.py --root . --live --workers 6 --out ids-live.json
+      - uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: ids-live
+          path: ids-live.json
