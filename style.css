@@ -23,6 +23,8 @@ a{color:var(--coffee)}
 #card ul{padding-left:1.1em;margin:.3em 0}
 #card li{margin:.15em 0}
 #card .muted,.muted{color:var(--mut)}
+#card .blocked-msg{background:#2a1d10;border:1px solid var(--coffee);border-radius:8px;padding:.7rem .9rem}
+#card .watch{font-weight:700}
 #static{position:absolute;inset:0;pointer-events:none;opacity:0;background:repeating-radial-gradient(#fff 0 1px,#000 1px 2px);background-size:3px 3px;mix-blend-mode:screen;transition:opacity .15s}
 #static.on{opacity:.55;animation:jitter .12s steps(3) infinite}
 @keyframes jitter{0%{background-position:0 0}50%{background-position:2px 1px}100%{background-position:-1px 2px}}
@@ -39,7 +41,7 @@ a{color:var(--coffee)}
 #btnStart{font-size:1.2rem;padding:.6em 1.6em;background:var(--coffee);color:#111;border:0;font-weight:700}
 .hint{font-size:.85rem;color:var(--mut)!important}
 #remote{display:flex;gap:.5rem;margin-top:.6rem}
-#remote button{min-width:5rem;padding:.6em 1em}
+#remote button{min-width:5rem;min-height:44px;padding:.6em 1em}
 #pad{position:fixed;inset:auto 0 0 0;background:#111;border-top:1px solid var(--line);padding:1rem;z-index:20}
 .pad-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem;max-width:320px;margin:auto}
 .pad-grid button{padding:.9em;font-size:1.2rem}
@@ -86,4 +88,9 @@ a{color:var(--coffee)}
   .osd-num{font-size:1.6rem}
   .blk{grid-template-columns:5.8rem 1fr}.blk .ch{display:none}
   #topbar{gap:.5rem;padding:.4rem .6rem}.topnav button{padding:.35em .55em;font-size:.85rem}
+}
+/* QA-3: every tap target at least 44x44 on phones and other touch screens */
+@media (max-width:760px),(pointer:coarse){
+  button{min-height:44px;min-width:44px}
+  .lane li{min-height:44px;align-items:center}
 }

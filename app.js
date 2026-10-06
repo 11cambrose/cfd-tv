@@ -5,17 +5,21 @@ const TZ='America/Chicago';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let DATA=null,HL=null,CH=[],cur=-1,player=null,ytReady=false,muted=true,started=false,osdTimer=0,numBuf='',numTimer=0,tickTimer=0,bad=new Set();
-let ANCHOR=0;
+let ANCHOR=0,ytState='loading'; // 'loading' | 'ready' | 'blocked'
+const YT_TIMEOUT_MS=8000;
 
 /* ---------- Central-time helpers ---------- */
 const fmtParts=new Intl.DateTimeFormat('en-US',{timeZone:TZ,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'});
 function ct(d){const p={};for(const x of fmtParts.formatToParts(d||new Date()))p[x.type]=x.value;
   return {y:+p.year,m:+p.month,d:+p.day,h:+p.hour%24,mi:+p.minute,s:+p.second,ymd:`${p.year}-${p.month}-${p.day}`,mmdd:`${p.month}${p.day}`};}
 function ctOffsetMs(d){const p=ct(d);return Date.UTC(p.y,p.m-1,p.d,p.h,p.mi,p.s)-Math.floor(d.getTime()/1000)*1000;}
-function ctTimeToDate(ymd,hhmm){ // "2026-10-06","04:35" -> Date (handles DST by re-checking offset)
+function ctTimeToDate(ymd,hhmm){ // "2026-10-06","04:35" -> Date. DST-safe: re-checks the offset at the guessed instant,
+  // so times before 2 am on switch days (Nov 1 2026, Mar 14 2027) use the offset actually in force then.
   const [Y,M,D]=ymd.split('-').map(Number);let [h,mi]=hhmm.split(':').map(Number);
-  let guess=Date.UTC(Y,M-1,D,h,mi)-ctOffsetMs(new Date(Date.UTC(Y,M-1,D,12)));
-  return new Date(guess);}
+  const wall=Date.UTC(Y,M-1,D,h,mi);
+  const g1=wall-ctOffsetMs(new Date(Date.UTC(Y,M-1,D,12)));
+  const g2=wall-ctOffsetMs(new Date(g1));
+  return new Date(ctOffsetMs(new Date(g2))===wall-g2?g2:g1);} // g1 only for wall times that don't exist (spring-forward gap)
 const fmtTime=d=>d.toLocaleTimeString('en-US',{timeZone:TZ,hour:'numeric',minute:'2-digit'});
 function hm(s){s=Math.max(0,Math.round(s));const h=Math.floor(s/3600),m=Math.floor(s%3600/60);return h?`${h}h ${m}m`:`${m}m`;}
 
@@ -42,9 +46,17 @@ async function load(){
 }
 
 /* ---------- YouTube ---------- */
-function loadYT(){return new Promise(res=>{if(window.YT&&YT.Player)return res();window.onYouTubeIframeAPIReady=res;const s=document.createElement('script');s.src='https://www.youtube.com/iframe_api';document.head.appendChild(s);});}
-function makePlayer(){return new Promise(res=>{player=new YT.Player('yt',{width:'100%',height:'100%',playerVars:{autoplay:1,mute:1,controls:0,rel:0,playsinline:1,modestbranding:1,iv_load_policy:3,disablekb:1},
-  events:{onReady:()=>{ytReady=true;res();},onStateChange:e=>{if(e.data===0)tune(cur,true);},onError:e=>{const c=CH[cur];if(c&&c.type==='youtube'){const a=ytAt(c,Date.now());if(a){bad.add(a.video[0]);}tune(cur,true);}}}});});}
+function withTimeout(p,ms,what){return Promise.race([p,new Promise((_,rej)=>setTimeout(()=>rej(new Error(what+' timed out after '+ms+' ms')),ms))]);}
+function loadYT(){return withTimeout(new Promise((res,rej)=>{if(window.YT&&YT.Player)return res();window.onYouTubeIframeAPIReady=res;const s=document.createElement('script');s.src='https://www.youtube.com/iframe_api';s.onerror=()=>rej(new Error('YouTube iframe API blocked'));document.head.appendChild(s);}),YT_TIMEOUT_MS,'YouTube iframe API');}
+function makePlayer(){return withTimeout(new Promise(res=>{player=new YT.Player('yt',{width:'100%',height:'100%',playerVars:{autoplay:1,mute:1,controls:0,rel:0,playsinline:1,modestbranding:1,iv_load_policy:3,disablekb:1},
+  events:{onReady:()=>{ytReady=true;res();},onStateChange:e=>{if(e.data===0)tune(cur,true);},onError:e=>{const c=CH[cur];if(c&&c.type==='youtube'){const a=ytAt(c,Date.now());if(a){bad.add(a.video[0]);}tune(cur,true);}}}});}),YT_TIMEOUT_MS,'YouTube player');}
+function ytBlockedCard(c,a,now){const card=$('#card');card.className=c.lane+' blocked';card.hidden=false;
+  const v=a.video,watch=`https://www.youtube.com/watch?v=${encodeURIComponent(v[0])}&t=${Math.floor(a.offset)}s`;
+  const src=(c.sources||[])[0];
+  card.innerHTML=`<h2>${esc(c.name)}</h2><p class="blocked-msg" role="status"><b>YouTube is blocked on this network.</b> The guide, the Tonight grid and the Spotify and highlight channels still work.</p>`+
+    `<p>On now: <a class="watch" href="${esc(watch)}" target="_blank" rel="noopener">${esc(v[2])} — open on YouTube ↗</a> <span class="muted">(${hm((a.end-now)/1000)} left)</span></p>`+
+    (src&&src.url?`<p class="muted">Channel source: <a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)}</a></p>`:'')+
+    `<p class="muted">Try another channel with CH ▲ ▼, or open CFD TV on a home network or phone data.</p>`;}
 
 /* ---------- tuning ---------- */
 function staticFlash(){const s=$('#static');s.classList.add('on');setTimeout(()=>s.classList.remove('on'),380);}
@@ -57,9 +69,11 @@ function tune(i,quiet){
   history.replaceState(null,'','?ch='+c.num);
   document.querySelectorAll('.lane li').forEach(li=>li.classList.toggle('on',+li.dataset.n===c.num));
   if(c.type==='youtube'){
-    const a=ytAt(c,now);hideAll();$('#ytwrap').style.visibility='visible';
-    if(ytReady){player.loadVideoById({videoId:a.video[0],startSeconds:Math.floor(a.offset)});if(muted)player.mute();else player.unMute();}
-    showOSD(c,`${a.video[2]} · ${hm((a.end-now)/1000)} left`);
+    const a=ytAt(c,now);hideAll();
+    if(ytState==='blocked'){ytBlockedCard(c,a,now);showOSD(c,'YouTube blocked on this network · open on YouTube');}
+    else{$('#ytwrap').style.visibility='visible';
+      if(ytReady){player.loadVideoById({videoId:a.video[0],startSeconds:Math.floor(a.offset)});if(muted)player.mute();else player.unMute();}
+      showOSD(c,`${a.video[2]} · ${hm((a.end-now)/1000)} left${ytState==='loading'?' · loading player…':''}`);}
   } else if(c.type==='spotify'){
     hideAll();let p,note;const t=ct();
     if(c.mode==='dice'){const d=diceToday(c,t.ymd);const r=(d.today[0]||d.landed[0]||c.dice[0]);p=[r.id,r.title];note=d.today.length?'Lands today':`Last landing ${d.last||'none yet'}`;}
@@ -171,10 +185,12 @@ function tick(){const t=ct();const d=new Date();$('#clock').textContent=fmtTime(
   bind();tickTimer=setInterval(tick,1000);tick();
   try{await load();}catch(e){$('#osdName').textContent='channels.json failed to load';console.error(e);return;}
   renderGuide();
-  try{await loadYT();await makePlayer();}catch(e){console.warn('YouTube API unavailable',e);}
-  if(started){const n=parseInt(new URLSearchParams(location.search).get('ch')||'19',10);const i=CH.findIndex(c=>c.num===n);tune(cur>=0?cur:(i>=0?i:0),true);}
+  // Guide, ?epg and the deep-link hint never wait on YouTube (QA-1).
   const q=new URLSearchParams(location.search);if(q.get('ch'))$('#splash').querySelector('p').textContent=`Channel ${q.get('ch')} is waiting.`;
   if(q.has('epg'))toggle('epg',true);
+  try{await loadYT();await makePlayer();ytState='ready';}
+  catch(e){ytState='blocked';document.documentElement.classList.add('yt-blocked');console.warn('YouTube unavailable, showing link-out cards:',e.message);}
+  if(started){const n=parseInt(q.get('ch')||'19',10);const i=CH.findIndex(c=>c.num===n);tune(cur>=0?cur:(i>=0?i:0),true);}
 })();
-window.CFDTV={ct,ytAt,spHourly,forecast,get data(){return DATA;},get channels(){return CH;},tune,goNum};
+window.CFDTV={ct,ctTimeToDate,get ytState(){return ytState;},ytAt,spHourly,forecast,get data(){return DATA;},get channels(){return CH;},tune,goNum};
 })();
